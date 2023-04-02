@@ -4,7 +4,7 @@
       "name": "ZLIVE",
       "type": 0,
       "url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/ZLIVE.txt",
-       "epg": "https://diy.112114.xyz/?ch={name}&date={date}"
+       "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
     },
   {
       "name": "SP",
