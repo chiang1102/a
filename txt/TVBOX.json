@@ -3,12 +3,12 @@
     {
       "name": "ZLIVE",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/chiang1102/a/main/txt/ZLIVE.txt?token=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"
+      "url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/ZLIVE.txt"
     },
   {
       "name": "SP",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/chiang1102/a/main/txt/SP.txt?token=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"
+      "url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/SP.txt"
     }
   ],
   "sites": [
@@ -42,5 +42,5 @@
     }
   ],
   "wallpaper": "https://gao.chuqiuyu.tk",
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;89f3b48308be53927963f843817027d6"
+  "spider": "  https://raw.githubusercontent.com/chiang1102/a/main/jar/custom_spider.jar;md5;89f3b48308be53927963f843817027d6"
 }
