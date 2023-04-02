@@ -94,8 +94,6 @@ TVBS新聞,zlive://173.208.209.114:7719/f025fd26c0953b8931be3d29ab7a4a8c
 東森財經新聞,zlive://173.208.209.114:7719/ae8e36a4143055dde21ec1cb5a55d6fb
 寰宇臺灣台,zlive://173.208.209.114:7719/5dd7839861953645d87d9af4a7afd39d
 寰宇新聞台,zlive://173.208.209.114:7719/f7a5954d1aa3b73bc7b5740123fe9822
-寰宇新聞台,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
-寰宇國際新聞,http://2023.stream-link.org/playlist/global_news.flv
 非凡新聞台,zlive://173.208.209.114:7719/00424222992c33875f094c2b5b71b0e5
 台視新聞台,zlive://173.208.209.114:7719/afc42cc8d9bbb309851d11b3b64129fd
 台視財經,zlive://173.208.209.114:7719/1ed95bd31b8fad3fa5c044350661e0b5
