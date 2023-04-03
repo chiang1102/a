@@ -1,6 +1,6 @@
 台灣綜合,#genre#
-三立都會台,zlive://173.208.209.114:7719/dbe6cc6e993a17df8d02ccd1eb841f12
 三立都會台,https://epg.pw/stream/6ebd77dd2cf92af699c1bcb91e7bd75ffae72dfe3c30e59619c6c05cff653a5f.m3u8
+三立都會台,zlive://173.208.209.114:7719/dbe6cc6e993a17df8d02ccd1eb841f12
 三立臺灣台,zlive://173.208.209.114:7719/e5ebd666b27b0eacc614b2da9010dea4
 三立綜合台,zlive://173.208.209.114:7719/093447a9b2867631105787c28d323aaa
 東森綜合,zlive://173.208.209.114:7719/639600a617afdb52d5a9ae5edc193fdf
