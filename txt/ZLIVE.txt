@@ -1,6 +1,6 @@
 台灣綜合,#genre#
-三立都會台,https://epg.pw/stream/6ebd77dd2cf92af699c1bcb91e7bd75ffae72dfe3c30e59619c6c05cff653a5f.m3u8
 三立都會台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
+三立都會台,https://epg.pw/stream/6ebd77dd2cf92af699c1bcb91e7bd75ffae72dfe3c30e59619c6c05cff653a5f.m3u8
 三立都會台,zlive://173.208.209.114:7719/dbe6cc6e993a17df8d02ccd1eb841f12
 三立臺灣台,zlive://173.208.209.114:7719/e5ebd666b27b0eacc614b2da9010dea4
 三立綜合台,zlive://173.208.209.114:7719/093447a9b2867631105787c28d323aaa
