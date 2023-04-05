@@ -1,5 +1,6 @@
 台灣綜合,#genre#
 三立都會台,https://epg.pw/stream/6ebd77dd2cf92af699c1bcb91e7bd75ffae72dfe3c30e59619c6c05cff653a5f.m3u8
+三立都會台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=90072009
 三立都會台,zlive://173.208.209.114:7719/dbe6cc6e993a17df8d02ccd1eb841f12
 三立臺灣台,zlive://173.208.209.114:7719/e5ebd666b27b0eacc614b2da9010dea4
 三立綜合台,zlive://173.208.209.114:7719/093447a9b2867631105787c28d323aaa
@@ -19,6 +20,8 @@ TVBS歡樂,zlive://173.208.209.114:7719/fc5453132936752464de4b1a8027a4c9
 TVBS歡樂,zlive://173.208.209.114:7719/7db6b1246a8df8d5c93d39e2b7e3c10f
 TVBS精采台,zlive://173.208.209.114:7719/e96763054512ba9f03d400109e1ee8e7
 八大第一台,zlive://173.208.209.114:7719/16532d6baa2cd3375a2e0efa49e57a11
+八大綜合台,http://103.68.63.37:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
+八大綜合台,http://103.68.63.37:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
 八大綜合台,zlive://173.208.209.114:7719/77e95a5b0ea2b9a637127341d02cf310
 MOMO綜合,zlive://173.208.209.114:7719/a00ec56bb78fa0134c598ed8c57c39f2
 年代MUCH,zlive://173.208.209.114:7719/2fbc53ad4aa7862d2eae12e3f23ca543
@@ -29,7 +32,9 @@ MOMO綜合,zlive://173.208.209.114:7719/a00ec56bb78fa0134c598ed8c57c39f2
 華視CTS,zlive://173.208.209.114:7719/4346ccaa631e8418dff04298482e9318
 民視 HD,zlive://173.208.209.114:7719/77b7ad91443422cdadb18fd72f0a4507
 民視第一台,zlive://173.208.209.114:7719/e32558f07a8a2c336b4d9120ff358b42
+公視,https://www.youtube.com/watch?v=4Uc00FPs27M
 公視,zlive://173.208.209.114:7719/1dd13c989c8c7e12c3f5ac7ce7479e20
+公視2台,https://www.youtube.com/watch?v=6KlRR_DGhmI
 公視3台,zlive://173.208.209.114:7719/9ad84bf67ab9ffcafae83b89bdc091af
 原住民,zlive://173.208.209.114:7719/41cbf52ca46cf6b01df090e0c237c654
 客家電視臺,zlive://173.208.209.114:7719/273168fc8d7b8c4768e3161fd57cab96
