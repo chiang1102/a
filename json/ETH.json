@@ -1,7 +1,6 @@
 {
 "spider": "https://github.com/JK0886449/ez/raw/main/ETH.jar",
 "lives":[
-         {"name": "ZLIVE","type": 0,"url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/ZLIVE.txt","epg": "https://diyp.112114.xyz/?ch={name}&date={date}"},
          {"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=eth"]}]}
 		],
 "rules":[
