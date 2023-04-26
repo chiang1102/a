@@ -9,8 +9,10 @@
     { 
        "name": "0425", 
        "type": 0, 
-       "url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/0425.txt", 
-        "epg": "https://diyp.112114.xyz/?ch={name}&date={date}" 
+       "url": 
+"https://raw.githubusercontent.com/chiang1102/a/main/txt/0425.txt", 
+        "epg": 
+"https://diyp.112114.xyz/?ch={name}&date={date}" 
      },
     { 
        "name": "0426", 
