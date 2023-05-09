@@ -1,13 +1,64 @@
-SP,#genre#
-松視1臺,mitv://generationnexxxt.com:19806/72e49275ae31449bb02e5e5267f5b11d
-松視2臺,mitv://generationnexxxt.com:19806/7cdd5c5cb4504303a20c29777ab92ddb
-松視3臺,mitv://generationnexxxt.com:19806/3e67c20620cd40c6afe6674920ff4cb0
-香蕉臺,mitv://generationnexxxt.com:19806/57247aea7c954ff590c5b3c2cc401071
-彩虹E臺,mitv://generationnexxxt.com:19806/a4300561216446a19f5961ee3ef2a86b
-彩虹電影,mitv://generationnexxxt.com:19806/dcca7a3ec8544bc99a653ed5e197166f
-潘朵啦玩美,mitv://generationnexxxt.com:19806/b00cc08302d742cf90f8934c6aff4922
-驚豔電影臺,mitv://generationnexxxt.com:19806/ee2b6fde117b490d97f08b8cccb53b2b
-HAPPY,mitv://generationnexxxt.com:19806/f74e07e463c74ffa900f40b8340cf39e
-JStar極限臺,mitv://generationnexxxt.com:19806/a2f3132a2bac4397bdf6b78321c5ed90
-K 頻道,mitv://generationnexxxt.com:19806/6beb5e1933904be6b31ccf69139d8bb8
-Look HD,mitv://generationnexxxt.com:19806/51905d735613441a8d1b1ba48e3d675f
+﻿18+频道,#genre#
+🌲️松視1臺,mitv://generationnexxxt.com:19806/878c994ac52a4c50a71914f559b0ddc6
+🌲️松視2臺,mitv://generationnexxxt.com:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
+🌲️松視3臺,mitv://generationnexxxt.com:19806/0045293e14224851a3e930cf0b8a07f8
+🍌️香蕉臺Banana,mitv://generationnexxxt.com:19806/cb6c40d4aea546a7b518377e7aee5fb0
+🌈️彩虹e臺,mitv://generationnexxxt.com:19806/3f5f22df9a324f759e43967b0d3ffe65
+🌈️彩虹電影,mitv://generationnexxxt.com:19806/65b9f44984e749a8b14455a173779644
+♥️潘朵啦玩美Perfec,mitv://generationnexxxt.com:19806/3f91635cf956419490d1905f7d5c6790
+♥️驚豔電影臺Amazing,mitv://generationnexxxt.com:19806/9eaea463d2f54b5d92fb34948ad0b72d
+💘️JSᴴᴰ極限臺,mitv://generationnexxxt.com:19806/a55acb84487242d882b0b53dd110b845
+💘️HAPPY,mitv://generationnexxxt.com:19806/7b02a03ce3094b4e84f883565805f3a4
+♨️K 頻道,mitv://generationnexxxt.com:19806/1aec46d506634015a1276c5e4d846976
+🏴‍️Look HD,mitv://generationnexxxt.com:19806/c8aab8c8683c4f35aba0e745535afd41
+♥️PLAYBOY,mitv://generationnexxxt.com:19806/47f99c6bdb9449a594cc0621f8980f3c
+
+🌲️松視1臺,P2p://generationnexxxt.com:19806/878c994ac52a4c50a71914f559b0ddc6
+🌲️松視2臺,P2p://generationnexxxt.com:19806/3bd5b1fec1134ecc856c965a5c0e6ff9
+🌲️松視3臺,P2p://generationnexxxt.com:19806/0045293e14224851a3e930cf0b8a07f8
+🍌️香蕉臺Banana,P2p://generationnexxxt.com:19806/cb6c40d4aea546a7b518377e7aee5fb0
+🌈️彩虹e臺,P2p://generationnexxxt.com:19806/3f5f22df9a324f759e43967b0d3ffe65
+🌈️彩虹電影,P2p://generationnexxxt.com:19806/65b9f44984e749a8b14455a173779644
+♥️潘朵啦玩美Perfec,P2p://generationnexxxt.com:19806/3f91635cf956419490d1905f7d5c6790
+♥️驚豔電影臺Amazing,P2p://generationnexxxt.com:19806/9eaea463d2f54b5d92fb34948ad0b72d
+💘️JSᴴᴰ極限臺,P2p://generationnexxxt.com:19806/a55acb84487242d882b0b53dd110b845
+💘️HAPPY,P2p://generationnexxxt.com:19806/7b02a03ce3094b4e84f883565805f3a4
+♨️K 頻道,P2p://generationnexxxt.com:19806/1aec46d506634015a1276c5e4d846976
+🏴‍️Look HD,P2p://generationnexxxt.com:19806/c8aab8c8683c4f35aba0e745535afd41
+♥️PLAYBOY,P2p://generationnexxxt.com:19806/47f99c6bdb9449a594cc0621f8980f3c
+
+Miami TV Jenny For You,http://59ec5453559f0.streamlock.net:1935/jennyforyou/jennyforyou/playlist.m3u8
+Miami TV Jenny For You,https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/playlist.m3u8
+Miami TV Jenny Live,http://59ec5453559f0.streamlock.net:1935/JennyLive/JennyLive/playlist.m3u8
+Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
+Miami TV International,http://59ec5453559f0.streamlock.net:1935/miamitv/smil:miamitv/chunklist.m3u8?fluxuslust.m3u8
+Miami TV México,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
+Miami TV México,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/chunklist_w1869403172_b1896000.m3u8
+Miami TV México,http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexico/chunklist_b1896000.m3u8
+Miami TV México,http://59ec5453559f0.streamlock.net:1935/mexicotv/smil:miamitvmexicoROKU/chunklist_b1896000.m3u8?fluxuslust.m3u8
+
+✨私密频道✨,#genre#
+atid-443 和小姨子发生了关系-深田えいみ,https://t4s.cdn2020.com/video/m3u8/2020/10/12/e25f3223/index.m3u8
+blk-470 勾引闺蜜男友-深田えいみ,https://t4s.cdn2020.com/video/m3u8/2020/09/28/22f7eda4/index.m3u8
+CAWD-120 巨根教師-深田えいみ,https://t4s.cdn2020.com/video/m3u8/2020/09/30/1fe3999f/index.m3u8
+CJOD-249 穿美性感的少妇-深田えいみ,https://t4s.cdn2020.com/video/m3u8/2020/08/08/6c3ecbc9/index.m3u8
+DASD-710 非常诱惑人的少妇-深田えいみ,https://t4s.cdn2020.com/video/m3u8/2020/08/17/8d60275f/index.m3u8
+DASD-728 禁欲一个月性欲爆棚-深田えいみ,https://t4s.cdn2020.com/video/m3u8/2020/09/30/ab7c73f4/index.m3u8
+DASD-742 睡眠姦調教-深田えいみ,https://t10.cdn2020.com:12335/video/m3u8/2021/08/09/a297a79e/index.m3u8
+DASD-754 色白巨乳娘-深田えいみ,https://t5s.cdn2020.com/video/m3u8/2020/11/21/4d8b4d4d/index.m3u8
+DASD-785 濃密情交-深田えいみ,https://t6s.cdn2020.com/video/m3u8/2021/01/06/0262f414/index.m3u8
+eyan-157 收集妊娠的精子-深田えいみ,https://t4s.cdn2020.com/video/m3u8/2020/08/17/5aab849f/index.m3u8
+eyan-158 誘惑人妻-深田えいみ,https://t4s.cdn2020.com/video/m3u8/2020/09/25/fbe77920/index.m3u8
+genm-060 秘密地在办公室里做爱-深田えいみ,https://t6s.cdn2020.com/video/m3u8/2021/01/28/0e15f4f1/index.m3u8
+HND-863 人間世界-深田えいみ,https://t4s.cdn2020.com/video/m3u8/2020/08/08/aa83fd5a/index.m3u8
+HND-893 新婚生活 深田えいみ,https://t4s.cdn2020.com/video/m3u8/2020/10/02/6cc354a8/index.m3u8
+meyd-601 冷漠的嫂子-深田えいみ,https://t4s.cdn2020.com/video/m3u8/2020/09/25/bdf1d91f/index.m3u8
+meyd-621 让嫂子怀孕-深田えいみ,https://t5s.cdn2020.com/video/m3u8/2020/10/17/611af532/index.m3u8
+MIAA-276 連射ドキュメント-深田えいみ,https://t4s.cdn2020.com/video/m3u8/2020/08/05/39c9a4a6/index.m3u8
+MIAA-293 姐姐挑衅处男弟弟-深田えいみ,https://t4s.cdn2020.com/video/m3u8/2020/09/12/79608adf/index.m3u8
+MIAA-362 男友交换-深田えいみ 久留木玲,https://t6s.cdn2020.com/video/m3u8/2020/12/28/660a084d/index.m3u8
+mide-981 体液渗漏-深田えいみ,https://t12.cdn2020.com:12337/video/m3u8/2021/10/30/28153fb3/index.m3u8
+miDV-037 痴女性交-深田えいみ,https://t16.cdn2020.com:12340/video/m3u8/2022/02/05/97ede223/index.m3u8
+mmus-038 小悪魔挑発美少女-深田えいみ,https://t13.cdn2020.com:12338/video/m3u8/2021/12/02/523f405f/index.m3u8
+mudr-125 阴暗的女孩-深田えいみ,https://t4s.cdn2020.com/video/m3u8/2020/09/28/51bcd168/index.m3u8
+mvsd-432 性処理肉便器-深田えいみ,https://t4s.cdn2020.com/video/m3u8/2020/08/11/c567f88e/index.m3u8
