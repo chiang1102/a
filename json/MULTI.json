@@ -54,7 +54,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    }
+    }, {"key":"csp_Voflix","name":"Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1}
   ],
   "wallpaper": "https://gao.chuqiuyu.tk",
   "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;89f3b48308be53927963f843817027d6"
