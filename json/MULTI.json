@@ -1,13 +1,22 @@
 {
   "lives": [
     {
-      "name": "Live",
+      "name": "SUNNY",
       "type": 0,
       "url": "https://dpaste.org/Eay0g/raw",
        "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
     }
   ],
   "sites": [
+    {
+      "key": "泥巴",
+      "name": "泥巴影視",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
     {
       "key": "haiwaikan",
       "name": "海外看",
@@ -25,7 +34,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
+    }
   ],
   "wallpaper": "https://gao.chuqiuyu.tk",
   "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;89f3b48308be53927963f843817027d6"
