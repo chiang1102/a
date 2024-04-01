@@ -9,10 +9,10 @@
   ],
   "sites": [
     {
-      "key": "泥巴",
-      "name": "泥巴影視",
-      "type": 3,
-      "api": "csp_NiNi",
+      "key": "人人",
+      "name": "人人影視",
+      "type": 0,
+      "api": "https://www.rrvipw.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
