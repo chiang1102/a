@@ -26,14 +26,6 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "人人影視", "name": "人人影視", 
-      "type": 0, 
-      "api": "https://www.rrvipw.com/api.php/provide/vod/at/xml", 
-      "searchable": 1, 
-      "quickSearch": 1, 
-      "filterable": 1
-    }
   ],
   "wallpaper": "https://gao.chuqiuyu.tk",
   "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;89f3b48308be53927963f843817027d6"
