@@ -1,7 +1,7 @@
 {
   "lives": [
     {
-      "name": "SUNNY",
+      "name": "直播",
       "type": 0,
       "url": "https://dpaste.org/Eay0g/raw",
        "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
