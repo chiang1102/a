@@ -11,7 +11,7 @@
     {
       "key": "haiwaikan",
       "name": "海外看",
-      "type": 1,
+      "type": 0,
       "api": "https://haiwaikan.com/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
@@ -20,7 +20,7 @@
     {
       "key": "inmi",
       "name": "映迷",
-      "type": 1,
+      "type": 0,
       "api": "https://www.inmi.app/api.php/provide/vod/at/xml",
       "searchable": 1,
       "quickSearch": 1,
@@ -28,10 +28,11 @@
     },
     {
       "key": "人人影視", "name": "人人影視", 
-      "type": 1, "api": "https://www.rrvipw.com/api.php/provide/vod/at/xml", 
-      "searchable": "1", 
-      "quickSearch": "1", 
-      "filterable": "1"
+      "type": 0, 
+      "api": "https://www.rrvipw.com/api.php/provide/vod/at/xml", 
+      "searchable": 1, 
+      "quickSearch": 1, 
+      "filterable": 1
     }
   ],
   "wallpaper": "https://gao.chuqiuyu.tk",
