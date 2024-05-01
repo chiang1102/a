@@ -1,18 +1,36 @@
 {
   "lives": [
     {
-      "name": "直播",
+      "name": "SUNNY",
       "type": 0,
       "url": "https://dpaste.org/Eay0g/raw",
-      "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
-    }
+       "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name": "4GTV",
+      "type": 0,
+      "url": "https://dpaste.org/Yoe91/raw",
+       "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "name":"🐵OuHua Live",
+      "url":"http://oy.oyxx-1.eu.org/p3p.php",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+     },
+     {
+      "name":"🔞OuHua CR",
+      "url":"http://oy.oyxx-1.eu.org/p3p18.php",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+     }
   ],
   "sites": [
     {
-      "key": "人人",
-      "name": "人人影視",
-      "type": 0,
-      "api": "https://www.rrvipw.com/api.php/provide/vod/at/xml",
+      "key": "泥巴",
+      "name": "泥巴影視",
+      "type": 3,
+      "api": "csp_NiNi",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -35,6 +53,10 @@
       "quickSearch": 1,
       "filterable": 1
     }
+  ],
+  "ads": [
+    "static-mozai.4gtv.tv",
+    "s3t3d2y8.afcdn.net"
   ],
   "wallpaper": "https://gao.chuqiuyu.tk",
   "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;89f3b48308be53927963f843817027d6"
