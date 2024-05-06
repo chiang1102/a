@@ -13,6 +13,12 @@
        "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
     },
     {
+      "name": "4GTV-1",
+      "type": 0,
+      "url": "https://dpaste.org/2Lrw6/raw",
+       "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
+    },
+    {
       "name":"UB Live",
       "url":"https://raw.githubusercontent.com/chiang1102/a/main/txt/UB.txt",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
