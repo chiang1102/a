@@ -7,6 +7,12 @@
        "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
     },
     {
+      "name": "焦點0511",
+      "type": 0,
+      "url": "https://dpaste.org/LpbYE/raw",
+       "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
+    },
+    {
       "name": "0509",
       "type": 0,
       "url": "https://dpaste.org/irVye/raw",
