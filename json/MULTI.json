@@ -7,6 +7,12 @@
        "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
     },
     {
+      "name": "SmartTV",
+      "type": 0,
+      "url": "https://dpaste.org/yuS0W/raw",
+       "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
+    },
+    {
       "name": "唐三0511",
       "type": 0,
       "url": "https://tang.serv00.net/zb/tv?type=169&token=6f344c14",
