@@ -4,31 +4,29 @@
       "name": "SUNNY",
       "type": 0,
       "url": "https://dpaste.org/Eay0g/raw",
-       "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "name": "SmartTV",
-      "type": 0,
-      "url": "https://dpaste.org/yuS0W/raw",
-       "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
       "name": "唐三0511",
       "type": 0,
       "url": "https://tang.serv00.net/zb/tv?type=169&token=6f344c14",
-       "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
       "name": "0509",
       "type": 0,
       "url": "https://dpaste.org/irVye/raw",
-       "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
       "name": "4GTV",
       "type": 0,
       "url": "https://dpaste.org/Yoe91/raw",
-       "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
       "name": "4GTV-1080",
