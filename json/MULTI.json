@@ -34,7 +34,8 @@
       "name": "4GTV-1080",
       "type": 0,
       "url": "https://dpaste.org/vuOrc/raw",
-       "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
       "name":"UB Live",
