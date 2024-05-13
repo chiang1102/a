@@ -80,6 +80,7 @@
       "api": "https://haiwaikan.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
+      "filterable": 1,
       "categories": [
         "日本动漫",
         "国产动漫",
