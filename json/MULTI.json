@@ -8,6 +8,13 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
+      "name": "169源",
+      "type": 0,
+      "url": "https://dpaste.org/Vz2fs/raw",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
       "name": "唐三0511",
       "type": 0,
       "url": "https://tang.hz.cz/zb/tv?type=169&token=6f344c14",
@@ -32,13 +39,6 @@
       "name": "4GTV-M",
       "type": 0,
       "url": "https://dpaste.org/ZeA0z/raw",
-      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo":"http://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
-      "name": "歐華",
-      "type": 0,
-      "url": "https://dpaste.org/PYncW/raw",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
