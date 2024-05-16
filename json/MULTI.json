@@ -74,7 +74,7 @@
     {
       "key": "haiwaikan",
       "name": "海外看",
-      "type": 0,
+      "type": 1,
       "api": "http://api.haiwaikan.com/v1/vod?ac=list",
       "searchable": 1,
       "quickSearch": 1,
