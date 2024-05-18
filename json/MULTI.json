@@ -15,13 +15,6 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "198源",
-      "type": 0,
-      "url": "https://dpaste.org/JddjE/raw",
-      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo":"http://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
       "name": "唐三0511",
       "type": 0,
       "url": "https://tang.hz.cz/zb/tv?type=169&token=6f344c14",
