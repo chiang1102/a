@@ -15,7 +15,7 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "唐三0511",
+      "name": "唐三",
       "type": 0,
       "url": "https://tang.hz.cz/zb/tv?type=169&token=6f344c14",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
@@ -36,13 +36,6 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "4GTV-1080",
-      "type": 0,
-      "url": "https://dpaste.org/9QzMA/raw",
-      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo":"http://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
       "name": "4GTV-M",
       "type": 0,
       "url": "https://dpaste.org/ZeA0z/raw",
@@ -56,12 +49,6 @@
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
-    {
-      "name":"UB Live",
-      "url":"https://raw.githubusercontent.com/chiang1102/a/main/txt/UB.txt",
-      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo":"http://epg.112114.eu.org/logo/{name}.png"
-     },
     {
       "name":"🐵OuHua Live",
       "url":"http://oy.oyxx-1.eu.org/p3p.php",
