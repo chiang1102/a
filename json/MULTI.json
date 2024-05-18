@@ -36,6 +36,13 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
+      "name": "4GTV-1080",
+      "type": 0,
+      "url": "https://dpaste.org/9QzMA/raw",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
       "name": "4GTV-M",
       "type": 0,
       "url": "https://dpaste.org/ZeA0z/raw",
