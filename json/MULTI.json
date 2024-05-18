@@ -1,9 +1,9 @@
 {
   "lives": [
     {
-      "name": "SUNNY",
+      "name": "HiStar",
       "type": 0,
-      "url": "https://dpaste.org/Eay0g/raw",
+      "url": "https://lsj.37o.xyz/histar.php?list",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
