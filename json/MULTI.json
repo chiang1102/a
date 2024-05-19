@@ -50,6 +50,13 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
+      "name": "LITV",
+      "type": 0,
+      "url": "https://dpaste.org/4LCjP/raw",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
       "name":"🐵OuHua Live",
       "url":"http://oy.oyxx-1.eu.org/p3p.php",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
