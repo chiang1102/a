@@ -50,9 +50,16 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "LITV",
+      "name": "LITV-1",
       "type": 0,
       "url": "https://dpaste.org/Qsp21/raw",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "LITV-2",
+      "type": 0,
+      "url": "https://dpaste.org/q1LnO/raw",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
