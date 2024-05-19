@@ -52,7 +52,7 @@
     {
       "name": "LITV",
       "type": 0,
-      "url": "https://dpaste.org/4LCjP/raw",
+      "url": "https://dpaste.org/Qsp21/raw",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
