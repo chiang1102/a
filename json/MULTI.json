@@ -8,13 +8,6 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "HiStar-1",
-      "type": 0,
-      "url": "https://dpaste.org/ZoF8c/raw",
-      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo":"http://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
       "name": "169源",
       "type": 0,
       "url": "https://dpaste.org/Vz2fs/raw",
