@@ -57,16 +57,9 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "LITV-1",
+      "name": "LITV",
       "type": 0,
-      "url": "https://dpaste.org/Qsp21/raw",
-      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo":"http://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
-      "name": "LITV-2",
-      "type": 0,
-      "url": "https://dpaste.org/q1LnO/raw",
+      "url": "http://debian.52sw.top:678/iptv/mt-litv.txt",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
