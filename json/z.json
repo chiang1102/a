@@ -4,12 +4,21 @@
       "url": "https://chou1966.serv00.net/543.json",
       "name": "盒子之家"
     },
-
-    
+    {
+      "url": "https://chou1966.serv00.net/18.json",
+      "name": "盒子大人"
+    },
+    {
+      "url": "https://github.com/JK0886449/ez/raw/main/320",
+      "name": "320"
+    },
+    {
+      "url": "https://github.com/JK0886449/ez/raw/main/320s",
+      "name": "320s"
+    },
     {
       "url": "https://raw.githubusercontent.com/chiang1102/a/main/json/MULTI.json",
       "name": "MULTI"
-    
     }
   ]
 }
