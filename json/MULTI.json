@@ -10,7 +10,28 @@
     {
       "name": "159169源",
       "type": 0,
-      "url": "http://www.52sw.top:678/play/oj/159169.php?get=txt",
+      "url": "http://www.52sw.top:678/play/oj/list.php?get=159169",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "焦點",
+      "type": 0,
+      "url": "http://www.52sw.top:678/play/oj/list.php?get=焦点",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "歐華",
+      "type": 0,
+      "url": "http://www.52sw.top:678/play/oj/list.php?get=欧华",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "IPTV",
+      "type": 0,
+      "url": "http://www.52sw.top:678/play/oj/list.php?get=iptv",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
