@@ -78,7 +78,7 @@
       "key": "haiwaikan1",
       "name": "海外看1",
       "type": 1,
-      "api": "https://tang.hz.cz/jx/hwk?url=https://haiwaikan.com/api.php/provide/vod",
+      "api": "https://haiwaikan.com/api.php/provide/vod",
       "searchable": 1,
       "changeable": 1,
       "filterable": 1,
