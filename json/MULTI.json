@@ -1,13 +1,6 @@
 {
   "lives": [
     {
-      "name": "0509",
-      "type": 0,
-      "url": "https://dpaste.org/irVye/raw",
-      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo":"http://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
       "name": "Smartv",
       "type": 0,
       "url": "https://dpaste.org/5kPZr/raw",
