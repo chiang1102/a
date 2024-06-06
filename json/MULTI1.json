@@ -1,0 +1,86 @@
+
+  "lives": [
+    {
+      "name": "4GTV-HD",
+      "type": 0,
+      "url": "https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/4gtv.m3u",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name":"🐵OuHua Live",
+      "url":"http://oy.oyxx-1.eu.org/p3p.php",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+     }
+  ],
+  "sites": [
+    {
+      "key": "泥巴",
+      "name": "泥巴影視",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "haiwaikan1",
+      "name": "海外看",
+      "type": 1,
+      "api": "https://haiwaikan.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "categories": [
+        "日本动漫",
+        "国产动漫",
+        "欧美动漫",
+        "国产剧",
+        "韩剧",
+        "日剧",
+        "台剧",
+        "泰剧",
+        "港剧",
+        "欧美剧",
+        "动画电影",
+        "韩国综艺",
+        "国产综艺",
+        "日本综艺",
+        "欧美综艺",
+        "冒险片",
+        "剧情片",
+        "动作片",
+        "同性片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "战争片",
+        "歌舞片",
+        "灾难片",
+        "爱情片",
+        "犯罪片",
+        "科幻片",
+        "纪录片",
+        "经典片"
+      ]
+    },
+    {
+      "key": "inmi",
+      "name": "映迷",
+      "type": 0,
+      "api": "https://www.inmi.app/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "ads": [
+    "static-mozai.4gtv.tv",
+    "s3t3d2y8.afcdn.net"
+  ],
+  "wallpaper": "https://gao.chuqiuyu.tk",
+  "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;89f3b48308be53927963f843817027d6"
+}
