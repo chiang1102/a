@@ -1,14 +1,21 @@
 {
   "lives": [
     {
-      "name": "4GTV-HD",
+      "name": "四季電視",
       "type": 0,
       "url": "https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/4gtv.m3u",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name":"🐵OuHua Live",
+      "name": "綜合",
+      "type": 0,
+      "url": "https://dpaste.org/ZeA0z/raw",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name":"歐華電視",
       "url":"http://oy.oyxx-1.eu.org/p3p.php",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
