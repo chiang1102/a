@@ -11,7 +11,7 @@
     {
       "name": "CyberTV",
       "type": 0,
-      "url": "https://dpaste.org/qYx4O/raw",
+      "url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/Cyber.txt",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
