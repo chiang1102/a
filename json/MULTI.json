@@ -25,14 +25,14 @@
     {
       "name": "4GTV",
       "type": 0,
-      "url": "https://dpaste.org/Yoe91/raw",
+      "url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/4gtv.txt",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
       "name": "4GTV-M",
       "type": 0,
-      "url": "https://dpaste.org/ZeA0z/raw",
+      "url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/4gtv-m.txt",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
