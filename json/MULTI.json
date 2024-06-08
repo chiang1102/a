@@ -1,5 +1,13 @@
 {
   "lives": [
+    
+    {
+      "name": "端午源",
+      "type": 0,
+      "url": "https://www.sv6-douyin-cloudfare.cloudns.ch/duanwukl.txt",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
     {
       "name": "CyberTV",
       "type": 0,
