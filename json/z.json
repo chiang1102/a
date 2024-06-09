@@ -17,6 +17,11 @@
       "name": "320s"
     },
     {
+      
+      "url": "https://888.iptv543.com/543.json",
+      "name": "543"
+    },
+    {
       "url": "https://raw.githubusercontent.com/chiang1102/a/main/json/MULTI.json",
       "name": "MULTI"
     }
