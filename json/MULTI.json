@@ -9,41 +9,27 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "CyberTV",
+      "name": "晴天TV",
       "type": 0,
       "url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/Cyber.txt",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "4GTV-HD",
+      "name": "四季TV",
       "type": 0,
       "url": "https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/4gtv.m3u",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "4GTV",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/4gtv.txt",
-      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo":"http://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
-      "name": "4GTV-M",
-      "type": 0,
-      "url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/4gtv-m.txt",
-      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo":"http://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
-      "name":"🐵OuHua Live",
+      "name":"歐華TV",
       "url":"http://oy.oyxx-1.eu.org/p3p.php",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
      },
      {
-      "name":"🔞OuHua CR",
+      "name":"🔞歐華CR",
       "url":"http://oy.oyxx-1.eu.org/p3p.php?r18=1",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
