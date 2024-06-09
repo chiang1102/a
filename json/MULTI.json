@@ -1,13 +1,5 @@
 {
   "lives": [
-    
-    {
-      "name": "端午源",
-      "type": 0,
-      "url": "https://www.sv6-douyin-cloudfare.cloudns.ch/duanwukl.txt",
-      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo":"http://epg.112114.eu.org/logo/{name}.png"
-    },
     {
       "name": "晴天TV",
       "type": 0,
@@ -29,7 +21,7 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
      },
      {
-      "name":"🔞歐華CR",
+      "name":"歐華🔞",
       "url":"http://oy.oyxx-1.eu.org/p3p.php?r18=1",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
