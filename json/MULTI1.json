@@ -14,6 +14,12 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
+      "name":"星視界TV",
+      "url":"http://www.52sw.top:678/play/oj1381/list.php?get=%E6%98%9F%E8%A7%86%E7%95%8C",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+     },
+    {
       "name":"晴天電視",
       "url":"https://raw.githubusercontent.com/chiang1102/a/main/txt/Cyber.txt",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
