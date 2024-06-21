@@ -1,6 +1,10 @@
 {
   "urls": [
     {
+      "url": "https://888.iptv543.com/543.json",
+      "name": "盒子之家"
+    },
+    {
       "url": "https://chou1966.serv00.net/543.json",
       "name": "盒子之家"
     },
