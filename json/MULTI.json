@@ -36,8 +36,8 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name":"歐華159",
-      "url":"http://www.52sw.top:678/play/oj1381/list.php?get=159&t=1718865746&uuid=007c829c-2f0c-453a-bf2b-646b266e91fd",
+      "name":"iTV",
+      "url":"https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/itv_proxy.m3u",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
      },
