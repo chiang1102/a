@@ -14,12 +14,6 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name":"盒子之家",
-      "url":"http://888.iptv543.com/999.json",
-      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo":"http://epg.112114.eu.org/logo/{name}.png"
-     },
-    {
       "name":"晴天電視",
       "url":"https://raw.githubusercontent.com/chiang1102/a/main/txt/Cyber.txt",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
