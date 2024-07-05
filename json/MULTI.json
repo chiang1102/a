@@ -36,6 +36,13 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
+      "name": "FocusTV",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/Focus.txt",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
       "name":"iTV",
       "url":"https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/itv_proxy.m3u",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
