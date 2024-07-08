@@ -14,6 +14,13 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
+      "name": "SmartTV",
+      "type": 0,
+      "url": "https://tang.hz.cz/zb/stv",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
       "name":"晴天電視",
       "url":"https://raw.githubusercontent.com/chiang1102/a/main/txt/Cyber.txt",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
