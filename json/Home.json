@@ -13,6 +13,10 @@
       "name": "320"
     },
     {
+      "url": "https://4tvbox.ggff.net/config.json",
+      "name": "4TVBOX"
+    },
+    {
       "url": "https://raw.githubusercontent.com/chiang1102/a/main/json/MULTI1.json",
       "name": "MULTI"
     }
