@@ -72,16 +72,6 @@
       ]
     },
     {
-      "key":"sgys1",
-      "name":"三哥影视①",
-      "type":3,
-      "api":"csp_XPathFilter",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "ext":"https://4tvbox.ggff.net/ys.json"
-    },
-    {
       "key": "sgys2",
       "name": "三哥影视② | 无广告",
       "type": 1,
