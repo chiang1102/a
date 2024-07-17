@@ -130,6 +130,35 @@
       "filterable":0
     },
     {
+      "key":"sgys1",
+      "name":"三哥影视①",
+      "type":3,
+      "api":"csp_XPathFilter",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"https://4tvbox.ggff.net/ys.json"
+    },
+    {
+      "key": "sgys2",
+      "name": "三哥影视② | 无广告",
+      "type": 1,
+      "api": "https://api.huaren.live/api.php/tvbox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "sgys3",
+      "name": "三哥影视③ | 无广告",
+      "type": 4,
+      "api": "https://demobe.serv00.net/heimuer.php",
+      "playUrl": "json:https://tang.hz.cz/jx/hmr?noads=",
+      "searchable": 1,
+      "quickSearch":0,
+      "filterable":0
+    },
+    {
       "key": "泥巴",
       "name": "泥巴影視",
       "type": 3,
