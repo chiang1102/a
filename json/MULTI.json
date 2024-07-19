@@ -15,6 +15,13 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
+      "name": "台灣綜藝",
+      "type": 0,
+      "url": "https://www.dussl.icu/Tw_dussl.m3u",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
       "name": "SmartTV",
       "type": 0,
       "url": "https://fm1077.serv00.net/SmartTV.m3u",
