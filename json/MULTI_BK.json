@@ -1,0 +1,228 @@
+{
+  "lives": [
+    {
+      "name": "四季TV",
+      "type": 0,
+      "url": "https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/4gtv.m3u",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "晴天TV",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/Cyber.txt",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "晴天TV-1",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/晴天.txt",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "SmartTV",
+      "type": 0,
+      "url": "https://fm1077.serv00.net/SmartTV.m3u",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "SmartTV-1",
+      "type": 0,
+      "url": "https://tang.hz.cz/zb/stv",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "安博TV",
+      "type": 0,
+      "url": "https://fm1077.serv00.net/anbo/",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "FocusTV",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/Focus.txt",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name":"iTV",
+      "url":"https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/itv_proxy.m3u",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+     },
+    {
+      "name":"歐華TV",
+      "url":"http://oy.oyxx-1.eu.org/p3p.php",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+     },
+     {
+      "name":"歐華🔞",
+      "url":"http://oy.oyxx-1.eu.org/p3p.php?r18=1",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+     }
+  ],
+  "sites": [
+    {
+      "key": "实验",
+      "name": "实验黑木耳",
+      "type": 1,
+      "api": "http://zhangqun66.serv00.net/227.php",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "heimuer",
+      "name": "黑木耳",
+      "type": 1,
+      "api": "https://json.heimuer.xyz/api.php/provide/vod",
+      "playUrl": "json:https://4tvbox.ggff.net/hme.php?url=",
+      "searchable": 1,
+      "changeable": 1,
+      "categories":  [
+        "日本动漫",
+        "国产动漫",
+        "欧美动漫",
+        "国产剧",
+        "韩剧",
+        "日剧",
+        "台剧",
+        "泰剧",
+        "港剧",
+        "欧美剧",
+        "动画电影",
+        "韩国综艺",
+        "国产综艺",
+        "日本综艺",
+        "欧美综艺",
+        "冒险片",
+        "剧情片",
+        "动作片",
+        "同性片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "战争片",
+        "歌舞片",
+        "灾难片",
+        "爱情片",
+        "犯罪片",
+        "科幻片",
+        "纪录片",
+        "经典片"
+      ]
+    },
+    {
+      "key": "php_hmezy",
+      "name": "黑木耳克隆",
+      "type": 4,
+      "api": "https://demobe.serv00.net/heimuer.php",
+      "searchable": 1,
+      "quickSearch":0,
+      "filterable":0
+    },
+    {
+      "key": "sgys2",
+      "name": "三哥影视② | 无广告",
+      "type": 1,
+      "api": "https://api.huaren.live/api.php/tvbox",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "sgys3",
+      "name": "三哥影视③ | 无广告",
+      "type": 4,
+      "api": "https://demobe.serv00.net/heimuer.php",
+      "playUrl": "json:https://tang.hz.cz/jx/hmr?noads=",
+      "searchable": 1,
+      "quickSearch":0,
+      "filterable":0
+    },
+    {
+      "key": "泥巴",
+      "name": "泥巴影視",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "haiwaikan",
+      "name": "海外看",
+      "type": 0,
+      "api": "https://haiwaikan.com/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "haiwaikan1",
+      "name": "海外看1",
+      "type": 1,
+      "api": "https://haiwaikan.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "categories": [
+        "日本动漫",
+        "国产动漫",
+        "欧美动漫",
+        "国产剧",
+        "韩剧",
+        "日剧",
+        "台剧",
+        "泰剧",
+        "港剧",
+        "欧美剧",
+        "动画电影",
+        "韩国综艺",
+        "国产综艺",
+        "日本综艺",
+        "欧美综艺",
+        "冒险片",
+        "剧情片",
+        "动作片",
+        "同性片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "战争片",
+        "歌舞片",
+        "灾难片",
+        "爱情片",
+        "犯罪片",
+        "科幻片",
+        "纪录片",
+        "经典片"
+      ]
+    },
+    {
+      "key": "inmi",
+      "name": "映迷",
+      "type": 0,
+      "api": "https://www.inmi.app/api.php/provide/vod/at/xml",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ],
+  "ads": [
+    "static-mozai.4gtv.tv",
+    "s3t3d2y8.afcdn.net"
+  ],
+  "wallpaper": "https://gao.chuqiuyu.tk",
+  "spider": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;89f3b48308be53927963f843817027d6"
+}
