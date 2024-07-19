@@ -15,7 +15,14 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "台灣綜藝",
+      "name": "台灣綜合",
+      "type": 0,
+      "url": "https://www.dussl.icu/Tw_dussl.m3u",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "全球綜合",
       "type": 0,
       "url": "https://www.dussl.icu/Tw_dussl.m3u",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
