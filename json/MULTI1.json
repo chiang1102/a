@@ -8,6 +8,13 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
+      "name": "四季TV備源",
+      "type": 0,
+      "url": "http://debian.52sw.top:1983/4gtv.m3u",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
       "name": "SmartTV",
       "type": 0,
       "url": "https://fm1077.serv00.net/SmartTV.m3u",
