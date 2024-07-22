@@ -10,7 +10,7 @@
     {
       "name": "四季TV備源",
       "type": 0,
-      "url": "http://debian.52sw.top:1983/4gtv.m3u",
+      "url": "https://magic-libby-algomin-20595530.koyeb.app/4gtv.m3u",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
