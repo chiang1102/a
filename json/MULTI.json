@@ -24,7 +24,14 @@
     {
       "name": "全球綜合",
       "type": 0,
-      "url": "https://www.dussl.icu/Anbo_dussl.m3u",
+      "url": "https://www.dussl.icu/Tw_dussl.m3u",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
+      "name": "STV",
+      "type": 0,
+      "url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/STV.txt",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
