@@ -33,6 +33,10 @@
       "name": "寶盒"
     },
     {
+      "url": "https://raw.githubusercontent.com/chiang1102/a/main/json/ETHTV.json",
+      "name": "ETHTV"
+    },
+    {
       "url": "https://raw.githubusercontent.com/chiang1102/a/main/json/MULTI.json",
       "name": "MULTI"
     }
