@@ -15,6 +15,13 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
+      "name": "台灣綜合",
+      "type": 0,
+      "url": "https://www.dussl.icu/Tw_dussl.m3u",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
       "name": "SmartTV",
       "type": 0,
       "url": "https://fm1077.serv00.net/SmartTV.m3u",
@@ -45,19 +52,23 @@
     {
             "key": "sgys",
             "name": "影視",
-            "type": 4,
-            "api": "https://tang.hz.cz/power/hme",
-            "playUrl": "json:https://4tvbox.ggff.net/noad_v4.php?url=",
+            "type": 1,
+            "api": "https://zhangqun66.serv00.net/158.php",
+            "playUrl": "json:https://4tvbox.ggff.net/t.php?url=",
             "searchable": 1,
-            "quickSearch": 0,
-            "filterable": 0
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
         },
         {
             "key": "sgys1",
             "name": "影視備用源①",
             "type": 1,
             "api": "https://api.huaren.live/api.php/tvbox",
-            "playUrl": "json:https://4tvbox.ggff.net/noad_v4.php?url=",
+            "playUrl": "json:https://4tvbox.ggff.net/t.php?url=",
+            "header": {
+                "User-Agent": "okhttp/3.12.13"
+            },
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
