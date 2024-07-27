@@ -104,6 +104,26 @@
             "ext": "https://4tvbox.ggff.net/ys.json"
         },
         {
+            "key": "T4-heimuer",
+            "name": "黑木耳(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/hme?token=b6082eb1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+       },
+       {
+            "key": "T4-安博",
+            "name": "安博(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/ub18?token=b6082eb1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+           "changeable": 0
+       },
+       {
             "key": "hm",
             "name": "黑木資源站",
             "type": 1,
