@@ -24,7 +24,7 @@
     {
       "name": "STV",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/STV.txt",
+      "url": "https://tang.hz.cz/zb/stv?token=b6082eb1",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
