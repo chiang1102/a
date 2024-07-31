@@ -110,16 +110,6 @@
             "filterable": 1,
            "changeable": 0
        },
-     {
-            "key": "PTT",
-            "name": "PTT",
-            "type": 3,
-            "api": "csp_PTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
-        },
        {
             "key": "hm",
             "name": "黑木資源站",
