@@ -23,7 +23,7 @@
      "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "STV",
+      "name": "SmartTV",
       "type": 0,
       "url": "https://tang.hz.cz/zb/stv?token=b6082eb1",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
