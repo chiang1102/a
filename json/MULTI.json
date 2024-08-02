@@ -53,6 +53,12 @@
       "url":"https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/thetv.m3u",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
+     },
+    {
+      "name":"Jable",
+      "url":"https://files.catbox.moe/2r4ru2.txt",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
      }
   ],
   "sites": [
