@@ -14,9 +14,9 @@
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
-    {
+   {
      "name": "ETHTV(JS)",
-     "api": "https://raw.githubusercontent.com/chiang1102/a/main/js/eth.js",
+     "api": "https://tang.hz.cz/js/ethtv.js",
      "type": 3,
      "ua": "okhttp/4.12.0",
      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
@@ -28,13 +28,7 @@
       "url": "https://fm1077.serv00.net/SmartTV.m3u",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
-      "name":"iTV",
-      "url":"https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/itv_proxy.m3u",
-      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo":"http://epg.112114.eu.org/logo/{name}.png"
-     }
+    }
   ],
   "sites": [
     {
@@ -72,6 +66,16 @@
             "ext": "https://4tvbox.ggff.net/ys.json"
         },
         {
+            "key": "T4-heimuer",
+            "name": "黑木耳(T4)",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/hme?token=b6082eb1",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+       },
+       {
             "key": "T4-安博",
             "name": "安博(T4)",
             "type": 4,
@@ -81,7 +85,7 @@
             "filterable": 1,
            "changeable": 0
        },
-        {
+       {
             "key": "hm",
             "name": "黑木資源站",
             "type": 1,
@@ -89,6 +93,9 @@
             "playUrl": "json:https://4tvbox.ggff.net/noad_v4.php?url=",
             "searchable": 1,
             "changeable": 1,
+            "header": {
+                   "User-Agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36"
+            },
             "categories": [
                 "國產劇",
                 "港劇",
