@@ -30,13 +30,6 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "SmartTV",
-      "type": 0,
-      "url": "https://fm1077.serv00.net/SmartTV.m3u",
-      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo":"http://epg.112114.eu.org/logo/{name}.png"
-    },
-    {
       "name":"iTV",
       "url":"https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/itv_proxy.m3u",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
