@@ -31,12 +31,11 @@
     }
   ],
   "sites": [
-    {
-            "key": "sgys",
-            "name": "影視",
-            "type": 1,
-            "api": "https://zhangqun66.serv00.net/158.php",
-            "playUrl": "json:https://4tvbox.ggff.net/t.php?url=",
+        {
+            "key": "sghmys",
+            "name": "影视",
+            "type": 4,
+            "api": "https://tang.hz.cz/power/hme?token=a797e28e",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
