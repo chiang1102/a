@@ -50,7 +50,6 @@
   ],
   "sites": [
         {
-        {
             "key": "sghmys",
             "name": "影视",
             "type": 4,
@@ -59,7 +58,8 @@
             "quickSearch": 1,
             "filterable": 1,
             "changeable": 0
-        }
+        },
+        {
             "key": "sgys1",
             "name": "影視備用源①",
             "type": 1,
