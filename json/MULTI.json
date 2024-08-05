@@ -26,6 +26,7 @@
       "name": "HiStar",
       "type": 0,
       "url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/histar.txt",
+      "ua": "okhttp/4.12.0",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
@@ -33,6 +34,7 @@
       "name": "XSJ-TV",
       "type": 0,
       "url": "https://raw.githubusercontent.com/chiang1102/a/main/txt/XSJ.m3u",
+      "ua": "okhttp/4.12.0",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
