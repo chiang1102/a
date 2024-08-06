@@ -124,8 +124,28 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-           "changeable": 0
+            "changeable": 0
        },
+       {
+            "key": "bfa101f4d8a61b23240d05343b173551",
+            "name": "ETH TV",
+            "type": 4,
+            "api": "http://videos.web6868.com/cinema/babd627fea9f0eb256fd2d04689a9a85422d18cb7ebe3a0627dd1e5b22f49207/66323a32653a33633a32613a36393a6661/1c8c47becf333f1a2e51404bd5ed3fcb805ae7eef235a1b8d9ea5fda872b7c78/",
+            "searchable": 1,
+            "quickSearch": 0,
+            "playsearch": 0,
+            "filterable": 0
+        },
+        {
+            "key": "eb909bf8805eb71c719631f5840b1cca",
+            "name": "樂視影視",
+            "type": 4,
+            "api": "http://videos.web6868.com/gplitv/babd627fea9f0eb256fd2d04689a9a85422d18cb7ebe3a0627dd1e5b22f49207/66323a32653a33633a32613a36393a6661/1c8c47becf333f1a2e51404bd5ed3fcb805ae7eef235a1b8d9ea5fda872b7c78/",
+            "searchable": 1,
+            "quickSearch": 0,
+            "playsearch": 0,
+            "filterable": 0
+        },
        {
             "key": "hm",
             "name": "黑木資源站",
@@ -247,35 +267,15 @@
                 "倫理片"
             ]
         },
-         {
-            "key": "bfa101f4d8a61b23240d05343b173551",
-            "name": "ETH TV",
-            "type": 4,
-            "api": "http://videos.web6868.com/cinema/babd627fea9f0eb256fd2d04689a9a85422d18cb7ebe3a0627dd1e5b22f49207/66323a32653a33633a32613a36393a6661/1c8c47becf333f1a2e51404bd5ed3fcb805ae7eef235a1b8d9ea5fda872b7c78/",
-            "searchable": 1,
-            "quickSearch": 0,
-            "playsearch": 0,
-            "filterable": 0
-        },
         {
-            "key": "eb909bf8805eb71c719631f5840b1cca",
-            "name": "樂視影視",
-            "type": 4,
-            "api": "http://videos.web6868.com/gplitv/babd627fea9f0eb256fd2d04689a9a85422d18cb7ebe3a0627dd1e5b22f49207/66323a32653a33633a32613a36393a6661/1c8c47becf333f1a2e51404bd5ed3fcb805ae7eef235a1b8d9ea5fda872b7c78/",
-            "searchable": 1,
-            "quickSearch": 0,
-            "playsearch": 0,
-            "filterable": 0
-        },
-    {
-      "key": "inmi",
-      "name": "映迷",
-      "type": 0,
-      "api": "https://www.inmi.app/api.php/provide/vod/at/xml",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    }
+          "key": "inmi",
+          "name": "映迷",
+          "type": 0,
+          "api": "https://www.inmi.app/api.php/provide/vod/at/xml",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1
+        }
   ],
   "ads": [
     "static-mozai.4gtv.tv",
