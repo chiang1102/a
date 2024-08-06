@@ -46,10 +46,9 @@
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "StreamLink",
+      "name": "YouTube",
       "type": 0,
-      "url": "https://www.stream-link.org/stream-link.m3u",
-      "ua": "okhttp/4.12.0",
+      "url": "https://magic-libby-algomin-20595530.koyeb.app/list/PLo0LzZW_GvAjQjeXZe_A6p4-jL3XSfTdv",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
