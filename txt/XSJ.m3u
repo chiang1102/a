@@ -1,955 +1,955 @@
 #EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="央视",CCTV-1 综合
-https://pixman.mytvsuper.com.mp/histar?id=cctv1
+https://sxj.btjson.us.kg/histar?id=cctv1
 #EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="央视",CCTV-2 财经
-https://pixman.mytvsuper.com.mp/histar?id=cctv2
+https://sxj.btjson.us.kg/histar?id=cctv2
 #EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="央视",CCTV-3 综艺
-https://pixman.mytvsuper.com.mp/histar?id=cctv3
+https://sxj.btjson.us.kg/histar?id=cctv3
 #EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="央视",CCTV-4 中文国际
-https://pixman.mytvsuper.com.mp/histar?id=cctv4
+https://sxj.btjson.us.kg/histar?id=cctv4
 #EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="央视",CCTV-5 体育
-https://pixman.mytvsuper.com.mp/histar?id=cctv5
+https://sxj.btjson.us.kg/histar?id=cctv5
 #EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="央视",CCTV-5+ 体育赛事
-https://pixman.mytvsuper.com.mp/histar?id=cctv5plus
+https://sxj.btjson.us.kg/histar?id=cctv5plus
 #EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="央视",CCTV-6 电影
-https://pixman.mytvsuper.com.mp/histar?id=cctv6
+https://sxj.btjson.us.kg/histar?id=cctv6
 #EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="央视",CCTV-7 国防军事
-https://pixman.mytvsuper.com.mp/histar?id=cctv7
+https://sxj.btjson.us.kg/histar?id=cctv7
 #EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="央视",CCTV-8 电视剧
-https://pixman.mytvsuper.com.mp/histar?id=cctv8
+https://sxj.btjson.us.kg/histar?id=cctv8
 #EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="央视",CCTV-9 纪录
-https://pixman.mytvsuper.com.mp/histar?id=cctv9
+https://sxj.btjson.us.kg/histar?id=cctv9
 #EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="央视",CCTV-10 科教
-https://pixman.mytvsuper.com.mp/histar?id=cctv10
+https://sxj.btjson.us.kg/histar?id=cctv10
 #EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="央视",CCTV-11 戏曲
-https://pixman.mytvsuper.com.mp/histar?id=cctv11
+https://sxj.btjson.us.kg/histar?id=cctv11
 #EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="央视",CCTV-12 社会与法
-https://pixman.mytvsuper.com.mp/histar?id=cctv12
+https://sxj.btjson.us.kg/histar?id=cctv12
 #EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="央视",CCTV-13 新闻
-https://pixman.mytvsuper.com.mp/histar?id=cctv13
+https://sxj.btjson.us.kg/histar?id=cctv13
 #EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="央视",CCTV-14 少儿
-https://pixman.mytvsuper.com.mp/histar?id=cctv14
+https://sxj.btjson.us.kg/histar?id=cctv14
 #EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="央视",CCTV-15 音乐
-https://pixman.mytvsuper.com.mp/histar?id=cctv15
+https://sxj.btjson.us.kg/histar?id=cctv15
 #EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="央视",CCTV-16 奥林匹克
-https://pixman.mytvsuper.com.mp/histar?id=cctv16
+https://sxj.btjson.us.kg/histar?id=cctv16
 #EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="央视",CCTV-17 农业农村
-https://pixman.mytvsuper.com.mp/histar?id=cctv17
+https://sxj.btjson.us.kg/histar?id=cctv17
 #EXTINF:-1,tvg-id="chc家庭影院" tvg-name="chc家庭影院" tvg-logo="https://epg.v1.mk/logo/chc家庭影院.png" group-title="其他",CHC家庭影院
-https://pixman.mytvsuper.com.mp/histar?id=chc-jtyy
+https://sxj.btjson.us.kg/histar?id=chc-jtyy
 #EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="其他",CHC动作电影
-https://pixman.mytvsuper.com.mp/histar?id=chc-dzdy
+https://sxj.btjson.us.kg/histar?id=chc-dzdy
 #EXTINF:-1,tvg-id="chc高清电影" tvg-name="chc高清电影" tvg-logo="https://epg.v1.mk/logo/chc高清电影.png" group-title="其他",CHC高清电影
-https://pixman.mytvsuper.com.mp/histar?id=chc-gqdy
+https://sxj.btjson.us.kg/histar?id=chc-gqdy
 #EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://epg.v1.mk/logo/重温经典.png" group-title="其他",重温经典
-https://pixman.mytvsuper.com.mp/histar?id=cwjd
+https://sxj.btjson.us.kg/histar?id=cwjd
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA奥运1台
-https://pixman.mytvsuper.com.mp/histar?id=elta-oly1
+https://sxj.btjson.us.kg/histar?id=elta-oly1
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA奥运2台
-https://pixman.mytvsuper.com.mp/histar?id=elta-oly2
+https://sxj.btjson.us.kg/histar?id=elta-oly2
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA奥运3台
-https://pixman.mytvsuper.com.mp/histar?id=elta-oly3
+https://sxj.btjson.us.kg/histar?id=elta-oly3
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA奥运4台
-https://pixman.mytvsuper.com.mp/histar?id=elta-oly4
+https://sxj.btjson.us.kg/histar?id=elta-oly4
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA奥运5台
-https://pixman.mytvsuper.com.mp/histar?id=elta-oly5
+https://sxj.btjson.us.kg/histar?id=elta-oly5
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA奥运6台
-https://pixman.mytvsuper.com.mp/histar?id=elta-oly6
+https://sxj.btjson.us.kg/histar?id=elta-oly6
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA奥运7台
-https://pixman.mytvsuper.com.mp/histar?id=elta-oly7
+https://sxj.btjson.us.kg/histar?id=elta-oly7
 #EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="港澳台",Astro OLY 1
-https://pixman.mytvsuper.com.mp/histar?id=astro-oly1
+https://sxj.btjson.us.kg/histar?id=astro-oly1
 #EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="港澳台",Astro OLY 2
-https://pixman.mytvsuper.com.mp/histar?id=astro-oly2
+https://sxj.btjson.us.kg/histar?id=astro-oly2
 #EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="港澳台",Astro OLY 3
-https://pixman.mytvsuper.com.mp/histar?id=astro-oly3
+https://sxj.btjson.us.kg/histar?id=astro-oly3
 #EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="港澳台",Astro OLY 4
-https://pixman.mytvsuper.com.mp/histar?id=astro-oly4
+https://sxj.btjson.us.kg/histar?id=astro-oly4
 #EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="港澳台",Astro OLY 5
-https://pixman.mytvsuper.com.mp/histar?id=astro-oly5
+https://sxj.btjson.us.kg/histar?id=astro-oly5
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",MyTVSuper奥运801
-https://pixman.mytvsuper.com.mp/histar?id=mytvsuper-oly801
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly801
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",MyTVSuper奥运802
-https://pixman.mytvsuper.com.mp/histar?id=mytvsuper-oly802
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly802
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",MyTVSuper奥运803
-https://pixman.mytvsuper.com.mp/histar?id=mytvsuper-oly803
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly803
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",MyTVSuper奥运804
-https://pixman.mytvsuper.com.mp/histar?id=mytvsuper-oly804
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly804
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",MyTVSuper奥运805
-https://pixman.mytvsuper.com.mp/histar?id=mytvsuper-oly805
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly805
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",MyTVSuper奥运806
-https://pixman.mytvsuper.com.mp/histar?id=mytvsuper-oly806
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly806
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",MyTVSuper奥运807
-https://pixman.mytvsuper.com.mp/histar?id=mytvsuper-oly807
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly807
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",MyTVSuper奥运808
-https://pixman.mytvsuper.com.mp/histar?id=mytvsuper-oly808
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly808
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",MyTVSuper奥运809
-https://pixman.mytvsuper.com.mp/histar?id=mytvsuper-oly809
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly809
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",MyTVSuper奥运810
-https://pixman.mytvsuper.com.mp/histar?id=mytvsuper-oly810
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly810
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",MyTVSuper奥运811
-https://pixman.mytvsuper.com.mp/histar?id=mytvsuper-oly811
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly811
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",MyTVSuper奥运812
-https://pixman.mytvsuper.com.mp/histar?id=mytvsuper-oly812
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly812
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",MyTVSuper奥运813
-https://pixman.mytvsuper.com.mp/histar?id=mytvsuper-oly813
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly813
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",MyTVSuper奥运814
-https://pixman.mytvsuper.com.mp/histar?id=mytvsuper-oly814
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly814
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",MyTVSuper奥运815
-https://pixman.mytvsuper.com.mp/histar?id=mytvsuper-oly815
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly815
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",MyTVSuper奥运816
-https://pixman.mytvsuper.com.mp/histar?id=mytvsuper-oly816
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly816
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",MyTVSuper奥运817
-https://pixman.mytvsuper.com.mp/histar?id=mytvsuper-oly817
+https://sxj.btjson.us.kg/histar?id=mytvsuper-oly817
 #EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="湖南",湖南卫视
-https://pixman.mytvsuper.com.mp/histar?id=hunan
+https://sxj.btjson.us.kg/histar?id=hunan
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="浙江",浙江卫视
-https://pixman.mytvsuper.com.mp/histar?id=zhejiang
+https://sxj.btjson.us.kg/histar?id=zhejiang
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="卫视",东方卫视
-https://pixman.mytvsuper.com.mp/histar?id=dongfang
+https://sxj.btjson.us.kg/histar?id=dongfang
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="江苏",江苏卫视
-https://pixman.mytvsuper.com.mp/histar?id=jiangsu
+https://sxj.btjson.us.kg/histar?id=jiangsu
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="北京",北京卫视
-https://pixman.mytvsuper.com.mp/histar?id=beijing
+https://sxj.btjson.us.kg/histar?id=beijing
 #EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="卫视",深圳卫视
-https://pixman.mytvsuper.com.mp/histar?id=shenzhen
+https://sxj.btjson.us.kg/histar?id=shenzhen
 #EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="广东",广东卫视
-https://pixman.mytvsuper.com.mp/histar?id=guangdong
+https://sxj.btjson.us.kg/histar?id=guangdong
 #EXTINF:-1,tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://epg.v1.mk/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
-https://pixman.mytvsuper.com.mp/histar?id=gdwqws
+https://sxj.btjson.us.kg/histar?id=gdwqws
 #EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="重庆",重庆卫视
-https://pixman.mytvsuper.com.mp/histar?id=chongqing
+https://sxj.btjson.us.kg/histar?id=chongqing
 #EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="卫视",东南卫视
-https://pixman.mytvsuper.com.mp/histar?id=dongnan
+https://sxj.btjson.us.kg/histar?id=dongnan
 #EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="卫视",广西卫视
-https://pixman.mytvsuper.com.mp/histar?id=guangxi
+https://sxj.btjson.us.kg/histar?id=guangxi
 #EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="贵州",贵州卫视
-https://pixman.mytvsuper.com.mp/histar?id=guizhou
+https://sxj.btjson.us.kg/histar?id=guizhou
 #EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="海南",海南卫视
-https://pixman.mytvsuper.com.mp/histar?id=hainan
+https://sxj.btjson.us.kg/histar?id=hainan
 #EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="河北",河北卫视
-https://pixman.mytvsuper.com.mp/histar?id=hebei
+https://sxj.btjson.us.kg/histar?id=hebei
 #EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="黑龙江",黑龙江卫视
-https://pixman.mytvsuper.com.mp/histar?id=heilongjiang
+https://sxj.btjson.us.kg/histar?id=heilongjiang
 #EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="湖北",湖北卫视
-https://pixman.mytvsuper.com.mp/histar?id=hubei
+https://sxj.btjson.us.kg/histar?id=hubei
 #EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="江西",江西卫视
-https://pixman.mytvsuper.com.mp/histar?id=jiangxi
+https://sxj.btjson.us.kg/histar?id=jiangxi
 #EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="吉林",吉林卫视
-https://pixman.mytvsuper.com.mp/histar?id=jilin
+https://sxj.btjson.us.kg/histar?id=jilin
 #EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="辽宁",辽宁卫视
-https://pixman.mytvsuper.com.mp/histar?id=liaoning
+https://sxj.btjson.us.kg/histar?id=liaoning
 #EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-https://pixman.mytvsuper.com.mp/histar?id=neimenggu
+https://sxj.btjson.us.kg/histar?id=neimenggu
 #EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-https://pixman.mytvsuper.com.mp/histar?id=ningxia
+https://sxj.btjson.us.kg/histar?id=ningxia
 #EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="陕西",陕西卫视
-https://pixman.mytvsuper.com.mp/histar?id=shaanxi
+https://sxj.btjson.us.kg/histar?id=shaanxi
 #EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="山东",山东卫视
-https://pixman.mytvsuper.com.mp/histar?id=shandong
+https://sxj.btjson.us.kg/histar?id=shandong
 #EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="山西",山西卫视
-https://pixman.mytvsuper.com.mp/histar?id=shanxi
+https://sxj.btjson.us.kg/histar?id=shanxi
 #EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="四川",四川卫视
-https://pixman.mytvsuper.com.mp/histar?id=sichuan
+https://sxj.btjson.us.kg/histar?id=sichuan
 #EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="卫视",天津卫视
-https://pixman.mytvsuper.com.mp/histar?id=tianjin
+https://sxj.btjson.us.kg/histar?id=tianjin
 #EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.v1.mk/logo/厦门卫视.png" group-title="卫视",厦门卫视
-https://pixman.mytvsuper.com.mp/histar?id=xiamen
+https://sxj.btjson.us.kg/histar?id=xiamen
 #EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="卫视",新疆卫视
-https://pixman.mytvsuper.com.mp/histar?id=xinjiang
+https://sxj.btjson.us.kg/histar?id=xinjiang
 #EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="卫视",西藏卫视
-https://pixman.mytvsuper.com.mp/histar?id=xizang
+https://sxj.btjson.us.kg/histar?id=xizang
 #EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="云南",云南卫视
-https://pixman.mytvsuper.com.mp/histar?id=yunnan
+https://sxj.btjson.us.kg/histar?id=yunnan
 #EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="安徽",安徽卫视
-https://pixman.mytvsuper.com.mp/histar?id=anhui
+https://sxj.btjson.us.kg/histar?id=anhui
 #EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="河南",河南卫视
-https://pixman.mytvsuper.com.mp/histar?id=henan
+https://sxj.btjson.us.kg/histar?id=henan
 #EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="青海",青海卫视
-https://pixman.mytvsuper.com.mp/histar?id=qinghai
+https://sxj.btjson.us.kg/histar?id=qinghai
 #EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="甘肃",甘肃卫视
-https://pixman.mytvsuper.com.mp/histar?id=gansu
+https://sxj.btjson.us.kg/histar?id=gansu
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVB 翡翠台
-https://pixman.mytvsuper.com.mp/histar?id=feicui
+https://sxj.btjson.us.kg/histar?id=feicui
 #EXTINF:-1,tvg-id="TVB无线新闻台png" tvg-name="TVB无线新闻台png" tvg-logo="https://epg.v1.mk/logo/TVB无线新闻台png.png" group-title="港澳台",TVB 无线新闻台
-https://pixman.mytvsuper.com.mp/histar?id=tvb-news
+https://sxj.btjson.us.kg/histar?id=tvb-news
 #EXTINF:-1,tvg-id="tvbplus" tvg-name="tvbplus" tvg-logo="https://epg.v1.mk/logo/tvbplus.png" group-title="港澳台",TVB PLUS
-https://pixman.mytvsuper.com.mp/histar?id=tvb-plus
+https://sxj.btjson.us.kg/histar?id=tvb-plus
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVB 黄金翡翠台
-https://pixman.mytvsuper.com.mp/histar?id=golden-jade
+https://sxj.btjson.us.kg/histar?id=golden-jade
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVB 黄金华剧台
-https://pixman.mytvsuper.com.mp/histar?id=golden-chinese-drama
+https://sxj.btjson.us.kg/histar?id=golden-chinese-drama
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVB 千禧经典台
-https://pixman.mytvsuper.com.mp/histar?id=tvb-classic
+https://sxj.btjson.us.kg/histar?id=tvb-classic
 #EXTINF:-1,tvg-id="TVB粤语片" tvg-name="TVB粤语片" tvg-logo="https://epg.v1.mk/logo/TVB粤语片.png" group-title="港澳台",TVB 粤语片台
-https://pixman.mytvsuper.com.mp/histar?id=tvb-yueyu
+https://sxj.btjson.us.kg/histar?id=tvb-yueyu
 #EXTINF:-1,tvg-id="TVB星河" tvg-name="TVB星河" tvg-logo="https://epg.v1.mk/logo/TVB星河.png" group-title="港澳台",TVB 星河台
-https://pixman.mytvsuper.com.mp/histar?id=tvb-xinghe
+https://sxj.btjson.us.kg/histar?id=tvb-xinghe
 #EXTINF:-1,tvg-id="TVB亚洲剧" tvg-name="TVB亚洲剧" tvg-logo="https://epg.v1.mk/logo/TVB亚洲剧.png" group-title="港澳台",TVB 亚洲剧台
-https://pixman.mytvsuper.com.mp/histar?id=tvb-asia-drama
+https://sxj.btjson.us.kg/histar?id=tvb-asia-drama
 #EXTINF:-1,tvg-id="TVB娱乐新闻台" tvg-name="TVB娱乐新闻台" tvg-logo="https://epg.v1.mk/logo/TVB娱乐新闻台.png" group-title="港澳台",TVB 娱乐新闻台
-https://pixman.mytvsuper.com.mp/histar?id=TVB ylxw
+https://sxj.btjson.us.kg/histar?id=TVB ylxw
 #EXTINF:-1,tvg-id="j2" tvg-name="j2" tvg-logo="https://epg.v1.mk/logo/j2.png" group-title="其他",J2
-https://pixman.mytvsuper.com.mp/histar?id=j2
+https://sxj.btjson.us.kg/histar?id=j2
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVB 明珠台
-https://pixman.mytvsuper.com.mp/histar?id=pearl
+https://sxj.btjson.us.kg/histar?id=pearl
 #EXTINF:-1,tvg-id="TVB华语剧" tvg-name="TVB华语剧" tvg-logo="https://epg.v1.mk/logo/TVB华语剧.png" group-title="港澳台",TVB 华语剧台
-https://pixman.mytvsuper.com.mp/histar?id=tvb-drama
+https://sxj.btjson.us.kg/histar?id=tvb-drama
 #EXTINF:-1,tvg-id="tvb功夫台" tvg-name="tvb功夫台" tvg-logo="https://epg.v1.mk/logo/tvb功夫台.png" group-title="港澳台",TVB功夫台
-https://pixman.mytvsuper.com.mp/histar?id=tvb-kongfu
+https://sxj.btjson.us.kg/histar?id=tvb-kongfu
 #EXTINF:-1,tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视资讯台.png" group-title="卫视",凤凰卫视 资讯台
-https://pixman.mytvsuper.com.mp/histar?id=phtv-info
+https://sxj.btjson.us.kg/histar?id=phtv-info
 #EXTINF:-1,tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视中文台.png" group-title="卫视",凤凰卫视 中文台
-https://pixman.mytvsuper.com.mp/histar?id=phtv-cn
+https://sxj.btjson.us.kg/histar?id=phtv-cn
 #EXTINF:-1,tvg-id="凤凰卫视香港台" tvg-name="凤凰卫视香港台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港台.png" group-title="香港",凤凰卫视 香港台
-https://pixman.mytvsuper.com.mp/histar?id=phtv-hk
+https://sxj.btjson.us.kg/histar?id=phtv-hk
 #EXTINF:-1,tvg-id="凤凰卫视电影台" tvg-name="凤凰卫视电影台" tvg-logo="https://epg.v1.mk/logo/凤凰卫视电影台.png" group-title="卫视",凤凰卫视电影台
-https://pixman.mytvsuper.com.mp/histar?id=phtv-movies
+https://sxj.btjson.us.kg/histar?id=phtv-movies
 #EXTINF:-1,tvg-id="hoy资讯台" tvg-name="hoy资讯台" tvg-logo="https://epg.v1.mk/logo/hoy资讯台.png" group-title="其他",HOY 资讯台
-https://pixman.mytvsuper.com.mp/histar?id=hoy-info
+https://sxj.btjson.us.kg/histar?id=hoy-info
 #EXTINF:-1,tvg-id="hoytv" tvg-name="hoytv" tvg-logo="https://epg.v1.mk/logo/hoytv.png" group-title="其他",HOY TV
-https://pixman.mytvsuper.com.mp/histar?id=hoytv
+https://sxj.btjson.us.kg/histar?id=hoytv
 #EXTINF:-1,tvg-id="HOY国际财经台" tvg-name="HOY国际财经台" tvg-logo="https://epg.v1.mk/logo/HOY国际财经台.png" group-title="其他",HOY国际财经
-https://pixman.mytvsuper.com.mp/histar?id=hoy-ibc
+https://sxj.btjson.us.kg/histar?id=hoy-ibc
 #EXTINF:-1,tvg-id="viutv" tvg-name="viutv" tvg-logo="https://epg.v1.mk/logo/viutv.png" group-title="其他",ViuTV
-https://pixman.mytvsuper.com.mp/histar?id=viutv
+https://sxj.btjson.us.kg/histar?id=viutv
 #EXTINF:-1,tvg-id="viutv6" tvg-name="viutv6" tvg-logo="https://epg.v1.mk/logo/viutv6.png" group-title="其他",ViuTV6
-https://pixman.mytvsuper.com.mp/histar?id=viutv6
+https://sxj.btjson.us.kg/histar?id=viutv6
 #EXTINF:-1,tvg-id="天映" tvg-name="天映" tvg-logo="https://epg.v1.mk/logo/天映.png" group-title="其他",天映频道
-https://pixman.mytvsuper.com.mp/histar?id=celestial
+https://sxj.btjson.us.kg/histar?id=celestial
 #EXTINF:-1,tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://epg.v1.mk/logo/天映经典.png" group-title="其他",天映经典
-https://pixman.mytvsuper.com.mp/histar?id=cccm
+https://sxj.btjson.us.kg/histar?id=cccm
 #EXTINF:-1,tvg-id="thrill" tvg-name="thrill" tvg-logo="https://epg.v1.mk/logo/thrill.png" group-title="其他",Thrill
-https://pixman.mytvsuper.com.mp/histar?id=thrill
+https://sxj.btjson.us.kg/histar?id=thrill
 #EXTINF:-1,tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://epg.v1.mk/logo/星空卫视.png" group-title="卫视",星空卫视
-https://pixman.mytvsuper.com.mp/histar?id=star-xing-kong
+https://sxj.btjson.us.kg/histar?id=star-xing-kong
 #EXTINF:-1,tvg-id="香港卫视" tvg-name="香港卫视" tvg-logo="https://epg.v1.mk/logo/香港卫视.png" group-title="香港",香港卫视
-https://pixman.mytvsuper.com.mp/histar?id=hks
+https://sxj.btjson.us.kg/histar?id=hks
 #EXTINF:-1,tvg-id="澳亚卫视" tvg-name="澳亚卫视" tvg-logo="https://epg.v1.mk/logo/澳亚卫视.png" group-title="卫视",澳亚卫视
-https://pixman.mytvsuper.com.mp/histar?id=mastv
+https://sxj.btjson.us.kg/histar?id=mastv
 #EXTINF:-1,tvg-id="澳门卫星" tvg-name="澳门卫星" tvg-logo="https://epg.v1.mk/logo/澳门卫星.png" group-title="卫视",澳门卫视
-https://pixman.mytvsuper.com.mp/histar?id=mstv
+https://sxj.btjson.us.kg/histar?id=mstv
 #EXTINF:-1,tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://epg.v1.mk/logo/澳门莲花.png" group-title="卫视",澳门莲花卫视
-https://pixman.mytvsuper.com.mp/histar?id=lotustv
+https://sxj.btjson.us.kg/histar?id=lotustv
 #EXTINF:-1,tvg-id="澳门资讯" tvg-name="澳门资讯" tvg-logo="https://epg.v1.mk/logo/澳门资讯.png" group-title="其他",澳门资讯
-https://pixman.mytvsuper.com.mp/histar?id=tdm-information
+https://sxj.btjson.us.kg/histar?id=tdm-information
 #EXTINF:-1,tvg-id="澳视澳门" tvg-name="澳视澳门" tvg-logo="https://epg.v1.mk/logo/澳视澳门.png" group-title="其他",澳视澳门
-https://pixman.mytvsuper.com.mp/histar?id=tdm
+https://sxj.btjson.us.kg/histar?id=tdm
 #EXTINF:-1,tvg-id="HKC18" tvg-name="HKC18" tvg-logo="https://epg.v1.mk/logo/HKC18.png" group-title="其他",HKC 18台
-https://pixman.mytvsuper.com.mp/histar?id=hkc18
+https://sxj.btjson.us.kg/histar?id=hkc18
 #EXTINF:-1,tvg-id="港台电视31" tvg-name="港台电视31" tvg-logo="https://epg.v1.mk/logo/港台电视31.png" group-title="其他",港台电视 31
-https://pixman.mytvsuper.com.mp/histar?id=rthk31
+https://sxj.btjson.us.kg/histar?id=rthk31
 #EXTINF:-1,tvg-id="港台电视32" tvg-name="港台电视32" tvg-logo="https://epg.v1.mk/logo/港台电视32.png" group-title="其他",港台电视 32
-https://pixman.mytvsuper.com.mp/histar?id=rthk32
+https://sxj.btjson.us.kg/histar?id=rthk32
 #EXTINF:-1,tvg-id="Now财经台" tvg-name="Now财经台" tvg-logo="https://epg.v1.mk/logo/Now财经台.png" group-title="其他",Now 财经台
-https://pixman.mytvsuper.com.mp/histar?id=now-finance
+https://sxj.btjson.us.kg/histar?id=now-finance
 #EXTINF:-1,tvg-id="Now爆谷台" tvg-name="Now爆谷台" tvg-logo="https://epg.v1.mk/logo/Now爆谷台.png" group-title="其他",Now 爆谷台
-https://pixman.mytvsuper.com.mp/histar?id=baogu-movies
+https://sxj.btjson.us.kg/histar?id=baogu-movies
 #EXTINF:-1,tvg-id="NOW星影台" tvg-name="NOW星影台" tvg-logo="https://epg.v1.mk/logo/NOW星影台.png" group-title="其他",Now 星影台
-https://pixman.mytvsuper.com.mp/histar?id=now-baogu-superstars
+https://sxj.btjson.us.kg/histar?id=now-baogu-superstars
 #EXTINF:-1,tvg-id="now新闻台" tvg-name="now新闻台" tvg-logo="https://epg.v1.mk/logo/now新闻台.png" group-title="其他",Now 新闻台
-https://pixman.mytvsuper.com.mp/histar?id=now-news
+https://sxj.btjson.us.kg/histar?id=now-news
 #EXTINF:-1,tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://epg.v1.mk/logo/Now直播台.png" group-title="其他",Now 直播台
-https://pixman.mytvsuper.com.mp/histar?id=now-direct
+https://sxj.btjson.us.kg/histar?id=now-direct
 #EXTINF:-1,tvg-id="Now报价台" tvg-name="Now报价台" tvg-logo="https://epg.v1.mk/logo/Now报价台.png" group-title="其他",Now报价台
-https://pixman.mytvsuper.com.mp/histar?id=now-data
+https://sxj.btjson.us.kg/histar?id=now-data
 #EXTINF:-1,tvg-id="NOWJELLI" tvg-name="NOWJELLI" tvg-logo="https://epg.v1.mk/logo/NOWJELLI.png" group-title="其他",Now jelli紫金国际台
-https://pixman.mytvsuper.com.mp/histar?id=now-jelli
+https://sxj.btjson.us.kg/histar?id=now-jelli
 #EXTINF:-1,tvg-id="Now华剧台" tvg-name="Now华剧台" tvg-logo="https://epg.v1.mk/logo/Now华剧台.png" group-title="其他",Now华剧台
-https://pixman.mytvsuper.com.mp/histar?id=now-chinese-drama
+https://sxj.btjson.us.kg/histar?id=now-chinese-drama
 #EXTINF:-1,tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://epg.v1.mk/logo/HBO Family.png" group-title="港澳台",HBO Now115
-https://pixman.mytvsuper.com.mp/histar?id=Now-HBO
+https://sxj.btjson.us.kg/histar?id=Now-HBO
 #EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="港澳台",Now HBO Hits
-https://pixman.mytvsuper.com.mp/histar?id=now-hbo-hits
+https://sxj.btjson.us.kg/histar?id=now-hbo-hits
 #EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="港澳台",Now HBO Family
-https://pixman.mytvsuper.com.mp/histar?id=now-hbof-amily
+https://sxj.btjson.us.kg/histar?id=now-hbof-amily
 #EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="港澳台",Now HBO Signature
-https://pixman.mytvsuper.com.mp/histar?id=now-hbo-signature
+https://sxj.btjson.us.kg/histar?id=now-hbo-signature
 #EXTINF:-1,tvg-id="MOVIEMOVIE" tvg-name="MOVIEMOVIE" tvg-logo="https://epg.v1.mk/logo/MOVIEMOVIE.png" group-title="其他",MovieMovie
-https://pixman.mytvsuper.com.mp/histar?id=moviemovie
+https://sxj.btjson.us.kg/histar?id=moviemovie
 #EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="其他",NowViu剧集台
-https://pixman.mytvsuper.com.mp/histar?id=now-viu-drama
+https://sxj.btjson.us.kg/histar?id=now-viu-drama
 #EXTINF:-1,tvg-id="NOWSPORTS618" tvg-name="NOWSPORTS618" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS618.png" group-title="其他",Now Sports 641
-https://pixman.mytvsuper.com.mp/histar?id=now-sports641
+https://sxj.btjson.us.kg/histar?id=now-sports641
 #EXTINF:-1,tvg-id="NOWNEW" tvg-name="NOWNEW" tvg-logo="https://epg.v1.mk/logo/NOWNEW.png" group-title="其他",Now NBA
-https://pixman.mytvsuper.com.mp/histar?id=now-nba
+https://sxj.btjson.us.kg/histar?id=now-nba
 #EXTINF:-1,tvg-id="曼联电视" tvg-name="曼联电视" tvg-logo="https://epg.v1.mk/logo/曼联电视.png" group-title="其他",曼联电视频道
-https://pixman.mytvsuper.com.mp/histar?id=now-mutv
+https://sxj.btjson.us.kg/histar?id=now-mutv
 #EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="其他",Now Sports精选
-https://pixman.mytvsuper.com.mp/histar?id=now-sports-prime
+https://sxj.btjson.us.kg/histar?id=now-sports-prime
 #EXTINF:-1,tvg-id="NOWSPORTS1" tvg-name="NOWSPORTS1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS1.png" group-title="其他",Now Sports 1
-https://pixman.mytvsuper.com.mp/histar?id=now-sports-1
+https://sxj.btjson.us.kg/histar?id=now-sports-1
 #EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="其他",Now Sports 2
-https://pixman.mytvsuper.com.mp/histar?id=now-sports-2
+https://sxj.btjson.us.kg/histar?id=now-sports-2
 #EXTINF:-1,tvg-id="NOWSPORTS3" tvg-name="NOWSPORTS3" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS3.png" group-title="其他",Now Sports 3
-https://pixman.mytvsuper.com.mp/histar?id=now-sports-3
+https://sxj.btjson.us.kg/histar?id=now-sports-3
 #EXTINF:-1,tvg-id="NOWSPORTS4" tvg-name="NOWSPORTS4" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS4.png" group-title="其他",Now Sports 4
-https://pixman.mytvsuper.com.mp/histar?id=now-sports-4
+https://sxj.btjson.us.kg/histar?id=now-sports-4
 #EXTINF:-1,tvg-id="NOWSPORTS5" tvg-name="NOWSPORTS5" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS5.png" group-title="其他",Now Sports 5
-https://pixman.mytvsuper.com.mp/histar?id=now-sports-5
+https://sxj.btjson.us.kg/histar?id=now-sports-5
 #EXTINF:-1,tvg-id="NOWSPORTS6" tvg-name="NOWSPORTS6" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS6.png" group-title="其他",Now Sports 6
-https://pixman.mytvsuper.com.mp/histar?id=now-sports-6
+https://sxj.btjson.us.kg/histar?id=now-sports-6
 #EXTINF:-1,tvg-id="NOWSPORTS7" tvg-name="NOWSPORTS7" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS7.png" group-title="其他",Now Sports 7
-https://pixman.mytvsuper.com.mp/histar?id=now-sports-7
+https://sxj.btjson.us.kg/histar?id=now-sports-7
 #EXTINF:-1,tvg-id="NOWSPORTSPLUS" tvg-name="NOWSPORTSPLUS" tvg-logo="https://epg.v1.mk/logo/NOWSPORTSPLUS.png" group-title="其他",Now Sports Plus
-https://pixman.mytvsuper.com.mp/histar?id=now-sports-plus
+https://sxj.btjson.us.kg/histar?id=now-sports-plus
 #EXTINF:-1,tvg-id="NOWSPORTS英超1" tvg-name="NOWSPORTS英超1" tvg-logo="https://epg.v1.mk/logo/NOWSPORTS英超1.png" group-title="其他",Now Sports 英超1
-https://pixman.mytvsuper.com.mp/histar?id=now-sports-premier-league1
+https://sxj.btjson.us.kg/histar?id=now-sports-premier-league1
 #EXTINF:-1,tvg-id="NOWBGT" tvg-name="NOWBGT" tvg-logo="https://epg.v1.mk/logo/NOWBGT.png" group-title="其他",Now beIN SPORTS 1
-https://pixman.mytvsuper.com.mp/histar?id=now-bein-sports1
+https://sxj.btjson.us.kg/histar?id=now-bein-sports1
 #EXTINF:-1,tvg-id="NOWBGT" tvg-name="NOWBGT" tvg-logo="https://epg.v1.mk/logo/NOWBGT.png" group-title="其他",Now beIN SPORTS 2
-https://pixman.mytvsuper.com.mp/histar?id=now-bein-sports2
+https://sxj.btjson.us.kg/histar?id=now-bein-sports2
 #EXTINF:-1,tvg-id="NOWBGT" tvg-name="NOWBGT" tvg-logo="https://epg.v1.mk/logo/NOWBGT.png" group-title="其他",Now beIN SPORTS 3
-https://pixman.mytvsuper.com.mp/histar?id=now-bein-sports3
+https://sxj.btjson.us.kg/histar?id=now-bein-sports3
 #EXTINF:-1,tvg-id="Now668" tvg-name="Now668" tvg-logo="https://epg.v1.mk/logo/Now668.png" group-title="其他",Now 668
-https://pixman.mytvsuper.com.mp/histar?id=now-668
+https://sxj.btjson.us.kg/histar?id=now-668
 #EXTINF:-1,tvg-id="NOWGOLF2" tvg-name="NOWGOLF2" tvg-logo="https://epg.v1.mk/logo/NOWGOLF2.png" group-title="其他",Now Golf 2
-https://pixman.mytvsuper.com.mp/histar?id=now-golf2
+https://sxj.btjson.us.kg/histar?id=now-golf2
 #EXTINF:-1,tvg-id="NOWGOLF3" tvg-name="NOWGOLF3" tvg-logo="https://epg.v1.mk/logo/NOWGOLF3.png" group-title="其他",Now Golf 3
-https://pixman.mytvsuper.com.mp/histar?id=now-golf3
+https://sxj.btjson.us.kg/histar?id=now-golf3
 #EXTINF:-1,tvg-id="民视" tvg-name="民视" tvg-logo="https://epg.v1.mk/logo/民视.png" group-title="港澳台",民视
-https://pixman.mytvsuper.com.mp/histar?id=ftv
+https://sxj.btjson.us.kg/histar?id=ftv
 #EXTINF:-1,tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://epg.v1.mk/logo/民视台湾台.png" group-title="台湾",民视台湾台
-https://pixman.mytvsuper.com.mp/histar?id=ftv-tw
+https://sxj.btjson.us.kg/histar?id=ftv-tw
 #EXTINF:-1,tvg-id="民视第一台" tvg-name="民视第一台" tvg-logo="https://epg.v1.mk/logo/民视第一台.png" group-title="港澳台",民视第一台
-https://pixman.mytvsuper.com.mp/histar?id=ftv-one
+https://sxj.btjson.us.kg/histar?id=ftv-one
 #EXTINF:-1,tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://epg.v1.mk/logo/纬来日本.png" group-title="港澳台",纬来日本
-https://pixman.mytvsuper.com.mp/histar?id=videoland-japan
+https://sxj.btjson.us.kg/histar?id=videoland-japan
 #EXTINF:-1,tvg-id="纬来综合" tvg-name="纬来综合" tvg-logo="https://epg.v1.mk/logo/纬来综合.png" group-title="港澳台",纬来综合
-https://pixman.mytvsuper.com.mp/histar?id=videoland
+https://sxj.btjson.us.kg/histar?id=videoland
 #EXTINF:-1,tvg-id="八大综合" tvg-name="八大综合" tvg-logo="https://epg.v1.mk/logo/八大综合.png" group-title="其他",八大综合
-https://pixman.mytvsuper.com.mp/histar?id=gtv28
+https://sxj.btjson.us.kg/histar?id=gtv28
 #EXTINF:-1,tvg-id="八大第一" tvg-name="八大第一" tvg-logo="https://epg.v1.mk/logo/八大第一.png" group-title="其他",八大第一
-https://pixman.mytvsuper.com.mp/histar?id=gtv27
+https://sxj.btjson.us.kg/histar?id=gtv27
 #EXTINF:-1,tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.v1.mk/logo/TVBS精采台.png" group-title="港澳台",TVBS 精采台
-https://pixman.mytvsuper.com.mp/histar?id=tvbs-jc
+https://sxj.btjson.us.kg/histar?id=tvbs-jc
 #EXTINF:-1,tvg-id="TVBS欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://epg.v1.mk/logo/TVBS欢乐台.png" group-title="港澳台",TVBS 欢乐台
-https://pixman.mytvsuper.com.mp/histar?id=tvbs-huanle
+https://sxj.btjson.us.kg/histar?id=tvbs-huanle
 #EXTINF:-1,tvg-id="TVBSASIA" tvg-name="TVBSASIA" tvg-logo="https://epg.v1.mk/logo/TVBSASIA.png" group-title="港澳台",TVBS Asia
-https://pixman.mytvsuper.com.mp/histar?id=tvbs-asia
+https://sxj.btjson.us.kg/histar?id=tvbs-asia
 #EXTINF:-1,tvg-id="三立台湾台" tvg-name="三立台湾台" tvg-logo="https://epg.v1.mk/logo/三立台湾台.png" group-title="台湾",三立台湾台
-https://pixman.mytvsuper.com.mp/histar?id=settv-taiwan
+https://sxj.btjson.us.kg/histar?id=settv-taiwan
 #EXTINF:-1,tvg-id="三立综合台" tvg-name="三立综合台" tvg-logo="https://epg.v1.mk/logo/三立综合台.png" group-title="其他",三立综合台
-https://pixman.mytvsuper.com.mp/histar?id=settv-zonghe
+https://sxj.btjson.us.kg/histar?id=settv-zonghe
 #EXTINF:-1,tvg-id="台视" tvg-name="台视" tvg-logo="https://epg.v1.mk/logo/台视.png" group-title="港澳台",台视
-https://pixman.mytvsuper.com.mp/histar?id=ttv
+https://sxj.btjson.us.kg/histar?id=ttv
 #EXTINF:-1,tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://epg.v1.mk/logo/东森超视.png" group-title="港澳台",东森超视
-https://pixman.mytvsuper.com.mp/histar?id=ebc-super
+https://sxj.btjson.us.kg/histar?id=ebc-super
 #EXTINF:-1,tvg-id="东森综合台" tvg-name="东森综合台" tvg-logo="https://epg.v1.mk/logo/东森综合台.png" group-title="港澳台",东森综合台
-https://pixman.mytvsuper.com.mp/histar?id=ebc-ettv
+https://sxj.btjson.us.kg/histar?id=ebc-ettv
 #EXTINF:-1,tvg-id="中视" tvg-name="中视" tvg-logo="https://epg.v1.mk/logo/中视.png" group-title="港澳台",中视
-https://pixman.mytvsuper.com.mp/histar?id=ctv
+https://sxj.btjson.us.kg/histar?id=ctv
 #EXTINF:-1,tvg-id="中视菁采台" tvg-name="中视菁采台" tvg-logo="https://epg.v1.mk/logo/中视菁采台.png" group-title="港澳台",中视菁采台
-https://pixman.mytvsuper.com.mp/histar?id=bravo
+https://sxj.btjson.us.kg/histar?id=bravo
 #EXTINF:-1,tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="https://epg.v1.mk/logo/中天亚洲.png" group-title="其他",中天亚洲
-https://pixman.mytvsuper.com.mp/histar?id=cti-asia
+https://sxj.btjson.us.kg/histar?id=cti-asia
 #EXTINF:-1,tvg-id="中天综合" tvg-name="中天综合" tvg-logo="https://epg.v1.mk/logo/中天综合.png" group-title="其他",中天综合
-https://pixman.mytvsuper.com.mp/histar?id=ctitv36
+https://sxj.btjson.us.kg/histar?id=ctitv36
 #EXTINF:-1,tvg-id="华视" tvg-name="华视" tvg-logo="https://epg.v1.mk/logo/华视.png" group-title="港澳台",华视
-https://pixman.mytvsuper.com.mp/histar?id=cts
+https://sxj.btjson.us.kg/histar?id=cts
 #EXTINF:-1,tvg-id="LIVEABC互动英语" tvg-name="LIVEABC互动英语" tvg-logo="https://epg.v1.mk/logo/LIVEABC互动英语.png" group-title="其他",LiveABC 互动英语频道
-https://pixman.mytvsuper.com.mp/histar?id=liveabc
+https://sxj.btjson.us.kg/histar?id=liveabc
 #EXTINF:-1,tvg-id="好消息" tvg-name="好消息" tvg-logo="https://epg.v1.mk/logo/好消息.png" group-title="其他",好消息
-https://pixman.mytvsuper.com.mp/histar?id=goodtv
+https://sxj.btjson.us.kg/histar?id=goodtv
 #EXTINF:-1,tvg-id="KLT靖天国际台" tvg-name="KLT靖天国际台" tvg-logo="https://epg.v1.mk/logo/KLT靖天国际台.png" group-title="其他",KLT-靖天国际台
-https://pixman.mytvsuper.com.mp/histar?id=jtgj
+https://sxj.btjson.us.kg/histar?id=jtgj
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA综合台
-https://pixman.mytvsuper.com.mp/histar?id=elta-zonghe
+https://sxj.btjson.us.kg/histar?id=elta-zonghe
 #EXTINF:-1,tvg-id="公视" tvg-name="公视" tvg-logo="https://epg.v1.mk/logo/公视.png" group-title="其他",公视
-https://pixman.mytvsuper.com.mp/histar?id=pts
+https://sxj.btjson.us.kg/histar?id=pts
 #EXTINF:-1,tvg-id="公视3台" tvg-name="公视3台" tvg-logo="https://epg.v1.mk/logo/公视3台.png" group-title="其他",公视3台
-https://pixman.mytvsuper.com.mp/histar?id=pts-3
+https://sxj.btjson.us.kg/histar?id=pts-3
 #EXTINF:-1,tvg-id="公视台语台" tvg-name="公视台语台" tvg-logo="https://epg.v1.mk/logo/公视台语台.png" group-title="其他",公视台语台
-https://pixman.mytvsuper.com.mp/histar?id=pts-ty
+https://sxj.btjson.us.kg/histar?id=pts-ty
 #EXTINF:-1,tvg-id="靖天综合台" tvg-name="靖天综合台" tvg-logo="https://epg.v1.mk/logo/靖天综合台.png" group-title="其他",靖天综合台
-https://pixman.mytvsuper.com.mp/histar?id=jtzh
+https://sxj.btjson.us.kg/histar?id=jtzh
 #EXTINF:-1,tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://epg.v1.mk/logo/靖天日本台.png" group-title="其他",靖天日本台
-https://pixman.mytvsuper.com.mp/histar?id=jtrb
+https://sxj.btjson.us.kg/histar?id=jtrb
 #EXTINF:-1,tvg-id="客家电视台" tvg-name="客家电视台" tvg-logo="https://epg.v1.mk/logo/客家电视台.png" group-title="其他",客家电视台
-https://pixman.mytvsuper.com.mp/histar?id=hakkatv
+https://sxj.btjson.us.kg/histar?id=hakkatv
 #EXTINF:-1,tvg-id="大爱一台" tvg-name="大爱一台" tvg-logo="https://epg.v1.mk/logo/大爱一台.png" group-title="港澳台",大爱一台
-https://pixman.mytvsuper.com.mp/histar?id=daai1
+https://sxj.btjson.us.kg/histar?id=daai1
 #EXTINF:-1,tvg-id="大爱二台" tvg-name="大爱二台" tvg-logo="https://epg.v1.mk/logo/大爱二台.png" group-title="港澳台",大爱二台
-https://pixman.mytvsuper.com.mp/histar?id=daai2
+https://sxj.btjson.us.kg/histar?id=daai2
 #EXTINF:-1,tvg-id="ARIRANG阿里郎" tvg-name="ARIRANG阿里郎" tvg-logo="https://epg.v1.mk/logo/ARIRANG阿里郎.png" group-title="其他",ARIRANG 阿里郎频道
-https://pixman.mytvsuper.com.mp/histar?id=arirang
+https://sxj.btjson.us.kg/histar?id=arirang
 #EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.v1.mk/logo/中天新闻.png" group-title="其他",中天新闻
-https://pixman.mytvsuper.com.mp/histar?id=cti-news
+https://sxj.btjson.us.kg/histar?id=cti-news
 #EXTINF:-1,tvg-id="TVBS新闻台" tvg-name="TVBS新闻台" tvg-logo="https://epg.v1.mk/logo/TVBS新闻台.png" group-title="港澳台",TVBS 新闻台
-https://pixman.mytvsuper.com.mp/histar?id=tvbs-news
+https://sxj.btjson.us.kg/histar?id=tvbs-news
 #EXTINF:-1,tvg-id="tvbs" tvg-name="tvbs" tvg-logo="https://epg.v1.mk/logo/tvbs.png" group-title="港澳台",TVBS HD
-https://pixman.mytvsuper.com.mp/histar?id=tvbs-hd
+https://sxj.btjson.us.kg/histar?id=tvbs-hd
 #EXTINF:-1,tvg-id="东森新闻" tvg-name="东森新闻" tvg-logo="https://epg.v1.mk/logo/东森新闻.png" group-title="港澳台",东森新闻
-https://pixman.mytvsuper.com.mp/histar?id=ebc-news
+https://sxj.btjson.us.kg/histar?id=ebc-news
 #EXTINF:-1,tvg-id="东森财经新闻" tvg-name="东森财经新闻" tvg-logo="https://epg.v1.mk/logo/东森财经新闻.png" group-title="港澳台",东森财经新闻
-https://pixman.mytvsuper.com.mp/histar?id=ebc-finance
+https://sxj.btjson.us.kg/histar?id=ebc-finance
 #EXTINF:-1,tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台.png" group-title="其他",寰宇新闻台
-https://pixman.mytvsuper.com.mp/histar?id=global-news
+https://sxj.btjson.us.kg/histar?id=global-news
 #EXTINF:-1,tvg-id="寰宇财经台" tvg-name="寰宇财经台" tvg-logo="https://epg.v1.mk/logo/寰宇财经台.png" group-title="其他",寰宇财经台
-https://pixman.mytvsuper.com.mp/histar?id=global-finance
+https://sxj.btjson.us.kg/histar?id=global-finance
 #EXTINF:-1,tvg-id="寰宇新闻台湾台" tvg-name="寰宇新闻台湾台" tvg-logo="https://epg.v1.mk/logo/寰宇新闻台湾台.png" group-title="台湾",寰宇新闻台湾台
-https://pixman.mytvsuper.com.mp/histar?id=global-news-tw
+https://sxj.btjson.us.kg/histar?id=global-news-tw
 #EXTINF:-1,tvg-id="壹新闻" tvg-name="壹新闻" tvg-logo="https://epg.v1.mk/logo/壹新闻.png" group-title="其他",壹新闻 HD
-https://pixman.mytvsuper.com.mp/histar?id=nexttv
+https://sxj.btjson.us.kg/histar?id=nexttv
 #EXTINF:-1,tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://epg.v1.mk/logo/三立新闻.png" group-title="其他",三立新闻
-https://pixman.mytvsuper.com.mp/histar?id=settv-news
+https://sxj.btjson.us.kg/histar?id=settv-news
 #EXTINF:-1,tvg-id="三立iNEWS" tvg-name="三立iNEWS" tvg-logo="https://epg.v1.mk/logo/三立iNEWS.png" group-title="其他",三立iNews
-https://pixman.mytvsuper.com.mp/histar?id=settv-inews
+https://sxj.btjson.us.kg/histar?id=settv-inews
 #EXTINF:-1,tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://epg.v1.mk/logo/中视新闻.png" group-title="港澳台",中视新闻
-https://pixman.mytvsuper.com.mp/histar?id=ctv-news
+https://sxj.btjson.us.kg/histar?id=ctv-news
 #EXTINF:-1,tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://epg.v1.mk/logo/非凡新闻.png" group-title="其他",非凡新闻
-https://pixman.mytvsuper.com.mp/histar?id=unique-business-news
+https://sxj.btjson.us.kg/histar?id=unique-business-news
 #EXTINF:-1,tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://epg.v1.mk/logo/年代新闻.png" group-title="港澳台",年代新闻
-https://pixman.mytvsuper.com.mp/histar?id=era-news
+https://sxj.btjson.us.kg/histar?id=era-news
 #EXTINF:-1,tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://epg.v1.mk/logo/民视新闻台.png" group-title="港澳台",民视新闻台
-https://pixman.mytvsuper.com.mp/histar?id=ftv-news
+https://sxj.btjson.us.kg/histar?id=ftv-news
 #EXTINF:-1,tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://epg.v1.mk/logo/台视新闻.png" group-title="港澳台",台视新闻
-https://pixman.mytvsuper.com.mp/histar?id=ttv-news
+https://sxj.btjson.us.kg/histar?id=ttv-news
 #EXTINF:-1,tvg-id="MNEWS镜新闻" tvg-name="MNEWS镜新闻" tvg-logo="https://epg.v1.mk/logo/MNEWS镜新闻.png" group-title="其他",镜电视新闻台
-https://pixman.mytvsuper.com.mp/histar?id=mnews
+https://sxj.btjson.us.kg/histar?id=mnews
 #EXTINF:-1,tvg-id="华视新闻" tvg-name="华视新闻" tvg-logo="https://epg.v1.mk/logo/华视新闻.png" group-title="港澳台",华视新闻
-https://pixman.mytvsuper.com.mp/histar?id=cts-news
+https://sxj.btjson.us.kg/histar?id=cts-news
 #EXTINF:-1,tvg-id="半岛国际新闻台" tvg-name="半岛国际新闻台" tvg-logo="https://epg.v1.mk/logo/半岛国际新闻台.png" group-title="其他",半岛国际新闻台
-https://pixman.mytvsuper.com.mp/histar?id=aljazeera
+https://sxj.btjson.us.kg/histar?id=aljazeera
 #EXTINF:-1,tvg-id="SBN全球财经台" tvg-name="SBN全球财经台" tvg-logo="https://epg.v1.mk/logo/SBN全球财经台.png" group-title="其他",SBN 全球财经台
-https://pixman.mytvsuper.com.mp/histar?id=sbn
+https://sxj.btjson.us.kg/histar?id=sbn
 #EXTINF:-1,tvg-id="靖天资讯台" tvg-name="靖天资讯台" tvg-logo="https://epg.v1.mk/logo/靖天资讯台.png" group-title="其他",靖天资讯台
-https://pixman.mytvsuper.com.mp/histar?id=jtzx
+https://sxj.btjson.us.kg/histar?id=jtzx
 #EXTINF:-1,tvg-id="霹雳台湾台" tvg-name="霹雳台湾台" tvg-logo="https://epg.v1.mk/logo/霹雳台湾台.png" group-title="台湾",霹雳台湾台
-https://pixman.mytvsuper.com.mp/histar?id=pilitv
+https://sxj.btjson.us.kg/histar?id=pilitv
 #EXTINF:-1,tvg-id="纬来电影台" tvg-name="纬来电影台" tvg-logo="https://epg.v1.mk/logo/纬来电影台.png" group-title="港澳台",纬来电影台
-https://pixman.mytvsuper.com.mp/histar?id=videoland-movie
+https://sxj.btjson.us.kg/histar?id=videoland-movie
 #EXTINF:-1,tvg-id="纬来戏剧" tvg-name="纬来戏剧" tvg-logo="https://epg.v1.mk/logo/纬来戏剧.png" group-title="港澳台",纬来戏剧
-https://pixman.mytvsuper.com.mp/histar?id=videoland-drama
+https://sxj.btjson.us.kg/histar?id=videoland-drama
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVBS综艺台
-https://pixman.mytvsuper.com.mp/histar?id=tvbs-zongyi
+https://sxj.btjson.us.kg/histar?id=tvbs-zongyi
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVBS台剧台
-https://pixman.mytvsuper.com.mp/histar?id=tvbs-taiju
+https://sxj.btjson.us.kg/histar?id=tvbs-taiju
 #EXTINF:-1,tvg-id="龙祥电影" tvg-name="龙祥电影" tvg-logo="https://epg.v1.mk/logo/龙祥电影.png" group-title="其他",龙祥电影台
-https://pixman.mytvsuper.com.mp/histar?id=lstime
+https://sxj.btjson.us.kg/histar?id=lstime
 #EXTINF:-1,tvg-id="龙华电影台" tvg-name="龙华电影台" tvg-logo="https://epg.v1.mk/logo/龙华电影台.png" group-title="其他",龙华电影台
-https://pixman.mytvsuper.com.mp/histar?id=ltv-movies
+https://sxj.btjson.us.kg/histar?id=ltv-movies
 #EXTINF:-1,tvg-id="龙华戏剧台" tvg-name="龙华戏剧台" tvg-logo="https://epg.v1.mk/logo/龙华戏剧台.png" group-title="其他",龙华戏剧台
-https://pixman.mytvsuper.com.mp/histar?id=ltv-xiju
+https://sxj.btjson.us.kg/histar?id=ltv-xiju
 #EXTINF:-1,tvg-id="龙华日韩台" tvg-name="龙华日韩台" tvg-logo="https://epg.v1.mk/logo/龙华日韩台.png" group-title="其他",龙华日韩台
-https://pixman.mytvsuper.com.mp/histar?id=ltv-rihan
+https://sxj.btjson.us.kg/histar?id=ltv-rihan
 #EXTINF:-1,tvg-id="东森电影" tvg-name="东森电影" tvg-logo="https://epg.v1.mk/logo/东森电影.png" group-title="港澳台",东森电影
-https://pixman.mytvsuper.com.mp/histar?id=ebc-movie
+https://sxj.btjson.us.kg/histar?id=ebc-movie
 #EXTINF:-1,tvg-id="东森戏剧" tvg-name="东森戏剧" tvg-logo="https://epg.v1.mk/logo/东森戏剧.png" group-title="港澳台",东森戏剧
-https://pixman.mytvsuper.com.mp/histar?id=ebc-drama
+https://sxj.btjson.us.kg/histar?id=ebc-drama
 #EXTINF:-1,tvg-id="东森洋片" tvg-name="东森洋片" tvg-logo="https://epg.v1.mk/logo/东森洋片.png" group-title="港澳台",东森洋片
-https://pixman.mytvsuper.com.mp/histar?id=ebc-emovie
+https://sxj.btjson.us.kg/histar?id=ebc-emovie
 #EXTINF:-1,tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://epg.v1.mk/logo/八大精彩台.png" group-title="其他",八大精彩台
-https://pixman.mytvsuper.com.mp/histar?id=gtv-jct
+https://sxj.btjson.us.kg/histar?id=gtv-jct
 #EXTINF:-1,tvg-id="八大戏剧" tvg-name="八大戏剧" tvg-logo="https://epg.v1.mk/logo/八大戏剧.png" group-title="其他",八大戏剧
-https://pixman.mytvsuper.com.mp/histar?id=gtv-41
+https://sxj.btjson.us.kg/histar?id=gtv-41
 #EXTINF:-1,tvg-id="八大娱乐" tvg-name="八大娱乐" tvg-logo="https://epg.v1.mk/logo/八大娱乐.png" group-title="其他",八大娱乐
-https://pixman.mytvsuper.com.mp/histar?id=gtv-86
+https://sxj.btjson.us.kg/histar?id=gtv-86
 #EXTINF:-1,tvg-id="八大综艺" tvg-name="八大综艺" tvg-logo="https://epg.v1.mk/logo/八大综艺.png" group-title="其他",八大综艺
-https://pixman.mytvsuper.com.mp/histar?id=grt
+https://sxj.btjson.us.kg/histar?id=grt
 #EXTINF:-1,tvg-id="采昌影剧台" tvg-name="采昌影剧台" tvg-logo="https://epg.v1.mk/logo/采昌影剧台.png" group-title="其他",采昌影剧台
-https://pixman.mytvsuper.com.mp/histar?id=caichang
+https://sxj.btjson.us.kg/histar?id=caichang
 #EXTINF:-1,tvg-id="美亚电影台" tvg-name="美亚电影台" tvg-logo="https://epg.v1.mk/logo/美亚电影台.png" group-title="其他",美亚电影台
-https://pixman.mytvsuper.com.mp/histar?id=meiah-movies
+https://sxj.btjson.us.kg/histar?id=meiah-movies
 #EXTINF:-1,tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://epg.v1.mk/logo/猪哥亮歌厅秀.png" group-title="其他",猪哥亮歌厅秀
-https://pixman.mytvsuper.com.mp/histar?id=zglgtx
+https://sxj.btjson.us.kg/histar?id=zglgtx
 #EXTINF:-1,tvg-id="民视综艺" tvg-name="民视综艺" tvg-logo="https://epg.v1.mk/logo/民视综艺.png" group-title="港澳台",民视综艺
-https://pixman.mytvsuper.com.mp/histar?id=ftv-reality
+https://sxj.btjson.us.kg/histar?id=ftv-reality
 #EXTINF:-1,tvg-id="民视影剧" tvg-name="民视影剧" tvg-logo="https://epg.v1.mk/logo/民视影剧.png" group-title="港澳台",民视影剧
-https://pixman.mytvsuper.com.mp/histar?id=ftv-drama
+https://sxj.btjson.us.kg/histar?id=ftv-drama
 #EXTINF:-1,tvg-id="三立都会台" tvg-name="三立都会台" tvg-logo="https://epg.v1.mk/logo/三立都会台.png" group-title="其他",三立都会台
-https://pixman.mytvsuper.com.mp/histar?id=settv-city
+https://sxj.btjson.us.kg/histar?id=settv-city
 #EXTINF:-1,tvg-id="三立戏剧台" tvg-name="三立戏剧台" tvg-logo="https://epg.v1.mk/logo/三立戏剧台.png" group-title="其他",三立戏剧台
-https://pixman.mytvsuper.com.mp/histar?id=settv-drama
+https://sxj.btjson.us.kg/histar?id=settv-drama
 #EXTINF:-1,tvg-id="中视经典台" tvg-name="中视经典台" tvg-logo="https://epg.v1.mk/logo/中视经典台.png" group-title="港澳台",中视经典台
-https://pixman.mytvsuper.com.mp/histar?id=ctv-classic
+https://sxj.btjson.us.kg/histar?id=ctv-classic
 #EXTINF:-1,tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://epg.v1.mk/logo/中天娱乐.png" group-title="其他",中天娱乐
-https://pixman.mytvsuper.com.mp/histar?id=cti-yule
+https://sxj.btjson.us.kg/histar?id=cti-yule
 #EXTINF:-1,tvg-id="靖洋戏剧台" tvg-name="靖洋戏剧台" tvg-logo="https://epg.v1.mk/logo/靖洋戏剧台.png" group-title="其他",靖洋戏剧台
-https://pixman.mytvsuper.com.mp/histar?id=jyxj
+https://sxj.btjson.us.kg/histar?id=jyxj
 #EXTINF:-1,tvg-id="靖天映画" tvg-name="靖天映画" tvg-logo="https://epg.v1.mk/logo/靖天映画.png" group-title="其他",靖天映画
-https://pixman.mytvsuper.com.mp/histar?id=jtyh
+https://sxj.btjson.us.kg/histar?id=jtyh
 #EXTINF:-1,tvg-id="靖天电影台" tvg-name="靖天电影台" tvg-logo="https://epg.v1.mk/logo/靖天电影台.png" group-title="其他",靖天电影台
-https://pixman.mytvsuper.com.mp/histar?id=jtdy
+https://sxj.btjson.us.kg/histar?id=jtdy
 #EXTINF:-1,tvg-id="靖天戏剧台" tvg-name="靖天戏剧台" tvg-logo="https://epg.v1.mk/logo/靖天戏剧台.png" group-title="其他",靖天戏剧台
-https://pixman.mytvsuper.com.mp/histar?id=jtxjt
+https://sxj.btjson.us.kg/histar?id=jtxjt
 #EXTINF:-1,tvg-id="韩国娱乐台KMTV" tvg-name="韩国娱乐台KMTV" tvg-logo="https://epg.v1.mk/logo/韩国娱乐台KMTV.png" group-title="其他",韩国娱乐台 KMTV
-https://pixman.mytvsuper.com.mp/histar?id=kmtv
+https://sxj.btjson.us.kg/histar?id=kmtv
 #EXTINF:-1,tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="https://epg.v1.mk/logo/公视戏剧.png" group-title="其他",公视戏剧
-https://pixman.mytvsuper.com.mp/histar?id=gsxj
+https://sxj.btjson.us.kg/histar?id=gsxj
 #EXTINF:-1,tvg-id="影迷数位纪实台" tvg-name="影迷数位纪实台" tvg-logo="https://epg.v1.mk/logo/影迷数位纪实台.png" group-title="其他",影迷数位纪实台
-https://pixman.mytvsuper.com.mp/histar?id=ymswjst
+https://sxj.btjson.us.kg/histar?id=ymswjst
 #EXTINF:-1,tvg-id="影迷数位电影" tvg-name="影迷数位电影" tvg-logo="https://epg.v1.mk/logo/影迷数位电影.png" group-title="其他",影迷数字电影台
-https://pixman.mytvsuper.com.mp/histar?id=fans-cinema
+https://sxj.btjson.us.kg/histar?id=fans-cinema
 #EXTINF:-1,tvg-id="视纳华仁纪实" tvg-name="视纳华仁纪实" tvg-logo="https://epg.v1.mk/logo/视纳华仁纪实.png" group-title="其他",视纳华仁纪实频道
-https://pixman.mytvsuper.com.mp/histar?id=cnex
+https://sxj.btjson.us.kg/histar?id=cnex
 #EXTINF:-1,tvg-id="MTVLIVEHD音乐" tvg-name="MTVLIVEHD音乐" tvg-logo="https://epg.v1.mk/logo/MTVLIVEHD音乐.png" group-title="其他",MTV Live HD 频道
-https://pixman.mytvsuper.com.mp/histar?id=mtv
+https://sxj.btjson.us.kg/histar?id=mtv
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA 娱乐台
-https://pixman.mytvsuper.com.mp/histar?id=elta-ylt
+https://sxj.btjson.us.kg/histar?id=elta-ylt
 #EXTINF:-1,tvg-id="channel5" tvg-name="channel5" tvg-logo="https://epg.v1.mk/logo/channel5.png" group-title="其他",Channel 5
-https://pixman.mytvsuper.com.mp/histar?id=channel-5
+https://sxj.btjson.us.kg/histar?id=channel-5
 #EXTINF:-1,tvg-id="92PX-TENNIS_CHANNEL_LOGO" tvg-name="92PX-TENNIS_CHANNEL_LOGO" tvg-logo="https://epg.v1.mk/logo/92PX-TENNIS_CHANNEL_LOGO.png" group-title="其他",Channel 8
-https://pixman.mytvsuper.com.mp/histar?id=channel8
+https://sxj.btjson.us.kg/histar?id=channel8
 #EXTINF:-1,tvg-id="92PX-TENNIS_CHANNEL_LOGO" tvg-name="92PX-TENNIS_CHANNEL_LOGO" tvg-logo="https://epg.v1.mk/logo/92PX-TENNIS_CHANNEL_LOGO.png" group-title="其他",Channel U
-https://pixman.mytvsuper.com.mp/histar?id=channel-u
+https://sxj.btjson.us.kg/histar?id=channel-u
 #EXTINF:-1,tvg-id="8TV" tvg-name="8TV" tvg-logo="https://epg.v1.mk/logo/8TV.png" group-title="其他",8TV
-https://pixman.mytvsuper.com.mp/histar?id=8tv
+https://sxj.btjson.us.kg/histar?id=8tv
 #EXTINF:-1,tvg-id="tv9" tvg-name="tv9" tvg-logo="https://epg.v1.mk/logo/tv9.png" group-title="其他",TV9
-https://pixman.mytvsuper.com.mp/histar?id=tv9
+https://sxj.btjson.us.kg/histar?id=tv9
 #EXTINF:-1,tvg-id="CCM" tvg-name="CCM" tvg-logo="https://epg.v1.mk/logo/CCM.png" group-title="其他",CM+
-https://pixman.mytvsuper.com.mp/histar?id=cm-plus
+https://sxj.btjson.us.kg/histar?id=cm-plus
 #EXTINF:-1,tvg-id="154CINEMAWORLD" tvg-name="154CINEMAWORLD" tvg-logo="https://epg.v1.mk/logo/154CINEMAWORLD.png" group-title="其他",E乐
-https://pixman.mytvsuper.com.mp/histar?id=singtel-tv
+https://sxj.btjson.us.kg/histar?id=singtel-tv
 #EXTINF:-1,tvg-id="tv1" tvg-name="tv1" tvg-logo="https://epg.v1.mk/logo/tv1.png" group-title="其他",TV1
-https://pixman.mytvsuper.com.mp/histar?id=tv1-my
+https://sxj.btjson.us.kg/histar?id=tv1-my
 #EXTINF:-1,tvg-id="TV2" tvg-name="TV2" tvg-logo="https://epg.v1.mk/logo/TV2.png" group-title="其他",TV2
-https://pixman.mytvsuper.com.mp/histar?id=tv2-my
+https://sxj.btjson.us.kg/histar?id=tv2-my
 #EXTINF:-1,tvg-id="TV3" tvg-name="TV3" tvg-logo="https://epg.v1.mk/logo/TV3.png" group-title="其他",TV3
-https://pixman.mytvsuper.com.mp/histar?id=tv3-my
+https://sxj.btjson.us.kg/histar?id=tv3-my
 #EXTINF:-1,tvg-id="CHANNELNEWSASIA" tvg-name="CHANNELNEWSASIA" tvg-logo="https://epg.v1.mk/logo/CHANNELNEWSASIA.png" group-title="其他",ChannelNewsAsia
-https://pixman.mytvsuper.com.mp/histar?id=channelnewsasia
+https://sxj.btjson.us.kg/histar?id=channelnewsasia
 #EXTINF:-1,tvg-id="Okey" tvg-name="Okey" tvg-logo="https://epg.v1.mk/logo/Okey.png" group-title="其他",OKEY
-https://pixman.mytvsuper.com.mp/histar?id=okey
+https://sxj.btjson.us.kg/histar?id=okey
 #EXTINF:-1,tvg-id="200TVBS台劇台" tvg-name="200TVBS台劇台" tvg-logo="https://epg.v1.mk/logo/200TVBS台劇台.png" group-title="港澳台",TVB Magic
-https://pixman.mytvsuper.com.mp/histar?id=tvb-magic
+https://sxj.btjson.us.kg/histar?id=tvb-magic
 #EXTINF:-1,tvg-id="TVNMovies" tvg-name="TVNMovies" tvg-logo="https://epg.v1.mk/logo/TVNMovies.png" group-title="其他",tvN Movies
-https://pixman.mytvsuper.com.mp/histar?id=tvn-movies
+https://sxj.btjson.us.kg/histar?id=tvn-movies
 #EXTINF:-1,tvg-id="axn" tvg-name="axn" tvg-logo="https://epg.v1.mk/logo/axn.png" group-title="其他",AXN
-https://pixman.mytvsuper.com.mp/histar?id=axn
+https://sxj.btjson.us.kg/histar?id=axn
 #EXTINF:-1,tvg-id="TVALHIJRAH" tvg-name="TVALHIJRAH" tvg-logo="https://epg.v1.mk/logo/TVALHIJRAH.png" group-title="其他",TV Alhijrah
-https://pixman.mytvsuper.com.mp/histar?id=tv-alhijrah
+https://sxj.btjson.us.kg/histar?id=tv-alhijrah
 #EXTINF:-1,tvg-id="COLORSHINDI" tvg-name="COLORSHINDI" tvg-logo="https://epg.v1.mk/logo/COLORSHINDI.png" group-title="其他",ColorsHindi
-https://pixman.mytvsuper.com.mp/histar?id=colorshindi
+https://sxj.btjson.us.kg/histar?id=colorshindi
 #EXTINF:-1,tvg-id="TVS" tvg-name="TVS" tvg-logo="https://epg.v1.mk/logo/TVS.png" group-title="其他",TVS
-https://pixman.mytvsuper.com.mp/histar?id=tvs
+https://sxj.btjson.us.kg/histar?id=tvs
 #EXTINF:-1,tvg-id="tvn" tvg-name="tvn" tvg-logo="https://epg.v1.mk/logo/tvn.png" group-title="其他",tvN
-https://pixman.mytvsuper.com.mp/histar?id=tvn
+https://sxj.btjson.us.kg/histar?id=tvn
 #EXTINF:-1,tvg-id="BERITARTM" tvg-name="BERITARTM" tvg-logo="https://epg.v1.mk/logo/BERITARTM.png" group-title="其他",BeritaRTM
-https://pixman.mytvsuper.com.mp/histar?id=beritartm
+https://sxj.btjson.us.kg/histar?id=beritartm
 #EXTINF:-1,tvg-id="SUKANRTM" tvg-name="SUKANRTM" tvg-logo="https://epg.v1.mk/logo/SUKANRTM.png" group-title="其他",SukanRTM
-https://pixman.mytvsuper.com.mp/histar?id=sukanrtm
+https://sxj.btjson.us.kg/histar?id=sukanrtm
 #EXTINF:-1,tvg-id="HITSMOVIES" tvg-name="HITSMOVIES" tvg-logo="https://epg.v1.mk/logo/HITSMOVIES.png" group-title="其他",HITSMovies
-https://pixman.mytvsuper.com.mp/histar?id=hitsmovies
+https://sxj.btjson.us.kg/histar?id=hitsmovies
 #EXTINF:-1,tvg-id="SPACESHOWERTV" tvg-name="SPACESHOWERTV" tvg-logo="https://epg.v1.mk/logo/SPACESHOWERTV.png" group-title="其他",ShowCase
-https://pixman.mytvsuper.com.mp/histar?id=showcase
+https://sxj.btjson.us.kg/histar?id=showcase
 #EXTINF:-1,tvg-id="BBCEARTH" tvg-name="BBCEARTH" tvg-logo="https://epg.v1.mk/logo/BBCEARTH.png" group-title="其他",BBCEarth
-https://pixman.mytvsuper.com.mp/histar?id=bbcearth
+https://sxj.btjson.us.kg/histar?id=bbcearth
 #EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="其他",Mediacorp Suria
-https://pixman.mytvsuper.com.mp/histar?id=mediacorp-suria
+https://sxj.btjson.us.kg/histar?id=mediacorp-suria
 #EXTINF:-1,tvg-id="MEDICIARTS" tvg-name="MEDICIARTS" tvg-logo="https://epg.v1.mk/logo/MEDICIARTS.png" group-title="其他",Mediacorp Vasantham
-https://pixman.mytvsuper.com.mp/histar?id=mediacorp-vasantham
+https://sxj.btjson.us.kg/histar?id=mediacorp-vasantham
 #EXTINF:-1,tvg-id="GEM" tvg-name="GEM" tvg-logo="https://epg.v1.mk/logo/GEM.png" group-title="其他",Gem
-https://pixman.mytvsuper.com.mp/histar?id=gem
+https://sxj.btjson.us.kg/histar?id=gem
 #EXTINF:-1,tvg-id="GLOBAL-NEWS" tvg-name="GLOBAL-NEWS" tvg-logo="https://epg.v1.mk/logo/GLOBAL-NEWS.png" group-title="其他",GlobalTrekker
-https://pixman.mytvsuper.com.mp/histar?id=globaltrekker
+https://sxj.btjson.us.kg/histar?id=globaltrekker
 #EXTINF:-1,tvg-id="DramaSangat" tvg-name="DramaSangat" tvg-logo="https://epg.v1.mk/logo/DramaSangat.png" group-title="其他",DramaSangat
-https://pixman.mytvsuper.com.mp/histar?id=dramasangat
+https://sxj.btjson.us.kg/histar?id=dramasangat
 #EXTINF:-1,tvg-id="SUNTV" tvg-name="SUNTV" tvg-logo="https://epg.v1.mk/logo/SUNTV.png" group-title="其他",SunTV
-https://pixman.mytvsuper.com.mp/histar?id=suntv
+https://sxj.btjson.us.kg/histar?id=suntv
 #EXTINF:-1,tvg-id="SUNMUSIC" tvg-name="SUNMUSIC" tvg-logo="https://epg.v1.mk/logo/SUNMUSIC.png" group-title="其他",SunMusic
-https://pixman.mytvsuper.com.mp/histar?id=sunmusic
+https://sxj.btjson.us.kg/histar?id=sunmusic
 #EXTINF:-1,tvg-id="SUNMUSIC" tvg-name="SUNMUSIC" tvg-logo="https://epg.v1.mk/logo/SUNMUSIC.png" group-title="其他",SunNews
-https://pixman.mytvsuper.com.mp/histar?id=sunnews
+https://sxj.btjson.us.kg/histar?id=sunnews
 #EXTINF:-1,tvg-id="AWESOMETV" tvg-name="AWESOMETV" tvg-logo="https://epg.v1.mk/logo/AWESOMETV.png" group-title="其他",AwesomeTV
-https://pixman.mytvsuper.com.mp/histar?id=awesometv
+https://sxj.btjson.us.kg/histar?id=awesometv
 #EXTINF:-1,tvg-id="DIDIKTVKPM" tvg-name="DIDIKTVKPM" tvg-logo="https://epg.v1.mk/logo/DIDIKTVKPM.png" group-title="其他",DidikTV7
-https://pixman.mytvsuper.com.mp/histar?id=didiktv7
+https://sxj.btjson.us.kg/histar?id=didiktv7
 #EXTINF:-1,tvg-id="Adithya" tvg-name="Adithya" tvg-logo="https://epg.v1.mk/logo/Adithya.png" group-title="其他",Adithya
-https://pixman.mytvsuper.com.mp/histar?id=adithya
+https://sxj.btjson.us.kg/histar?id=adithya
 #EXTINF:-1,tvg-id="KTV" tvg-name="KTV" tvg-logo="https://epg.v1.mk/logo/KTV.png" group-title="其他",KTVHD
-https://pixman.mytvsuper.com.mp/histar?id=ktvhd
+https://sxj.btjson.us.kg/histar?id=ktvhd
 #EXTINF:-1,tvg-id="SUNMUSIC" tvg-name="SUNMUSIC" tvg-logo="https://epg.v1.mk/logo/SUNMUSIC.png" group-title="其他",SunLife
-https://pixman.mytvsuper.com.mp/histar?id=sunlife
+https://sxj.btjson.us.kg/histar?id=sunlife
 #EXTINF:-1,tvg-id="STARVIJAY" tvg-name="STARVIJAY" tvg-logo="https://epg.v1.mk/logo/STARVIJAY.png" group-title="其他",StarVijay
-https://pixman.mytvsuper.com.mp/histar?id=starvijay
+https://sxj.btjson.us.kg/histar?id=starvijay
 #EXTINF:-1,tvg-id="COLORSTAMIL" tvg-name="COLORSTAMIL" tvg-logo="https://epg.v1.mk/logo/COLORSTAMIL.png" group-title="其他",ColorsTamil
-https://pixman.mytvsuper.com.mp/histar?id=colorstamil
+https://sxj.btjson.us.kg/histar?id=colorstamil
 #EXTINF:-1,tvg-id="ZEETAMIL" tvg-name="ZEETAMIL" tvg-logo="https://epg.v1.mk/logo/ZEETAMIL.png" group-title="其他",ZeeTamil
-https://pixman.mytvsuper.com.mp/histar?id=zeetamil
+https://sxj.btjson.us.kg/histar?id=zeetamil
 #EXTINF:-1,tvg-id="ZEECINEMAINTERNATIONAL" tvg-name="ZEECINEMAINTERNATIONAL" tvg-logo="https://epg.v1.mk/logo/ZEECINEMAINTERNATIONAL.png" group-title="其他",ZeeCinemaHD
-https://pixman.mytvsuper.com.mp/histar?id=zeecinemahd
+https://sxj.btjson.us.kg/histar?id=zeecinemahd
 #EXTINF:-1,tvg-id="Boo" tvg-name="Boo" tvg-logo="https://epg.v1.mk/logo/Boo.png" group-title="其他",Boo
-https://pixman.mytvsuper.com.mp/histar?id=boo
+https://sxj.btjson.us.kg/histar?id=boo
 #EXTINF:-1,tvg-id="mtvlive" tvg-name="mtvlive" tvg-logo="https://epg.v1.mk/logo/mtvlive.png" group-title="其他",MTVLive
-https://pixman.mytvsuper.com.mp/histar?id=mtvlive
+https://sxj.btjson.us.kg/histar?id=mtvlive
 #EXTINF:-1,tvg-id="Bernama" tvg-name="Bernama" tvg-logo="https://epg.v1.mk/logo/Bernama.png" group-title="其他",Bernama
-https://pixman.mytvsuper.com.mp/histar?id=bernama
+https://sxj.btjson.us.kg/histar?id=bernama
 #EXTINF:-1,tvg-id="MOOV演唱会" tvg-name="MOOV演唱会" tvg-logo="https://epg.v1.mk/logo/MOOV演唱会.png" group-title="其他",Moonbug
-https://pixman.mytvsuper.com.mp/histar?id=moonbug
+https://sxj.btjson.us.kg/histar?id=moonbug
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",Hub都会
-https://pixman.mytvsuper.com.mp/histar?id=HubECity
+https://sxj.btjson.us.kg/histar?id=HubECity
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",Hub娱家
-https://pixman.mytvsuper.com.mp/histar?id=HubVVDrama
+https://sxj.btjson.us.kg/histar?id=HubVVDrama
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",HubSports 1
-https://pixman.mytvsuper.com.mp/histar?id=hubsports1
+https://sxj.btjson.us.kg/histar?id=hubsports1
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",HubSports2
-https://pixman.mytvsuper.com.mp/histar?id=hubsports2
+https://sxj.btjson.us.kg/histar?id=hubsports2
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",HubSports3
-https://pixman.mytvsuper.com.mp/histar?id=hubsports3
+https://sxj.btjson.us.kg/histar?id=hubsports3
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",HubSport4
-https://pixman.mytvsuper.com.mp/histar?id=hubsports4
+https://sxj.btjson.us.kg/histar?id=hubsports4
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",HubSports Plus
-https://pixman.mytvsuper.com.mp/histar?id=hubsports-plus
+https://sxj.btjson.us.kg/histar?id=hubsports-plus
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",Hub Premier 1
-https://pixman.mytvsuper.com.mp/histar?id=hubpremier1
+https://sxj.btjson.us.kg/histar?id=hubpremier1
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",HubPremier2
-https://pixman.mytvsuper.com.mp/histar?id=hubpremier2
+https://sxj.btjson.us.kg/histar?id=hubpremier2
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",HubPremier3
-https://pixman.mytvsuper.com.mp/histar?id=hubpremier3
+https://sxj.btjson.us.kg/histar?id=hubpremier3
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",HubPremier 4
-https://pixman.mytvsuper.com.mp/histar?id=hubpremier4
+https://sxj.btjson.us.kg/histar?id=hubpremier4
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",HubPremier 5
-https://pixman.mytvsuper.com.mp/histar?id=hubpremier5
+https://sxj.btjson.us.kg/histar?id=hubpremier5
 #EXTINF:-1,tvg-id="HUBEI1" tvg-name="HUBEI1" tvg-logo="https://epg.v1.mk/logo/HUBEI1.png" group-title="其他",Hub Sensasi
-https://pixman.mytvsuper.com.mp/histar?id=hub-sensasi
+https://sxj.btjson.us.kg/histar?id=hub-sensasi
 #EXTINF:-1,tvg-id="tvn" tvg-name="tvn" tvg-logo="https://epg.v1.mk/logo/tvn.png" group-title="其他",tvn HD
-https://pixman.mytvsuper.com.mp/histar?id=tvnhd
+https://sxj.btjson.us.kg/histar?id=tvnhd
 #EXTINF:-1,tvg-id="ASTROWARNA" tvg-name="ASTROWARNA" tvg-logo="https://epg.v1.mk/logo/ASTROWARNA.png" group-title="港澳台",AstroWarna Hub版
-https://pixman.mytvsuper.com.mp/histar?id=astro-warna-hub
+https://sxj.btjson.us.kg/histar?id=astro-warna-hub
 #EXTINF:-1,tvg-id="ANIONE" tvg-name="ANIONE" tvg-logo="https://epg.v1.mk/logo/ANIONE.png" group-title="其他",ONEMalay
-https://pixman.mytvsuper.com.mp/histar?id=one-malay
+https://sxj.btjson.us.kg/histar?id=one-malay
 #EXTINF:-1,tvg-id="AstroAEC" tvg-name="AstroAEC" tvg-logo="https://epg.v1.mk/logo/AstroAEC.png" group-title="港澳台",Astro AEC
-https://pixman.mytvsuper.com.mp/histar?id=astro-aec
+https://sxj.btjson.us.kg/histar?id=astro-aec
 #EXTINF:-1,tvg-id="Astro欢喜台" tvg-name="Astro欢喜台" tvg-logo="https://epg.v1.mk/logo/Astro欢喜台.png" group-title="港澳台",Astro 欢喜台
-https://pixman.mytvsuper.com.mp/histar?id=astro-huaheedai
+https://sxj.btjson.us.kg/histar?id=astro-huaheedai
 #EXTINF:-1,tvg-id="ASTROSUPERSPORT" tvg-name="ASTROSUPERSPORT" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT.png" group-title="港澳台",Astro SuperSport
-https://pixman.mytvsuper.com.mp/histar?id=super-sports1
+https://sxj.btjson.us.kg/histar?id=super-sports1
 #EXTINF:-1,tvg-id="ASTROSUPERSPORT2" tvg-name="ASTROSUPERSPORT2" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT2.png" group-title="港澳台",Astro SuperSport 2
-https://pixman.mytvsuper.com.mp/histar?id=super-sports2
+https://sxj.btjson.us.kg/histar?id=super-sports2
 #EXTINF:-1,tvg-id="ASTROSUPERSPORT3" tvg-name="ASTROSUPERSPORT3" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT3.png" group-title="港澳台",Astro SuperSport 3
-https://pixman.mytvsuper.com.mp/histar?id=super-sports3
+https://sxj.btjson.us.kg/histar?id=super-sports3
 #EXTINF:-1,tvg-id="ASTROSUPERSPORT4" tvg-name="ASTROSUPERSPORT4" tvg-logo="https://epg.v1.mk/logo/ASTROSUPERSPORT4.png" group-title="港澳台",Astro SuperSport 4
-https://pixman.mytvsuper.com.mp/histar?id=super-sports4
+https://sxj.btjson.us.kg/histar?id=super-sports4
 #EXTINF:-1,tvg-id="ARENA2" tvg-name="ARENA2" tvg-logo="https://epg.v1.mk/logo/ARENA2.png" group-title="其他",Arena Bola
-https://pixman.mytvsuper.com.mp/histar?id=arena-bola
+https://sxj.btjson.us.kg/histar?id=arena-bola
 #EXTINF:-1,tvg-id="ARENA2" tvg-name="ARENA2" tvg-logo="https://epg.v1.mk/logo/ARENA2.png" group-title="其他",Arena Bola2
-https://pixman.mytvsuper.com.mp/histar?id=arena-bola2
+https://sxj.btjson.us.kg/histar?id=arena-bola2
 #EXTINF:-1,tvg-id="[ASTRO]712WARNERTV" tvg-name="[ASTRO]712WARNERTV" tvg-logo="https://epg.v1.mk/logo/[ASTRO]712WARNERTV.png" group-title="港澳台",Astro 爱奇艺
-https://pixman.mytvsuper.com.mp/histar?id=astro-iqiyi
+https://sxj.btjson.us.kg/histar?id=astro-iqiyi
 #EXTINF:-1,tvg-id="ASTROAOD311" tvg-name="ASTROAOD311" tvg-logo="https://epg.v1.mk/logo/ASTROAOD311.png" group-title="港澳台",Astro AOD 311 国语
-https://pixman.mytvsuper.com.mp/histar?id=astro-aod
+https://sxj.btjson.us.kg/histar?id=astro-aod
 #EXTINF:-1,tvg-id="ASTROAOD311" tvg-name="ASTROAOD311" tvg-logo="https://epg.v1.mk/logo/ASTROAOD311.png" group-title="港澳台",Astro AOD 311 粤语
-https://pixman.mytvsuper.com.mp/histar?id=astro-aod-311-hk
+https://sxj.btjson.us.kg/histar?id=astro-aod-311-hk
 #EXTINF:-1,tvg-id="ASTROQUANJIA" tvg-name="ASTROQUANJIA" tvg-logo="https://epg.v1.mk/logo/ASTROQUANJIA.png" group-title="港澳台",Astro QJ
-https://pixman.mytvsuper.com.mp/histar?id=astro-quanjia
+https://sxj.btjson.us.kg/histar?id=astro-quanjia
 #EXTINF:-1,tvg-id="ASTROAWANI" tvg-name="ASTROAWANI" tvg-logo="https://epg.v1.mk/logo/ASTROAWANI.png" group-title="港澳台",Astro Awani
-https://pixman.mytvsuper.com.mp/histar?id=astro-awani
+https://sxj.btjson.us.kg/histar?id=astro-awani
 #EXTINF:-1,tvg-id="ASTROARENA" tvg-name="ASTROARENA" tvg-logo="https://epg.v1.mk/logo/ASTROARENA.png" group-title="港澳台",Astro Arena HD
-https://pixman.mytvsuper.com.mp/histar?id=astro-arena-hd
+https://sxj.btjson.us.kg/histar?id=astro-arena-hd
 #EXTINF:-1,tvg-id="ASTROARENA2" tvg-name="ASTROARENA2" tvg-logo="https://epg.v1.mk/logo/ASTROARENA2.png" group-title="港澳台",Astro Arena 2
-https://pixman.mytvsuper.com.mp/histar?id=astro-arena2
+https://sxj.btjson.us.kg/histar?id=astro-arena2
 #EXTINF:-1,tvg-id="ASTROCITRA" tvg-name="ASTROCITRA" tvg-logo="https://epg.v1.mk/logo/ASTROCITRA.png" group-title="港澳台",Astro Citra
-https://pixman.mytvsuper.com.mp/histar?id=astro-citra
+https://sxj.btjson.us.kg/histar?id=astro-citra
 #EXTINF:-1,tvg-id="ASTROPRIMA" tvg-name="ASTROPRIMA" tvg-logo="https://epg.v1.mk/logo/ASTROPRIMA.png" group-title="港澳台",Astro Prima
-https://pixman.mytvsuper.com.mp/histar?id=astro-prima
+https://sxj.btjson.us.kg/histar?id=astro-prima
 #EXTINF:-1,tvg-id="ASTROAURA" tvg-name="ASTROAURA" tvg-logo="https://epg.v1.mk/logo/ASTROAURA.png" group-title="港澳台",Astro Aura
-https://pixman.mytvsuper.com.mp/histar?id=astro-aura
+https://sxj.btjson.us.kg/histar?id=astro-aura
 #EXTINF:-1,tvg-id="ASTRORIA" tvg-name="ASTRORIA" tvg-logo="https://epg.v1.mk/logo/ASTRORIA.png" group-title="港澳台",Astro RIA
-https://pixman.mytvsuper.com.mp/histar?id=astro-ria
+https://sxj.btjson.us.kg/histar?id=astro-ria
 #EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="港澳台",Astro ONE
-https://pixman.mytvsuper.com.mp/histar?id=astro-one
+https://sxj.btjson.us.kg/histar?id=astro-one
 #EXTINF:-1,tvg-id="ASTROPRIMA" tvg-name="ASTROPRIMA" tvg-logo="https://epg.v1.mk/logo/ASTROPRIMA.png" group-title="港澳台",AstroPremier
-https://pixman.mytvsuper.com.mp/histar?id=astropremier
+https://sxj.btjson.us.kg/histar?id=astropremier
 #EXTINF:-1,tvg-id="ASTROCERIA" tvg-name="ASTROCERIA" tvg-logo="https://epg.v1.mk/logo/ASTROCERIA.png" group-title="港澳台",Astro Ceria
-https://pixman.mytvsuper.com.mp/histar?id=astro-ceria
+https://sxj.btjson.us.kg/histar?id=astro-ceria
 #EXTINF:-1,tvg-id="ASTROVAANAVIL" tvg-name="ASTROVAANAVIL" tvg-logo="https://epg.v1.mk/logo/ASTROVAANAVIL.png" group-title="港澳台",Astro Vaanavil
-https://pixman.mytvsuper.com.mp/histar?id=astro-vaanavil
+https://sxj.btjson.us.kg/histar?id=astro-vaanavil
 #EXTINF:-1,tvg-id="ASTROVINMEEN" tvg-name="ASTROVINMEEN" tvg-logo="https://epg.v1.mk/logo/ASTROVINMEEN.png" group-title="港澳台",Astro Vinmeen
-https://pixman.mytvsuper.com.mp/histar?id=astro-vinmeen
+https://sxj.btjson.us.kg/histar?id=astro-vinmeen
 #EXTINF:-1,tvg-id="ASTROWARNA" tvg-name="ASTROWARNA" tvg-logo="https://epg.v1.mk/logo/ASTROWARNA.png" group-title="港澳台",Astro Warna
-https://pixman.mytvsuper.com.mp/histar?id=astro-warna
+https://sxj.btjson.us.kg/histar?id=astro-warna
 #EXTINF:-1,tvg-id="ASTROVELLITHIRAI" tvg-name="ASTROVELLITHIRAI" tvg-logo="https://epg.v1.mk/logo/ASTROVELLITHIRAI.png" group-title="港澳台",Astro Vellithirai
-https://pixman.mytvsuper.com.mp/histar?id=astro-vellithirai
+https://sxj.btjson.us.kg/histar?id=astro-vellithirai
 #EXTINF:-1,tvg-id="ASTRORANIA" tvg-name="ASTRORANIA" tvg-logo="https://epg.v1.mk/logo/ASTRORANIA.png" group-title="港澳台",Astro Rania
-https://pixman.mytvsuper.com.mp/histar?id=astro-rania
+https://sxj.btjson.us.kg/histar?id=astro-rania
 #EXTINF:-1,tvg-id="ASTROOASIS" tvg-name="ASTROOASIS" tvg-logo="https://epg.v1.mk/logo/ASTROOASIS.png" group-title="港澳台",Astro Oasis
-https://pixman.mytvsuper.com.mp/histar?id=astro-oasis
+https://sxj.btjson.us.kg/histar?id=astro-oasis
 #EXTINF:-1,tvg-id="ASTROTUTORTVPT3" tvg-name="ASTROTUTORTVPT3" tvg-logo="https://epg.v1.mk/logo/ASTROTUTORTVPT3.png" group-title="港澳台",Astro TUTOR TV
-https://pixman.mytvsuper.com.mp/histar?id=astro-tutor-tv
+https://sxj.btjson.us.kg/histar?id=astro-tutor-tv
 #EXTINF:-1,tvg-id="[ASTRO]712WARNERTV" tvg-name="[ASTRO]712WARNERTV" tvg-logo="https://epg.v1.mk/logo/[ASTRO]712WARNERTV.png" group-title="港澳台",Astro GolfChannel
-https://pixman.mytvsuper.com.mp/histar?id=astro-golfchannel
+https://sxj.btjson.us.kg/histar?id=astro-golfchannel
 #EXTINF:-1,tvg-id="beINsports" tvg-name="beINsports" tvg-logo="https://epg.v1.mk/logo/beINsports.png" group-title="其他",beIN Sports
-https://pixman.mytvsuper.com.mp/histar?id=beinsports
+https://sxj.btjson.us.kg/histar?id=beinsports
 #EXTINF:-1,tvg-id="BEINSPORTS2" tvg-name="BEINSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEINSPORTS2.png" group-title="其他",beIN Sports 2
-https://pixman.mytvsuper.com.mp/histar?id=beinsports2
+https://sxj.btjson.us.kg/histar?id=beinsports2
 #EXTINF:-1,tvg-id="BEINSPORTS1" tvg-name="BEINSPORTS1" tvg-logo="https://epg.v1.mk/logo/BEINSPORTS1.png" group-title="其他",beIN Sports 3
-https://pixman.mytvsuper.com.mp/histar?id=beinsports3
+https://sxj.btjson.us.kg/histar?id=beinsports3
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA 体育-1
-https://pixman.mytvsuper.com.mp/histar?id=elta-sport1
+https://sxj.btjson.us.kg/histar?id=elta-sport1
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA 体育-2
-https://pixman.mytvsuper.com.mp/histar?id=elta-sport2
+https://sxj.btjson.us.kg/histar?id=elta-sport2
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA 体育-3
-https://pixman.mytvsuper.com.mp/histar?id=elta-sport3
+https://sxj.btjson.us.kg/histar?id=elta-sport3
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA体育4台
-https://pixman.mytvsuper.com.mp/histar?id=elta-sport4
+https://sxj.btjson.us.kg/histar?id=elta-sport4
 #EXTINF:-1,tvg-id="博斯网球" tvg-name="博斯网球" tvg-logo="https://epg.v1.mk/logo/博斯网球.png" group-title="港澳台",博斯网球
-https://pixman.mytvsuper.com.mp/histar?id=sportcast-tennis
+https://sxj.btjson.us.kg/histar?id=sportcast-tennis
 #EXTINF:-1,tvg-id="博斯运动1" tvg-name="博斯运动1" tvg-logo="https://epg.v1.mk/logo/博斯运动1.png" group-title="港澳台",博斯运动-1
-https://pixman.mytvsuper.com.mp/histar?id=sportcast1
+https://sxj.btjson.us.kg/histar?id=sportcast1
 #EXTINF:-1,tvg-id="博斯运动2" tvg-name="博斯运动2" tvg-logo="https://epg.v1.mk/logo/博斯运动2.png" group-title="港澳台",博斯运动-2
-https://pixman.mytvsuper.com.mp/histar?id=sportcast2
+https://sxj.btjson.us.kg/histar?id=sportcast2
 #EXTINF:-1,tvg-id="博斯无限" tvg-name="博斯无限" tvg-logo="https://epg.v1.mk/logo/博斯无限.png" group-title="港澳台",博斯无限
-https://pixman.mytvsuper.com.mp/histar?id=sportcast-wx
+https://sxj.btjson.us.kg/histar?id=sportcast-wx
 #EXTINF:-1,tvg-id="博斯高球" tvg-name="博斯高球" tvg-logo="https://epg.v1.mk/logo/博斯高球.png" group-title="港澳台",博斯高球-1
-https://pixman.mytvsuper.com.mp/histar?id=sportcast-golf1
+https://sxj.btjson.us.kg/histar?id=sportcast-golf1
 #EXTINF:-1,tvg-id="博斯高球" tvg-name="博斯高球" tvg-logo="https://epg.v1.mk/logo/博斯高球.png" group-title="港澳台",博斯高球-2
-https://pixman.mytvsuper.com.mp/histar?id=sportcast-golf2
+https://sxj.btjson.us.kg/histar?id=sportcast-golf2
 #EXTINF:-1,tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://epg.v1.mk/logo/博斯魅力.png" group-title="港澳台",博斯魅力
-https://pixman.mytvsuper.com.mp/histar?id=sportcast-meili
+https://sxj.btjson.us.kg/histar?id=sportcast-meili
 #EXTINF:-1,tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://epg.v1.mk/logo/ESPN.png" group-title="其他",ESPN
-https://pixman.mytvsuper.com.mp/histar?id=espn
+https://sxj.btjson.us.kg/histar?id=espn
 #EXTINF:-1,tvg-id="ESPNNEWS" tvg-name="ESPNNEWS" tvg-logo="https://epg.v1.mk/logo/ESPNNEWS.png" group-title="其他",ESPN 2
-https://pixman.mytvsuper.com.mp/histar?id=espn2
+https://sxj.btjson.us.kg/histar?id=espn2
 #EXTINF:-1,tvg-id="ESPNNEWS" tvg-name="ESPNNEWS" tvg-logo="https://epg.v1.mk/logo/ESPNNEWS.png" group-title="其他",ESPN 3
-https://pixman.mytvsuper.com.mp/histar?id=espn3
+https://sxj.btjson.us.kg/histar?id=espn3
 #EXTINF:-1,tvg-id="ESPNNEWS" tvg-name="ESPNNEWS" tvg-logo="https://epg.v1.mk/logo/ESPNNEWS.png" group-title="其他",ESPN 4
-https://pixman.mytvsuper.com.mp/histar?id=espn4
+https://sxj.btjson.us.kg/histar?id=espn4
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",myTV SUPER直播足球1台
-https://pixman.mytvsuper.com.mp/histar?id=mytv-super-soccer1
+https://sxj.btjson.us.kg/histar?id=mytv-super-soccer1
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",myTV SUPER直播足球2台
-https://pixman.mytvsuper.com.mp/histar?id=mytv-super-soccer2
+https://sxj.btjson.us.kg/histar?id=mytv-super-soccer2
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",myTV SUPER直播足球3台
-https://pixman.mytvsuper.com.mp/histar?id=mytv-super-soccer3
+https://sxj.btjson.us.kg/histar?id=mytv-super-soccer3
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",myTV SUPER直播足球4台
-https://pixman.mytvsuper.com.mp/histar?id=mytv-super-soccer4
+https://sxj.btjson.us.kg/histar?id=mytv-super-soccer4
 #EXTINF:-1,tvg-id="MYTVSUPER18" tvg-name="MYTVSUPER18" tvg-logo="https://epg.v1.mk/logo/MYTVSUPER18.png" group-title="其他",myTV SUPER 18
-https://pixman.mytvsuper.com.mp/histar?id=mytvsuper-18
+https://sxj.btjson.us.kg/histar?id=mytvsuper-18
 #EXTINF:-1,tvg-id="纬来体育" tvg-name="纬来体育" tvg-logo="https://epg.v1.mk/logo/纬来体育.png" group-title="港澳台",纬来体育
-https://pixman.mytvsuper.com.mp/histar?id=videoland-sport
+https://sxj.btjson.us.kg/histar?id=videoland-sport
 #EXTINF:-1,tvg-id="NBA" tvg-name="NBA" tvg-logo="https://epg.v1.mk/logo/NBA.png" group-title="其他",NBA
-https://pixman.mytvsuper.com.mp/histar?id=nba
+https://sxj.btjson.us.kg/histar?id=nba
 #EXTINF:-1,tvg-id="WWE Network" tvg-name="WWE Network" tvg-logo="https://epg.v1.mk/logo/WWE Network.png" group-title="其他",WWE
-https://pixman.mytvsuper.com.mp/histar?id=wwe
+https://sxj.btjson.us.kg/histar?id=wwe
 #EXTINF:-1,tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="https://epg.v1.mk/logo/DAZN1.png" group-title="其他",DAZN 1
-https://pixman.mytvsuper.com.mp/histar?id=eleven-sport1
+https://sxj.btjson.us.kg/histar?id=eleven-sport1
 #EXTINF:-1,tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://epg.v1.mk/logo/DAZN2.png" group-title="其他",DAZN 2
-https://pixman.mytvsuper.com.mp/histar?id=eleven-sport2
+https://sxj.btjson.us.kg/histar?id=eleven-sport2
 #EXTINF:-1,tvg-id="EUROSPORT" tvg-name="EUROSPORT" tvg-logo="https://epg.v1.mk/logo/EUROSPORT.png" group-title="其他",Eurosports-1
-https://pixman.mytvsuper.com.mp/histar?id=eurosports-1
+https://sxj.btjson.us.kg/histar?id=eurosports-1
 #EXTINF:-1,tvg-id="spotv" tvg-name="spotv" tvg-logo="https://epg.v1.mk/logo/spotv.png" group-title="其他",SPOTV
-https://pixman.mytvsuper.com.mp/histar?id=spotv
+https://sxj.btjson.us.kg/histar?id=spotv
 #EXTINF:-1,tvg-id="spotv2" tvg-name="spotv2" tvg-logo="https://epg.v1.mk/logo/spotv2.png" group-title="其他",SPOTV-2
-https://pixman.mytvsuper.com.mp/histar?id=spotv2
+https://sxj.btjson.us.kg/histar?id=spotv2
 #EXTINF:-1,tvg-id="时尚运动X" tvg-name="时尚运动X" tvg-logo="https://epg.v1.mk/logo/时尚运动X.png" group-title="其他",时尚运动 X
-https://pixman.mytvsuper.com.mp/histar?id=ssydx
+https://sxj.btjson.us.kg/histar?id=ssydx
 #EXTINF:-1,tvg-id="GINXESPORTSTV" tvg-name="GINXESPORTSTV" tvg-logo="https://epg.v1.mk/logo/GINXESPORTSTV.png" group-title="其他",GINX Esports TV
-https://pixman.mytvsuper.com.mp/histar?id=ginx-esports
+https://sxj.btjson.us.kg/histar?id=ginx-esports
 #EXTINF:-1,tvg-id="TechStorm" tvg-name="TechStorm" tvg-logo="https://epg.v1.mk/logo/TechStorm.png" group-title="其他",Tech Storm
-https://pixman.mytvsuper.com.mp/histar?id=tech-storm
+https://sxj.btjson.us.kg/histar?id=tech-storm
 #EXTINF:-1,tvg-id="TRACESPORTSTARS" tvg-name="TRACESPORTSTARS" tvg-logo="https://epg.v1.mk/logo/TRACESPORTSTARS.png" group-title="其他",TRACE Sport Stars
-https://pixman.mytvsuper.com.mp/histar?id=trace-sport-stars
+https://sxj.btjson.us.kg/histar?id=trace-sport-stars
 #EXTINF:-1,tvg-id="BEIN–NOWSPORTS2" tvg-name="BEIN–NOWSPORTS2" tvg-logo="https://epg.v1.mk/logo/BEIN–NOWSPORTS2.png" group-title="其他",W-Sport
-https://pixman.mytvsuper.com.mp/histar?id=w-sport
+https://sxj.btjson.us.kg/histar?id=w-sport
 #EXTINF:-1,tvg-id="NOW SPORTS PREMIER LEAGUE TV" tvg-name="NOW SPORTS PREMIER LEAGUE TV" tvg-logo="https://epg.v1.mk/logo/NOW SPORTS PREMIER LEAGUE TV.png" group-title="其他",PremierSports
-https://pixman.mytvsuper.com.mp/histar?id=premiersports
+https://sxj.btjson.us.kg/histar?id=premiersports
 #EXTINF:-1,tvg-id="智林体育台" tvg-name="智林体育台" tvg-logo="https://epg.v1.mk/logo/智林体育台.png" group-title="其他",智林体育台
-https://pixman.mytvsuper.com.mp/histar?id=zl-sports
+https://sxj.btjson.us.kg/histar?id=zl-sports
 #EXTINF:-1,tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="其他",新时代电视
-https://pixman.mytvsuper.com.mp/histar?id=fairchildtv
+https://sxj.btjson.us.kg/histar?id=fairchildtv
 #EXTINF:-1,tvg-id="021新唐人亞太台" tvg-name="021新唐人亞太台" tvg-logo="https://epg.v1.mk/logo/021新唐人亞太台.png" group-title="其他",新时代电视二台
-https://pixman.mytvsuper.com.mp/histar?id=fairchildtv2
+https://sxj.btjson.us.kg/histar?id=fairchildtv2
 #EXTINF:-1,tvg-id="乐陵城市生活" tvg-name="乐陵城市生活" tvg-logo="https://epg.v1.mk/logo/乐陵城市生活.png" group-title="其他",城市电视
-https://pixman.mytvsuper.com.mp/histar?id=talentvisiontv
+https://sxj.btjson.us.kg/histar?id=talentvisiontv
 #EXTINF:-1,tvg-id="hbo" tvg-name="hbo" tvg-logo="https://epg.v1.mk/logo/hbo.png" group-title="港澳台",HBO HD
-https://pixman.mytvsuper.com.mp/histar?id=hbo-hd
+https://sxj.btjson.us.kg/histar?id=hbo-hd
 #EXTINF:-1,tvg-id="HBOHits" tvg-name="HBOHits" tvg-logo="https://epg.v1.mk/logo/HBOHits.png" group-title="港澳台",HBO Hits HD
-https://pixman.mytvsuper.com.mp/histar?id=hbo-hits-hd
+https://sxj.btjson.us.kg/histar?id=hbo-hits-hd
 #EXTINF:-1,tvg-id="hbofamily" tvg-name="hbofamily" tvg-logo="https://epg.v1.mk/logo/hbofamily.png" group-title="港澳台",HBO Family HD
-https://pixman.mytvsuper.com.mp/histar?id=hbo-family
+https://sxj.btjson.us.kg/histar?id=hbo-family
 #EXTINF:-1,tvg-id="HBOSIGNATURE" tvg-name="HBOSIGNATURE" tvg-logo="https://epg.v1.mk/logo/HBOSIGNATURE.png" group-title="港澳台",HBO Signature HD
-https://pixman.mytvsuper.com.mp/histar?id=hbo-signature
+https://sxj.btjson.us.kg/histar?id=hbo-signature
 #EXTINF:-1,tvg-id="cinemax" tvg-name="cinemax" tvg-logo="https://epg.v1.mk/logo/cinemax.png" group-title="其他",Cinemax
-https://pixman.mytvsuper.com.mp/histar?id=cinemax
+https://sxj.btjson.us.kg/histar?id=cinemax
 #EXTINF:-1,tvg-id="CNNINTERNATIONAL" tvg-name="CNNINTERNATIONAL" tvg-logo="https://epg.v1.mk/logo/CNNINTERNATIONAL.png" group-title="其他",CNN International
-https://pixman.mytvsuper.com.mp/histar?id=cnn-international
+https://sxj.btjson.us.kg/histar?id=cnn-international
 #EXTINF:-1,tvg-id="好莱坞电影" tvg-name="好莱坞电影" tvg-logo="https://epg.v1.mk/logo/好莱坞电影.png" group-title="其他",好莱坞电影
-https://pixman.mytvsuper.com.mp/histar?id=hollywood-movie
+https://sxj.btjson.us.kg/histar?id=hollywood-movie
 #EXTINF:-1,tvg-id="ROCKACTION" tvg-name="ROCKACTION" tvg-logo="https://epg.v1.mk/logo/ROCKACTION.png" group-title="其他",ROCK Action
-https://pixman.mytvsuper.com.mp/histar?id=rock-action
+https://sxj.btjson.us.kg/histar?id=rock-action
 #EXTINF:-1,tvg-id="CLASSIC ROCK" tvg-name="CLASSIC ROCK" tvg-logo="https://epg.v1.mk/logo/CLASSIC ROCK.png" group-title="其他",ROCK Entertainment
-https://pixman.mytvsuper.com.mp/histar?id=rock-entertaiment
+https://sxj.btjson.us.kg/histar?id=rock-entertaiment
 #EXTINF:-1,tvg-id="BLOOMBERG" tvg-name="BLOOMBERG" tvg-logo="https://epg.v1.mk/logo/BLOOMBERG.png" group-title="其他",Bloomberg
-https://pixman.mytvsuper.com.mp/histar?id=bloomberg
+https://sxj.btjson.us.kg/histar?id=bloomberg
 #EXTINF:-1,tvg-id="amc最爱电影" tvg-name="amc最爱电影" tvg-logo="https://epg.v1.mk/logo/amc最爱电影.png" group-title="其他",amc 最爱电影
-https://pixman.mytvsuper.com.mp/histar?id=amc-movie
+https://sxj.btjson.us.kg/histar?id=amc-movie
 #EXTINF:-1,tvg-id="美国中文电视" tvg-name="美国中文电视" tvg-logo="https://epg.v1.mk/logo/美国中文电视.png" group-title="其他",美国中文电视
-https://pixman.mytvsuper.com.mp/histar?id=sinovision
+https://sxj.btjson.us.kg/histar?id=sinovision
 #EXTINF:-1,tvg-id="LIFETIME娱乐" tvg-name="LIFETIME娱乐" tvg-logo="https://epg.v1.mk/logo/LIFETIME娱乐.png" group-title="其他",Lifetime 娱乐频道
-https://pixman.mytvsuper.com.mp/histar?id=lifetime
+https://sxj.btjson.us.kg/histar?id=lifetime
 #EXTINF:-1,tvg-id="HLBR" tvg-name="HLBR" tvg-logo="https://epg.v1.mk/logo/HLBR.png" group-title="其他",HLN
-https://pixman.mytvsuper.com.mp/histar?id=cnn-hln
+https://sxj.btjson.us.kg/histar?id=cnn-hln
 #EXTINF:-1,tvg-id="IFUN" tvg-name="IFUN" tvg-logo="https://epg.v1.mk/logo/IFUN.png" group-title="其他",fun 探索娱乐台
-https://pixman.mytvsuper.com.mp/histar?id=festival4k
+https://sxj.btjson.us.kg/histar?id=festival4k
 #EXTINF:-1,tvg-id="euronews" tvg-name="euronews" tvg-logo="https://epg.v1.mk/logo/euronews.png" group-title="其他",Euronews
-https://pixman.mytvsuper.com.mp/histar?id=euronews
+https://sxj.btjson.us.kg/histar?id=euronews
 #EXTINF:-1,tvg-id="MYCINEMAEUROPEHD我的欧洲电影" tvg-name="MYCINEMAEUROPEHD我的欧洲电影" tvg-logo="https://epg.v1.mk/logo/MYCINEMAEUROPEHD我的欧洲电影.png" group-title="其他",MyCinema Europe HD
-https://pixman.mytvsuper.com.mp/histar?id=mycinema-europe
+https://sxj.btjson.us.kg/histar?id=mycinema-europe
 #EXTINF:-1,tvg-id="VOA美国之音" tvg-name="VOA美国之音" tvg-logo="https://epg.v1.mk/logo/VOA美国之音.png" group-title="其他",VOA 美国之音
-https://pixman.mytvsuper.com.mp/histar?id=voa
+https://sxj.btjson.us.kg/histar?id=voa
 #EXTINF:-1,tvg-id="DW德国之声" tvg-name="DW德国之声" tvg-logo="https://epg.v1.mk/logo/DW德国之声.png" group-title="其他",DW 德国之声
-https://pixman.mytvsuper.com.mp/histar?id=dw
+https://sxj.btjson.us.kg/histar?id=dw
 #EXTINF:-1,tvg-id="ABCNEWS" tvg-name="ABCNEWS" tvg-logo="https://epg.v1.mk/logo/ABCNEWS.png" group-title="其他",ABC News
-https://pixman.mytvsuper.com.mp/histar?id=abc-news
+https://sxj.btjson.us.kg/histar?id=abc-news
 #EXTINF:-1,tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.v1.mk/logo/BBCWORLDNEWS.png" group-title="其他",BBC World News
-https://pixman.mytvsuper.com.mp/histar?id=bbc-world-news
+https://sxj.btjson.us.kg/histar?id=bbc-world-news
 #EXTINF:-1,tvg-id="cnbc" tvg-name="cnbc" tvg-logo="https://epg.v1.mk/logo/cnbc.png" group-title="其他",CNBC
-https://pixman.mytvsuper.com.mp/histar?id=cnbc
+https://sxj.btjson.us.kg/histar?id=cnbc
 #EXTINF:-1,tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://epg.v1.mk/logo/上海都市.png" group-title="上海",上海都市
-https://pixman.mytvsuper.com.mp/histar?id=shds
+https://sxj.btjson.us.kg/histar?id=shds
 #EXTINF:-1,tvg-id="上海新闻" tvg-name="上海新闻" tvg-logo="https://epg.v1.mk/logo/上海新闻.png" group-title="上海",上海新闻
-https://pixman.mytvsuper.com.mp/histar?id=shxw
+https://sxj.btjson.us.kg/histar?id=shxw
 #EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.v1.mk/logo/五星体育.png" group-title="其他",五星体育
-https://pixman.mytvsuper.com.mp/histar?id=wxty
+https://sxj.btjson.us.kg/histar?id=wxty
 #EXTINF:-1,tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://epg.v1.mk/logo/劲爆体育.png" group-title="其他",劲爆体育
-https://pixman.mytvsuper.com.mp/histar?id=jbty
+https://sxj.btjson.us.kg/histar?id=jbty
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.v1.mk/logo/广东体育.png" group-title="广东",广东体育
-https://pixman.mytvsuper.com.mp/histar?id=gdty
+https://sxj.btjson.us.kg/histar?id=gdty
 #EXTINF:-1,tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://epg.v1.mk/logo/第一财经.png" group-title="其他",第一财经
-https://pixman.mytvsuper.com.mp/histar?id=yicai
+https://sxj.btjson.us.kg/histar?id=yicai
 #EXTINF:-1,tvg-id="辽宁体育" tvg-name="辽宁体育" tvg-logo="https://epg.v1.mk/logo/辽宁体育.png" group-title="辽宁",辽宁体育
-https://pixman.mytvsuper.com.mp/histar?id=lnty
+https://sxj.btjson.us.kg/histar?id=lnty
 #EXTINF:-1,tvg-id="天津体育" tvg-name="天津体育" tvg-logo="https://epg.v1.mk/logo/天津体育.png" group-title="其他",天津体育
-https://pixman.mytvsuper.com.mp/histar?id=tjty
+https://sxj.btjson.us.kg/histar?id=tjty
 #EXTINF:-1,tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.v1.mk/logo/广东珠江.png" group-title="广东",广东珠江
-https://pixman.mytvsuper.com.mp/histar?id=gdzj
+https://sxj.btjson.us.kg/histar?id=gdzj
 #EXTINF:-1,tvg-id="河南梨园" tvg-name="河南梨园" tvg-logo="https://epg.v1.mk/logo/河南梨园.png" group-title="河南",河南梨园
-https://pixman.mytvsuper.com.mp/histar?id=hnly
+https://sxj.btjson.us.kg/histar?id=hnly
 #EXTINF:-1,tvg-id="辽宁都市" tvg-name="辽宁都市" tvg-logo="https://epg.v1.mk/logo/辽宁都市.png" group-title="辽宁",辽宁都市
-https://pixman.mytvsuper.com.mp/histar?id=lnds
+https://sxj.btjson.us.kg/histar?id=lnds
 #EXTINF:-1,tvg-id="辽宁影视" tvg-name="辽宁影视" tvg-logo="https://epg.v1.mk/logo/辽宁影视.png" group-title="辽宁",辽宁影视
-https://pixman.mytvsuper.com.mp/histar?id=lnys
+https://sxj.btjson.us.kg/histar?id=lnys
 #EXTINF:-1,tvg-id="黑龙江都市" tvg-name="黑龙江都市" tvg-logo="https://epg.v1.mk/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
-https://pixman.mytvsuper.com.mp/histar?id=hljds
+https://sxj.btjson.us.kg/histar?id=hljds
 #EXTINF:-1,tvg-id="广州综合" tvg-name="广州综合" tvg-logo="https://epg.v1.mk/logo/广州综合.png" group-title="其他",广州综合
-https://pixman.mytvsuper.com.mp/histar?id=gzzh
+https://sxj.btjson.us.kg/histar?id=gzzh
 #EXTINF:-1,tvg-id="广州影视" tvg-name="广州影视" tvg-logo="https://epg.v1.mk/logo/广州影视.png" group-title="其他",广州影视
-https://pixman.mytvsuper.com.mp/histar?id=gzys
+https://sxj.btjson.us.kg/histar?id=gzys
 #EXTINF:-1,tvg-id="广州竞赛" tvg-name="广州竞赛" tvg-logo="https://epg.v1.mk/logo/广州竞赛.png" group-title="其他",广州竞赛
-https://pixman.mytvsuper.com.mp/histar?id=gzjs
+https://sxj.btjson.us.kg/histar?id=gzjs
 #EXTINF:-1,tvg-id="广东影视" tvg-name="广东影视" tvg-logo="https://epg.v1.mk/logo/广东影视.png" group-title="广东",广东影视
-https://pixman.mytvsuper.com.mp/histar?id=gdys
+https://sxj.btjson.us.kg/histar?id=gdys
 #EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.v1.mk/logo/广东新闻.png" group-title="广东",广东新闻
-https://pixman.mytvsuper.com.mp/histar?id=gdxw
+https://sxj.btjson.us.kg/histar?id=gdxw
 #EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.v1.mk/logo/广东民生.png" group-title="广东",广东民生
-https://pixman.mytvsuper.com.mp/histar?id=gdms
+https://sxj.btjson.us.kg/histar?id=gdms
 #EXTINF:-1,tvg-id="广东少儿" tvg-name="广东少儿" tvg-logo="https://epg.v1.mk/logo/广东少儿.png" group-title="广东",广东少儿
-https://pixman.mytvsuper.com.mp/histar?id=gdse
+https://sxj.btjson.us.kg/histar?id=gdse
 #EXTINF:-1,tvg-id="曼迪日本" tvg-name="曼迪日本" tvg-logo="https://epg.v1.mk/logo/曼迪日本.png" group-title="其他",迪士尼频道
-https://pixman.mytvsuper.com.mp/histar?id=disney
+https://sxj.btjson.us.kg/histar?id=disney
 #EXTINF:-1,tvg-id="ANIMAXHK" tvg-name="ANIMAXHK" tvg-logo="https://epg.v1.mk/logo/ANIMAXHK.png" group-title="其他",Animax 卡通
-https://pixman.mytvsuper.com.mp/histar?id=animax-cartoon
+https://sxj.btjson.us.kg/histar?id=animax-cartoon
 #EXTINF:-1,tvg-id="DREAMWORKS" tvg-name="DREAMWORKS" tvg-logo="https://epg.v1.mk/logo/DREAMWORKS.png" group-title="其他",DreamWorks 梦工厂动画
-https://pixman.mytvsuper.com.mp/histar?id=dreamworks
+https://sxj.btjson.us.kg/histar?id=dreamworks
 #EXTINF:-1,tvg-id="Astro小太阳" tvg-name="Astro小太阳" tvg-logo="https://epg.v1.mk/logo/Astro小太阳.png" group-title="其他",小尼克频道
-https://pixman.mytvsuper.com.mp/histar?id=nick-jr
+https://sxj.btjson.us.kg/histar?id=nick-jr
 #EXTINF:-1,tvg-id="尼克儿童" tvg-name="尼克儿童" tvg-logo="https://epg.v1.mk/logo/尼克儿童.png" group-title="其他",尼克儿童频道
-https://pixman.mytvsuper.com.mp/histar?id=nickelodeon
+https://sxj.btjson.us.kg/histar?id=nickelodeon
 #EXTINF:-1,tvg-id="MOMO亲子台" tvg-name="MOMO亲子台" tvg-logo="https://epg.v1.mk/logo/MOMO亲子台.png" group-title="其他",MOMO 亲子台
-https://pixman.mytvsuper.com.mp/histar?id=momo-kids
+https://sxj.btjson.us.kg/histar?id=momo-kids
 #EXTINF:-1,tvg-id="东森幼幼台" tvg-name="东森幼幼台" tvg-logo="https://epg.v1.mk/logo/东森幼幼台.png" group-title="港澳台",东森幼幼台
-https://pixman.mytvsuper.com.mp/histar?id=ebc-yoyo
+https://sxj.btjson.us.kg/histar?id=ebc-yoyo
 #EXTINF:-1,tvg-id="CN卡通" tvg-name="CN卡通" tvg-logo="https://epg.v1.mk/logo/CN卡通.png" group-title="其他",CN卡通
-https://pixman.mytvsuper.com.mp/histar?id=cn-cartoon
+https://sxj.btjson.us.kg/histar?id=cn-cartoon
 #EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.v1.mk/logo/靖天卡通台.png" group-title="其他",靖天卡通台
-https://pixman.mytvsuper.com.mp/histar?id=jtkt
+https://sxj.btjson.us.kg/histar?id=jtkt
 #EXTINF:-1,tvg-id="靖天育乐台" tvg-name="靖天育乐台" tvg-logo="https://epg.v1.mk/logo/靖天育乐台.png" group-title="其他",靖天育乐台
-https://pixman.mytvsuper.com.mp/histar?id=jtyl
+https://sxj.btjson.us.kg/histar?id=jtyl
 #EXTINF:-1,tvg-id="iFun动漫台" tvg-name="iFun动漫台" tvg-logo="https://epg.v1.mk/logo/iFun动漫台.png" group-title="其他",i-Fun 动漫台
-https://pixman.mytvsuper.com.mp/histar?id=i-fun
+https://sxj.btjson.us.kg/histar?id=i-fun
 #EXTINF:-1,tvg-id="ELTV生活英语台" tvg-name="ELTV生活英语台" tvg-logo="https://epg.v1.mk/logo/ELTV生活英语台.png" group-title="其他",ELTV生活英語台
-https://pixman.mytvsuper.com.mp/histar?id=eltv
+https://sxj.btjson.us.kg/histar?id=eltv
 #EXTINF:-1,tvg-id="boomerang" tvg-name="boomerang" tvg-logo="https://epg.v1.mk/logo/boomerang.png" group-title="其他",Boomerang HD
-https://pixman.mytvsuper.com.mp/histar?id=boomerang-hd
+https://sxj.btjson.us.kg/histar?id=boomerang-hd
 #EXTINF:-1,tvg-id="靖洋卡通NICEBINGO" tvg-name="靖洋卡通NICEBINGO" tvg-logo="https://epg.v1.mk/logo/靖洋卡通NICEBINGO.png" group-title="其他",靖洋卡通 NiceBingo
-https://pixman.mytvsuper.com.mp/histar?id=nice-bingo
+https://sxj.btjson.us.kg/histar?id=nice-bingo
 #EXTINF:-1,tvg-id="达文西" tvg-name="达文西" tvg-logo="https://epg.v1.mk/logo/达文西.png" group-title="其他",达文西频道
-https://pixman.mytvsuper.com.mp/histar?id=da-vinci
+https://sxj.btjson.us.kg/histar?id=da-vinci
 #EXTINF:-1,tvg-id="探索" tvg-name="探索" tvg-logo="https://epg.v1.mk/logo/探索.png" group-title="其他",探索频道
-https://pixman.mytvsuper.com.mp/histar?id=discovery
+https://sxj.btjson.us.kg/histar?id=discovery
 #EXTINF:-1,tvg-id="探索科学" tvg-name="探索科学" tvg-logo="https://epg.v1.mk/logo/探索科学.png" group-title="其他",探索科学频道
-https://pixman.mytvsuper.com.mp/histar?id=discovery-sci
+https://sxj.btjson.us.kg/histar?id=discovery-sci
 #EXTINF:-1,tvg-id="探索亚洲" tvg-name="探索亚洲" tvg-logo="https://epg.v1.mk/logo/探索亚洲.png" group-title="其他",探索亚洲频道
-https://pixman.mytvsuper.com.mp/histar?id=discovery-asia
+https://sxj.btjson.us.kg/histar?id=discovery-asia
 #EXTINF:-1,tvg-id="DMAX" tvg-name="DMAX" tvg-logo="https://epg.v1.mk/logo/DMAX.png" group-title="其他",DMAX
-https://pixman.mytvsuper.com.mp/histar?id=dmax
+https://sxj.btjson.us.kg/histar?id=dmax
 #EXTINF:-1,tvg-id="history" tvg-name="history" tvg-logo="https://epg.v1.mk/logo/history.png" group-title="其他",History 频道
-https://pixman.mytvsuper.com.mp/histar?id=history
+https://sxj.btjson.us.kg/histar?id=history
 #EXTINF:-1,tvg-id="history2" tvg-name="history2" tvg-logo="https://epg.v1.mk/logo/history2.png" group-title="其他",History-2 频道
-https://pixman.mytvsuper.com.mp/histar?id=history-2
+https://sxj.btjson.us.kg/histar?id=history-2
 #EXTINF:-1,tvg-id="LOVENATURE" tvg-name="LOVENATURE" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png" group-title="其他",Love Nature
-https://pixman.mytvsuper.com.mp/histar?id=love-nature
+https://sxj.btjson.us.kg/histar?id=love-nature
 #EXTINF:-1,tvg-id="国家地理野生" tvg-name="国家地理野生" tvg-logo="https://epg.v1.mk/logo/国家地理野生.png" group-title="其他",国家地理 野生频道
-https://pixman.mytvsuper.com.mp/histar?id=natgeo-wild
+https://sxj.btjson.us.kg/histar?id=natgeo-wild
 #EXTINF:-1,tvg-id="民视旅游" tvg-name="民视旅游" tvg-logo="https://epg.v1.mk/logo/民视旅游.png" group-title="港澳台",民视旅游
-https://pixman.mytvsuper.com.mp/histar?id=ftv-travel
+https://sxj.btjson.us.kg/histar?id=ftv-travel
 #EXTINF:-1,tvg-id="美食星球" tvg-name="美食星球" tvg-logo="https://epg.v1.mk/logo/美食星球.png" group-title="其他",美食星球频道
-https://pixman.mytvsuper.com.mp/histar?id=food-planet
+https://sxj.btjson.us.kg/histar?id=food-planet
 #EXTINF:-1,tvg-id="EYETV" tvg-name="EYETV" tvg-logo="https://epg.v1.mk/logo/EYETV.png" group-title="其他",EYE 旅游台
-https://pixman.mytvsuper.com.mp/histar?id=eye-travel
+https://sxj.btjson.us.kg/histar?id=eye-travel
 #EXTINF:-1,tvg-id="ELTA1" tvg-name="ELTA1" tvg-logo="https://epg.v1.mk/logo/ELTA1.png" group-title="其他",ELTA 生活旅游台
-https://pixman.mytvsuper.com.mp/histar?id=elta-lifetravel
+https://sxj.btjson.us.kg/histar?id=elta-lifetravel
 #EXTINF:-1,tvg-id="车迷TV" tvg-name="车迷TV" tvg-logo="https://epg.v1.mk/logo/车迷TV.png" group-title="其他",车迷TV
-https://pixman.mytvsuper.com.mp/histar?id=motorvision
+https://sxj.btjson.us.kg/histar?id=motorvision
 #EXTINF:-1,tvg-id="动物星球" tvg-name="动物星球" tvg-logo="https://epg.v1.mk/logo/动物星球.png" group-title="其他",动物星球频道
-https://pixman.mytvsuper.com.mp/histar?id=animal-planet
+https://sxj.btjson.us.kg/histar?id=animal-planet
 #EXTINF:-1,tvg-id="TLC旅游生活频道" tvg-name="TLC旅游生活频道" tvg-logo="https://epg.v1.mk/logo/TLC旅游生活频道.png" group-title="其他",TLC 旅游生活頻道
-https://pixman.mytvsuper.com.mp/histar?id=tlc
+https://sxj.btjson.us.kg/histar?id=tlc
 #EXTINF:-1,tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://epg.v1.mk/logo/亚洲旅游台.png" group-title="其他",亚洲旅游台
-https://pixman.mytvsuper.com.mp/histar?id=asia-travel
+https://sxj.btjson.us.kg/histar?id=asia-travel
 #EXTINF:-1,tvg-id="ASIANFOODNETWORK" tvg-name="ASIANFOODNETWORK" tvg-logo="https://epg.v1.mk/logo/ASIANFOODNETWORK.png" group-title="其他",Asian Food Network
-https://pixman.mytvsuper.com.mp/histar?id=asian-food-network
+https://sxj.btjson.us.kg/histar?id=asian-food-network
 #EXTINF:-1,tvg-id="CI罪案侦查" tvg-name="CI罪案侦查" tvg-logo="https://epg.v1.mk/logo/CI罪案侦查.png" group-title="其他",CI 罪案侦查频道
-https://pixman.mytvsuper.com.mp/histar?id=ci
+https://sxj.btjson.us.kg/histar?id=ci
 #EXTINF:-1,tvg-id="滚动力ROLLOR" tvg-name="滚动力ROLLOR" tvg-logo="https://epg.v1.mk/logo/滚动力ROLLOR.png" group-title="其他",滚动力 rollor
-https://pixman.mytvsuper.com.mp/histar?id=rollor
+https://sxj.btjson.us.kg/histar?id=rollor
 #EXTINF:-1,tvg-id="LUXETVCHANNEL" tvg-name="LUXETVCHANNEL" tvg-logo="https://epg.v1.mk/logo/LUXETVCHANNEL.png" group-title="其他",LUXE TV Channel
-https://pixman.mytvsuper.com.mp/histar?id=luxe-tv
+https://sxj.btjson.us.kg/histar?id=luxe-tv
 #EXTINF:-1,tvg-id="AXNHK" tvg-name="AXNHK" tvg-logo="https://epg.v1.mk/logo/AXNHK.png" group-title="港澳台",NHK General
-https://pixman.mytvsuper.com.mp/histar?id=nhk-g
+https://sxj.btjson.us.kg/histar?id=nhk-g
 #EXTINF:-1,tvg-id="AXNHK" tvg-name="AXNHK" tvg-logo="https://epg.v1.mk/logo/AXNHK.png" group-title="港澳台",NHK Education
-https://pixman.mytvsuper.com.mp/histar?id=nhk-e
+https://sxj.btjson.us.kg/histar?id=nhk-e
 #EXTINF:-1,tvg-id="Discovery探索日本" tvg-name="Discovery探索日本" tvg-logo="https://epg.v1.mk/logo/Discovery探索日本.png" group-title="其他",日本电视台
-https://pixman.mytvsuper.com.mp/histar?id=nippon-tv
+https://sxj.btjson.us.kg/histar?id=nippon-tv
 #EXTINF:-1,tvg-id="TBSkorean" tvg-name="TBSkorean" tvg-logo="https://epg.v1.mk/logo/TBSkorean.png" group-title="其他",TBS TV
-https://pixman.mytvsuper.com.mp/histar?id=tbs-tv
+https://sxj.btjson.us.kg/histar?id=tbs-tv
 #EXTINF:-1,tvg-id="newtv农业致富" tvg-name="newtv农业致富" tvg-logo="https://epg.v1.mk/logo/newtv农业致富.png" group-title="其他",富士电视台
-https://pixman.mytvsuper.com.mp/histar?id=fujitv
+https://sxj.btjson.us.kg/histar?id=fujitv
 #EXTINF:-1,tvg-id="朝阳融媒" tvg-name="朝阳融媒" tvg-logo="https://epg.v1.mk/logo/朝阳融媒.png" group-title="其他",朝日电视台
-https://pixman.mytvsuper.com.mp/histar?id=tv-asahi
+https://sxj.btjson.us.kg/histar?id=tv-asahi
 #EXTINF:-1,tvg-id="CIBN东方购物" tvg-name="CIBN东方购物" tvg-logo="https://epg.v1.mk/logo/CIBN东方购物.png" group-title="其他",东京电视台
-https://pixman.mytvsuper.com.mp/histar?id=tv-tokyo
+https://sxj.btjson.us.kg/histar?id=tv-tokyo
 #EXTINF:-1,tvg-id="AHJJSH" tvg-name="AHJJSH" tvg-logo="https://epg.v1.mk/logo/AHJJSH.png" group-title="其他",JSPORTS 1
-https://pixman.mytvsuper.com.mp/histar?id=jsports1
+https://sxj.btjson.us.kg/histar?id=jsports1
 #EXTINF:-1,tvg-id="AHJJSH" tvg-name="AHJJSH" tvg-logo="https://epg.v1.mk/logo/AHJJSH.png" group-title="其他",JSPORTS 2
-https://pixman.mytvsuper.com.mp/histar?id=jsports2
+https://sxj.btjson.us.kg/histar?id=jsports2
 #EXTINF:-1,tvg-id="AHJJSH" tvg-name="AHJJSH" tvg-logo="https://epg.v1.mk/logo/AHJJSH.png" group-title="其他",JSPORTS 3
-https://pixman.mytvsuper.com.mp/histar?id=jsports3
+https://sxj.btjson.us.kg/histar?id=jsports3
 #EXTINF:-1,tvg-id="AHJJSH" tvg-name="AHJJSH" tvg-logo="https://epg.v1.mk/logo/AHJJSH.png" group-title="其他",JSPORTS 4
-https://pixman.mytvsuper.com.mp/histar?id=jsports4
+https://sxj.btjson.us.kg/histar?id=jsports4
 #EXTINF:-1,tvg-id="kbs1" tvg-name="kbs1" tvg-logo="https://epg.v1.mk/logo/kbs1.png" group-title="其他",KBS 1
-https://pixman.mytvsuper.com.mp/histar?id=kbs-1
+https://sxj.btjson.us.kg/histar?id=kbs-1
 #EXTINF:-1,tvg-id="kbs2" tvg-name="kbs2" tvg-logo="https://epg.v1.mk/logo/kbs2.png" group-title="其他",KBS 2
-https://pixman.mytvsuper.com.mp/histar?id=kbs-2
+https://sxj.btjson.us.kg/histar?id=kbs-2
 #EXTINF:-1,tvg-id="KBSDrama" tvg-name="KBSDrama" tvg-logo="https://epg.v1.mk/logo/KBSDrama.png" group-title="其他",KBS Drama
-https://pixman.mytvsuper.com.mp/histar?id=kbs-drama
+https://sxj.btjson.us.kg/histar?id=kbs-drama
 #EXTINF:-1,tvg-id="kbsstory" tvg-name="kbsstory" tvg-logo="https://epg.v1.mk/logo/kbsstory.png" group-title="其他",KBS Story
-https://pixman.mytvsuper.com.mp/histar?id=kbs-story
+https://sxj.btjson.us.kg/histar?id=kbs-story
 #EXTINF:-1,tvg-id="CH_T_KBS1" tvg-name="CH_T_KBS1" tvg-logo="https://epg.v1.mk/logo/CH_T_KBS1.png" group-title="其他",KBS Life
-https://pixman.mytvsuper.com.mp/histar?id=kbs-life
+https://sxj.btjson.us.kg/histar?id=kbs-life
 #EXTINF:-1,tvg-id="kbsjoy" tvg-name="kbsjoy" tvg-logo="https://epg.v1.mk/logo/kbsjoy.png" group-title="其他",KBS Joy
-https://pixman.mytvsuper.com.mp/histar?id=kbs-joy
+https://sxj.btjson.us.kg/histar?id=kbs-joy
 #EXTINF:-1,tvg-id="KBSKids" tvg-name="KBSKids" tvg-logo="https://epg.v1.mk/logo/KBSKids.png" group-title="其他",KBS Kids
-https://pixman.mytvsuper.com.mp/histar?id=kbs-kids
+https://sxj.btjson.us.kg/histar?id=kbs-kids
 #EXTINF:-1,tvg-id="KBSWorld" tvg-name="KBSWorld" tvg-logo="https://epg.v1.mk/logo/KBSWorld.png" group-title="其他",KBSWorld
-https://pixman.mytvsuper.com.mp/histar?id=kbsworld
+https://sxj.btjson.us.kg/histar?id=kbsworld
 #EXTINF:-1,tvg-id="KBSNEWS" tvg-name="KBSNEWS" tvg-logo="https://epg.v1.mk/logo/KBSNEWS.png" group-title="其他",KBS NEWS
-https://pixman.mytvsuper.com.mp/histar?id=kbs-news
+https://sxj.btjson.us.kg/histar?id=kbs-news
 #EXTINF:-1,tvg-id="sbs" tvg-name="sbs" tvg-logo="https://epg.v1.mk/logo/sbs.png" group-title="其他",SBS
-https://pixman.mytvsuper.com.mp/histar?id=sbs
+https://sxj.btjson.us.kg/histar?id=sbs
 #EXTINF:-1,tvg-id="sbsplus" tvg-name="sbsplus" tvg-logo="https://epg.v1.mk/logo/sbsplus.png" group-title="其他",SBS Plus
-https://pixman.mytvsuper.com.mp/histar?id=sbs-plus
+https://sxj.btjson.us.kg/histar?id=sbs-plus
 #EXTINF:-1,tvg-id="sbsfune" tvg-name="sbsfune" tvg-logo="https://epg.v1.mk/logo/sbsfune.png" group-title="其他",SBS funE
-https://pixman.mytvsuper.com.mp/histar?id=sbs-fune
+https://sxj.btjson.us.kg/histar?id=sbs-fune
 #EXTINF:-1,tvg-id="sbsmtv" tvg-name="sbsmtv" tvg-logo="https://epg.v1.mk/logo/sbsmtv.png" group-title="其他",SBS M
-https://pixman.mytvsuper.com.mp/histar?id=sbs-m
+https://sxj.btjson.us.kg/histar?id=sbs-m
