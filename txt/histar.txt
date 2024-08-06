@@ -1,3 +1,15 @@
+綜藝,#genre#
+三立都會台,https://sxj.btjson.us.kg/histar?id=settv-city
+緯來日本,https://sxj.btjson.us.kg/histar?id=videoland-japan
+中天綜合,https://sxj.btjson.us.kg/histar?id=ctitv36
+中天娛樂,https://sxj.btjson.us.kg/histar?id=cti-yule
+東森超視,https://sxj.btjson.us.kg/histar?id=ebc-super
+東森綜合台,https://sxj.btjson.us.kg/histar?id=ebc-ettv
+TVBS 歡樂台,https://sxj.btjson.us.kg/histar?id=tvbs-huanle
+民視綜藝,https://sxj.btjson.us.kg/histar?id=ftv-reality
+韓國娛樂台 KMTV,https://sxj.btjson.us.kg/histar?id=kmtv
+MTV Live HD 頻道,https://sxj.btjson.us.kg/histar?id=mtv
+ELTA 娛樂台,https://sxj.btjson.us.kg/histar?id=elta-ylt
 綜合,#genre#
 台視,https://sxj.btjson.us.kg/histar?id=ttv
 中視,https://sxj.btjson.us.kg/histar?id=ctv
@@ -31,18 +43,6 @@ ELTA綜合台,https://sxj.btjson.us.kg/histar?id=elta-zonghe
 大愛二台,https://sxj.btjson.us.kg/histar?id=daai2
 靖天資訊台,https://sxj.btjson.us.kg/histar?id=jtzx
 霹靂臺灣台,https://sxj.btjson.us.kg/histar?id=pilitv
-綜藝,#genre#
-三立都會台,https://sxj.btjson.us.kg/histar?id=settv-city
-緯來日本,https://sxj.btjson.us.kg/histar?id=videoland-japan
-中天綜合,https://sxj.btjson.us.kg/histar?id=ctitv36
-中天娛樂,https://sxj.btjson.us.kg/histar?id=cti-yule
-東森超視,https://sxj.btjson.us.kg/histar?id=ebc-super
-東森綜合台,https://sxj.btjson.us.kg/histar?id=ebc-ettv
-TVBS 歡樂台,https://sxj.btjson.us.kg/histar?id=tvbs-huanle
-民視綜藝,https://sxj.btjson.us.kg/histar?id=ftv-reality
-韓國娛樂台 KMTV,https://sxj.btjson.us.kg/histar?id=kmtv
-MTV Live HD 頻道,https://sxj.btjson.us.kg/histar?id=mtv
-ELTA 娛樂台,https://sxj.btjson.us.kg/histar?id=elta-ylt
 新聞,#genre#
 中天新聞,https://sxj.btjson.us.kg/histar?id=cti-news
 TVBS 新聞台,https://sxj.btjson.us.kg/histar?id=tvbs-news
