@@ -25,7 +25,7 @@
     {
       "name": "SmartTV",
       "type": 0,
-      "url": "https://fm1077.serv00.net/SmartTV.m3u",
+      "url": "https://tang.hz.cz/zb/stv?token=b6082eb1",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     }
