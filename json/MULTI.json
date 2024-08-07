@@ -48,9 +48,7 @@
     {
       "name": "YouTube",
       "type": 0,
-      "url": "https://magic-libby-algomin-20595530.koyeb.app/youtube/list/PLo0LzZW_GvAjQjeXZe_A6p4-jL3XSfTdv",
-      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+      "url": "https://magic-libby-algomin-20595530.koyeb.app/youtube/list/PLo0LzZW_GvAjQjeXZe_A6p4-jL3XSfTdv"
     },
     {
       "name":"iTV",
