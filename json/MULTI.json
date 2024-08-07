@@ -17,7 +17,7 @@
     {
       "name": "HamiTV",
       "type": 0,
-      "url": "https://https://www.mytvsuper.com.mp/Hami_dussl.m3u",
+      "url": "https://www.mytvsuper.com.mp/Hami_dussl.m3u",
       "ua": "okhttp/4.12.0",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
