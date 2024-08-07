@@ -48,7 +48,8 @@
     {
       "name": "YouTube",
       "type": 0,
-      "url": "https://magic-libby-algomin-20595530.koyeb.app/youtube/list/PLo0LzZW_GvAjQjeXZe_A6p4-jL3XSfTdv"
+      "url": "https://magic-libby-algomin-20595530.koyeb.app/youtube/list/PLo0LzZW_GvAjQjeXZe_A6p4-jL3XSfTdv",
+      "ua": "okhttp/4.12.0"
     },
     {
       "name":"iTV",
