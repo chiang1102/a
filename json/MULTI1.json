@@ -1,6 +1,14 @@
 {
   "lives": [
     {
+      "name": "ETHTV(JS)",
+      "api": "https://raw.githubusercontent.com/chiang1102/a/main/js/eth.js",
+      "type": 3,
+      "ua": "okhttp/4.12.0",
+      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo":"http://epg.112114.eu.org/logo/{name}.png"
+    },
+    {
       "name": "四季TV",
       "type": 0,
       "url": "https://noisy-nikoletta-jamin-9f6d6e7b.koyeb.app/4gtv.m3u",
@@ -14,14 +22,6 @@
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
-   {
-     "name": "ETHTV(JS)",
-     "api": "https://raw.githubusercontent.com/chiang1102/a/main/js/eth.js",
-     "type": 3,
-     "ua": "okhttp/4.12.0",
-     "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-     "logo":"http://epg.112114.eu.org/logo/{name}.png"
-   },
     {
       "name": "SmartTV",
       "type": 0,
