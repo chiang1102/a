@@ -7,7 +7,6 @@
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
-    
     {
      "name": "ETHTV(JS)",
      "api": "https://tang.hz.cz/js/ethtv.js",
