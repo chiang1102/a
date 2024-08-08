@@ -7,13 +7,7 @@
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
       "logo":"http://epg.112114.eu.org/logo/{name}.png"
     },
-    {
-      "name": "四季TV備源-1",
-      "type": 0,
-      "url": "https://magic-libby-algomin-20595530.koyeb.app/4gtv.m3u",
-      "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
-      "logo":"http://epg.112114.eu.org/logo/{name}.png"
-    },
+    
     {
      "name": "ETHTV(JS)",
      "api": "https://tang.hz.cz/js/ethtv.js",
