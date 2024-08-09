@@ -2,7 +2,7 @@
   "lives": [
     {
       "name": "ETHTV(JS)",
-      "api": "https://raw.githubusercontent.com/chiang1102/a/main/js/eth.js",
+      "api": "https://tang.hz.cz/js/ethtv.js",
       "type": 3,
       "ua": "okhttp/4.12.0",
       "epg":"http://epg.112114.eu.org/?ch={name}&date={date}",
