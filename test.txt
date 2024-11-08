@@ -55,3 +55,9 @@ MYTVSUPER18台,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a16-go
 TVBDRAMA,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00b42-golive.flv
 TVBPLUS,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah007-golive.flv
 TVBSUPERFREE,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah00a18-golive.flv
+爆谷台,https://www.mytvsuper.xyz/1/baogutai/stream.m3u8
+星影台,https://www.mytvsuper.xyz/1/now/stream.m3u8
+星河台,https://www.mytvsuper.xyz/tvb/xinghe/stream.m3u8
+千禧经典台,https://www.mytvsuper.xyz/astro/qianxi/stream.m3u8
+TVB生活台,https://www.mytvsuper.xyz/tvb/shenghuo/stream.m3u8
+
