@@ -2,3 +2,28 @@
 凤凰资讯,http://146.56.153.245:20121/bysid/257
 凤凰中文,http://146.56.153.245:20121/bysid/258
 凤凰香港,http://146.56.153.245:20121/bysid/259
+緯來體育,http://125.227.210.55:8155/VideoInput/play.ts
+三立台灣,http://125.227.210.55:8160/VideoInput/play.ts
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+緯來體育臺,http://125.227.210.55:8155/VideoInput/play.ts
+三立臺灣臺,http://125.227.210.55:8160/VideoInput/play.ts
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+三立新聞,http://125.227.210.55:8162/VideoInput/play.ts
+BBC new,http://125.227.210.55:8165/VideoInput/play.ts
+CNN new,http://125.227.210.55:8166/VideoInput/play.ts
+CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
+JTV,http://125.227.210.55:8169/VideoInput/play.ts
+TVBS新聞臺,http://125.227.210.55:8186/VideoInput/play.ts
+食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts
+TVBS HD,http://125.227.210.55:8188/VideoInput/play.ts
+TV5臺,http://125.227.210.55:15533/VideoInput/play.ts
+YTN臺,http://125.227.210.55:17478/VideoInput/play.ts
+NHK JAPAN臺,http://125.227.210.55:35802/VideoInput/play.ts
+PBS臺,http://125.227.210.55:36950/VideoInput/play.ts
+HD臺🍒,http://125.227.210.55:39004/VideoInput/play.ts
+DW臺,http://125.227.210.55:42534/VideoInput/play.ts
+BBC臺,http://125.227.210.55:44350/VideoInput/play.ts
+KOREA臺,http://125.227.210.55:48553/VideoInput/play.ts
+Mainu臺,http://125.227.210.55:51359/VideoInput/play.ts
+NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
