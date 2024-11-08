@@ -1,0 +1,7 @@
+1,https://live.hkdvb.com/hls/playlist.m3u?token=459616574757436
+2,https://edge1.hkdvb.com/hls/playlist.m3u?token=459616574757436
+3,https://edge2.hkdvb.com/hls/playlist.m3u?token=459616574757436
+4,https://edge3.hkdvb.com/hls/playlist.m3u?token=459616574757436
+5,https://edge1.tvfree.sbs/hls/playlist.m3u?token=459616574757436
+6,https://live.tvfree.sbs/hls/playlist.m3u?token=459616574757436
+7,https://vod.hkdvb.com/playlist.m3u?token=459616574757436
