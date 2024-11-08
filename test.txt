@@ -1,7 +1,8 @@
-1,https://live.hkdvb.com/hls/playlist.m3u?token=459616574757436
-2,https://edge1.hkdvb.com/hls/playlist.m3u?token=459616574757436
-3,https://edge2.hkdvb.com/hls/playlist.m3u?token=459616574757436
-4,https://edge3.hkdvb.com/hls/playlist.m3u?token=459616574757436
-5,https://edge1.tvfree.sbs/hls/playlist.m3u?token=459616574757436
-6,https://live.tvfree.sbs/hls/playlist.m3u?token=459616574757436
-7,https://vod.hkdvb.com/playlist.m3u?token=459616574757436
+鳳凰HD臺,http://125.227.210.55:39004/VideoInput/play.ts
+DW臺,http://125.227.210.55:42534/VideoInput/play.ts
+BBC臺,http://125.227.210.55:44350/VideoInput/play.ts
+NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
+KOREA臺,http://125.227.210.55:48553/VideoInput/play.ts
+凤凰资讯频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰卫视频道,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+凤凰香港频备,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
