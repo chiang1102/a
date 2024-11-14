@@ -59,10 +59,10 @@ NHK BSP,http://125.227.210.55:60116/VideoInput/play.ts
 AV源,#genre#
 驚艷臺,http://125.227.210.55:8156/VideoInput/play.ts 
 香蕉臺,http://125.227.210.55:8159/VideoInput/play.ts
-松视1台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/476365.ts
-松视1台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/639652.ts
-松视2台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/639653.ts
-潘多拉完美台,http://107.167.16.226:8880/live/wLmJEuYw32hs/75X2WAcaeJexPFiZ/639649.ts
+奧視,http://125.227.210.55:8917/VideoInput/play.ts
+奧視2,http://125.227.210.55:55643/VideoInput/play.ts
+Mainu臺,http://125.227.210.55:51359/VideoInput/play.ts
+Girl,http://125.227.210.55:62698/VideoInput/play.ts
 
 港澳秒波区,#genre#
 凤凰卫视,http://ali.hlspull.yximgs.com/live/l3w1tt2dkzvpukkliu64ah001-golive.flv
