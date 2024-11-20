@@ -1,3 +1,5 @@
+測試,#genre#
+民視,https://z1.ubtvfans.com/live/rx1/2805/102008c80263e9f1c2bb3a507521fcf0/index.m3u8
 142,#genre#
 东森新闻,p2p://142.54.189.230:2215/64df0db3000d67790493aeaf65c56300.ts
 tvbs新闻,p2p://142.54.189.230:2215/64df0c5d000a530d048e75f37b155008.ts
