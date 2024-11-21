@@ -1,5 +1,5 @@
 測試,#genre#
-1,https://stream.esnad.us.kg/litv-list.php?id=4gtv-4gtv002
+1,http://cookies.elementfx.com/ublive/ublive.php?id=410
 142,#genre#
 东森新闻,p2p://142.54.189.230:2215/64df0db3000d67790493aeaf65c56300.ts
 tvbs新闻,p2p://142.54.189.230:2215/64df0c5d000a530d048e75f37b155008.ts
