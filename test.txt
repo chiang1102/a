@@ -1,7 +1,7 @@
 測試,#genre#
-STAR MOVIE HD,http://119.156.26.155:8000/play/a06p/index.m3u8
-Star Gold Select HD,http://119.156.26.155:8000/play/a07b/index.m3u8
-Star Movie Select HD,http://119.156.26.155:8000/play/a06q/index.m3u8
+STAR1,http://119.156.26.155:8000/play/a06p/index.m3u8
+Star2,http://119.156.26.155:8000/play/a07b/index.m3u8
+Star3,http://119.156.26.155:8000/play/a06q/index.m3u8
 ﻿大陸|CCTV-1 綜合 HD,http://www.alivec.com/live/kwzq1rse/jgcz990f/index.m3u8&link=geminiusertoken
 大陸|CCTV-2 財經,http://www.alivec.com/live/kwzq1rse/7br6tfc7/index.m3u8&link=geminiusertoken
 大陸|CCTV-3 綜藝 HD,http://www.alivec.com/live/kwzq1rse/610m2pq2/index.m3u8&link=geminiusertoken
