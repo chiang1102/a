@@ -1,4 +1,5 @@
 測試,#genre#
+1,https://4gtvfree-cds.cdn.hinet.net/live/pool/4gtv-live088/4gtv-live-mid/1080.m3u8?token=F6RGQh4ClfxYJ7Y_dVEmaA&expires=1732764267&token1=TXa2G7NrMiTjuvuB-iBODA&expires1=1732764267
 STAR1,http://119.156.26.155:8000/play/a06p/index.m3u8
 Star2,http://119.156.26.155:8000/play/a07b/index.m3u8
 Star3,http://119.156.26.155:8000/play/a06q/index.m3u8
