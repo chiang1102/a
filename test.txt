@@ -2,6 +2,8 @@
 STAR1,http://119.156.26.155:8000/play/a06p/index.m3u8
 Star2,http://119.156.26.155:8000/play/a07b/index.m3u8
 Star3,http://119.156.26.155:8000/play/a06q/index.m3u8
+彩虹頻道,http://www.zzrs888.top/tw5.php?id=彩虹E
+松視1,http://www.zzrs888.top/tw5.php?id=松視一
 ﻿大陸|CCTV-1 綜合 HD,http://www.alivec.com/live/kwzq1rse/jgcz990f/index.m3u8&link=geminiusertoken
 大陸|CCTV-2 財經,http://www.alivec.com/live/kwzq1rse/7br6tfc7/index.m3u8&link=geminiusertoken
 大陸|CCTV-3 綜藝 HD,http://www.alivec.com/live/kwzq1rse/610m2pq2/index.m3u8&link=geminiusertoken
