@@ -1,2 +1,1 @@
-1,https://tr-route3.hkjc-prod.tcon.hlit.hvds.tv/Content/HLS/Live/channel(HKJC_CHANNEL_1)/master.m3u8?hdnts=st=1733311722~exp=1733313582~acl=/*~hmac=bb8f622e345ba4bcdab98978667a605a85b8e27bae732114677dedfd9a191c99
-2,https://tr-route3.hkjc-prod.tcon.hlit.hvds.tv/Content/HLS/Live/channe2(HKJC_CHANNEL_2)/master.m3u8?hdnts=st=1733311722~exp=1733313582~acl=/*~hmac=bb8f622e345ba4bcdab98978667a605a85b8e27bae732114677dedfd9a191c99
+1,http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8
