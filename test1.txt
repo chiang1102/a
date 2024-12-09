@@ -1,3 +1,8 @@
+美亚电影台, https://tv.doube.eu.org/tv?pid=1
+天映频道, https://tv.doube.eu.org/tv?pid=2
+纬来电影台, https://tv.doube.eu.org/tv?pid=3
+东森电影台,https://tv.doube.eu.org/tv?pid=4
+东森洋片台,https://tv.doube.eu.org/tv?pid=5
 翡翠台,http://110.235.24.100:8800/play/a00g
 无线新闻,http://110.235.24.100:8800/play/a00d
 凤凰香港,http://110.235.24.100:8800/play/a00e
