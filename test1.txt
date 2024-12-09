@@ -1,1 +1,8 @@
-1,http://211.23.114.106:8522/http/60.251.39.91:8081/hls/65/807/ch19.m3u8,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
+翡翠台,http://110.235.24.100:8800/play/a00g
+无线新闻,http://110.235.24.100:8800/play/a00d
+凤凰香港,http://110.235.24.100:8800/play/a00e
+明珠台,http://110.235.24.100:8800/play/a00b  
+TVBPlus,http://110.235.24.100:8800/play/a00c
+Hoytv76,http://110.235.24.100:8800/play/a002
+Hoy77,http://110.235.24.100:8800/play/a003
+HOY78,http://110.235.24.100:8800/play/a004
