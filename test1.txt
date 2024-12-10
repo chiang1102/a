@@ -1,13 +1,2 @@
-美亚电影台, https://tv.doube.eu.org/tv?pid=1
-天映频道, https://tv.doube.eu.org/tv?pid=2
-纬来电影台, https://tv.doube.eu.org/tv?pid=3
-东森电影台,https://tv.doube.eu.org/tv?pid=4
-东森洋片台,https://tv.doube.eu.org/tv?pid=5
-翡翠台,http://110.235.24.100:8800/play/a00g
-无线新闻,http://110.235.24.100:8800/play/a00d
-凤凰香港,http://110.235.24.100:8800/play/a00e
-明珠台,http://110.235.24.100:8800/play/a00b  
-TVBPlus,http://110.235.24.100:8800/play/a00c
-Hoytv76,http://110.235.24.100:8800/play/a002
-Hoy77,http://110.235.24.100:8800/play/a003
-HOY78,http://110.235.24.100:8800/play/a004
+1,https://4gtvfree-mozai.4gtv.tv/iumAnWquAsyRD_o4qBR3moH1WXLubmJplf7kSa-l8I0%3D/index.m3u8?token=SQfMbDALU5BN6GOaT7NhQQ&expires=1733812546&token1=cZhfinSM5Mo4Jny5oHGKAA&expires1=1733812546&refer=MWZlOTFkNWYtZTdmYy00YWMwLTliMTUtNmMyYmFiZTg3NmM1&y=0
+
