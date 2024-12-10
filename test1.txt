@@ -1,2 +1,5 @@
-1,https://4gtvfree-mozai.4gtv.tv/iumAnWquAsyRD_o4qBR3moH1WXLubmJplf7kSa-l8I0%3D/index.m3u8?token=SQfMbDALU5BN6GOaT7NhQQ&expires=1733812546&token1=cZhfinSM5Mo4Jny5oHGKAA&expires1=1733812546&refer=MWZlOTFkNWYtZTdmYy00YWMwLTliMTUtNmMyYmFiZTg3NmM1&y=0
-
+世界地理CCTV,http://111.61.236.247:9081/hls/62/index.m3u8
+RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+凤凰卫视中文台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰卫视资讯台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰卫视香港台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
