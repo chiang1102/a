@@ -1,5 +1,12 @@
-世界地理CCTV,http://111.61.236.247:9081/hls/62/index.m3u8
-RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
-凤凰卫视中文台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-凤凰卫视资讯台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-凤凰卫视香港台,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+NOW新闻,https://free.weidu.filegear-sg.me/abc688/abc688.php?id=2ac332713a94860e
+NOW直播,https://free.weidu.filegear-sg.me/abc688/abc688.php?id=2ac3327130988318837e
+ViuTV,https://free.weidu.filegear-sg.me/abc688/abc688.php?id=32c5302822
+ViuTV6,https://free.weidu.filegear-sg.me/abc688/abc688.php?id=32c5302822c7
+HOY国际财经,https://free.weidu.filegear-sg.me/abc688/abc688.php?id=2cc33c713d9392
+HOYTV,https://free.weidu.filegear-sg.me/abc688/abc688.php?id=2cc33c2822
+HOY资讯,https://free.weidu.filegear-sg.me/abc688/abc688.php?id=2cc33c713d9f9712
+明珠台,https://free.weidu.filegear-sg.me/abc688/abc688.php?id=34c9242e38
+凤凰资讯,https://free.weidu.filegear-sg.me/abc688/abc688.php?id=34c4312a79989f1b8f
+凤凰中文,https://free.weidu.filegear-sg.me/abc688/abc688.php?id=34c4312a79929f
+凤凰香港,https://free.weidu.filegear-sg.me/abc688/abc688.php?id=34c4312a79999a
+HKC18台,https://free.weidu.filegear-sg.me/abc688/abc688.php?id=2cc7266d6c
