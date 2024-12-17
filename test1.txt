@@ -1,4 +1,10 @@
-test1,http://iptv12k.com:35461/get.php?username=test163&password=123456011&type=m3u_plus
+凤凰卫视电影台,http://home.js001.com:7777/stream/channelid/884059847?profile=pass
+CHC影迷电影,http://113.57.109.48:1111/tsfile/live/1046_1.m3u8
+CHC动作电影,http://113.57.109.48:1111/tsfile/live/1045_1.m3u8
+CHC家庭影院,http://113.57.109.48:1111/tsfile/live/1044_1.m3u8
+
+
+
 CCTV1,http://45.125.12.19:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
 CCTV2,http://45.125.12.19:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
 CCTV3,http://45.125.12.19:35455/itv/1000000005000265003.m3u8?cdn=ystenlive
