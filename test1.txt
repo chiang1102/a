@@ -1,7 +1,14 @@
-test1,https://algomin.serv00.net/php/hatv.php?id=3
-test2,https://algomin.serv00.net/php/hatv.php?id=4
-test3,https://algomin.serv00.net/php/hatv.php?id=5
-test4,https://algomin.serv00.net/php/hatv.php?id=6
+緯來日本,https://hlove.tv/live/videoland-japan
+TVBS新聞,https://hlove.tv/live/tvbs-news
+東森新聞,https://hlove.tv/live/ebc-news
+HOY資訊台,https://hlove.tv/live/hoy-info
+緯來體育,https://hlove.tv/live/videoland-sport
+東森電影,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsendianyingETTVMovie.html
+東森洋片,https://www.chaojidianshi.net/zhibo/gangtaizhibo/dongsenyangpianETTVWestern.html
+好萊塢電影,https://www.chaojidianshi.net/zhibo/gangtaizhibo/HollywoodMovies.html
+緯來日本,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilairibentai.html
+緯來電影,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaidianyingtai.html
+緯來體育,https://www.chaojidianshi.net/zhibo/gangtaizhibo/weilaitiyutai.html
 
 CCTV1,http://45.125.12.19:35455/itv/6000000001000029752.m3u8?cdn=wasusyt
 CCTV2,http://45.125.12.19:35455/itv/1000000001000023315.m3u8?cdn=ystenlive
