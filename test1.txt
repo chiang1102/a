@@ -1,3 +1,4 @@
+TEST6,http://61.222.237.144:8521/http/61.219.99.20:8081/hls/65/807/ch19.m3u8?token=7375646f73c19764eef24b78eced985bc5165047
 TEST1,http://wanjiatv.net/fjtv.php?id=1
 TEST2,http://wanjiatv.net/fjtv.php?id=2
 TEST3,http://wanjiatv.net/fjtv.php?id=3
