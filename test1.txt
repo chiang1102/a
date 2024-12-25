@@ -1,4 +1,8 @@
 TEST1,http://wanjiatv.net/fjtv.php?id=1
+TEST2,http://wanjiatv.net/fjtv.php?id=2
+TEST3,http://wanjiatv.net/fjtv.php?id=3
+TEST4,http://wanjiatv.net/fjtv.php?id=4
+TEST5,http://wanjiatv.net/fjtv.php?id=5
 翡翠台4K,http://cdn.132.us.kg/live/fct4k/stream.m3u8
 TVB PLUS,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 凤凰中文,http://cdn.132.us.kg/live/fhzw/stream.m3u8
