@@ -1,4 +1,6 @@
-TEST6,http://58.99.33.2:1935/liveedge2/udbvKRoH_401_1/chunklist_w.m3u8?checkCode=37050688asdfsdfsadf&aa=1229999&as=2018&dr=&mmmm=
+CHC动作电影,https://ali.hlspull.yximgs.com/live/diyp_chcdongzuo.flv
+CHC家庭影院,https://ali.hlspull.yximgs.com/live/diyp_chcjiating.flv
+CHC影迷电影,https://ali.hlspull.yximgs.com/live/diyp_chcyingmi.flv
 TEST1,http://wanjiatv.net/fjtv.php?id=1
 TEST2,http://wanjiatv.net/fjtv.php?id=2
 TEST3,http://wanjiatv.net/fjtv.php?id=3
