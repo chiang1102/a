@@ -1,4 +1,8 @@
 测试频道ᵛ𝟰,#genre#
+NOW新闻,https://iptv.vip-tptv.xyz/cao.php?id=now-news
+NOW直播,https://iptv.vip-tptv.xyz/cao.php?id=now-direct
+NOW财经,https://iptv.vip-tptv.xyz/cao.php?id=now-finance
+NOW精选,https://iptv.vip-tptv.xyz/cao.php?id=now-sports-prime
 香港 卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 凤凰中文,http://ali.hlspull.yximgs.com/live/diyp_fh2.flv
 凤凰资讯,http://ali.hlspull.yximgs.com/live/diyp_fh1.flv
