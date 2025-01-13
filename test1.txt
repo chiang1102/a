@@ -1,4 +1,4 @@
-央视,#genre#
+央视php,#genre#
 cgtnen, https://algomin.serv00.net/php/cctv.php?id=cgtnen.m3u8
 cgtndoc, https://algomin.serv00.net/php/cctv.php?id=cgtndoc.m3u8
 cgtnru, https://algomin.serv00.net/php/cctv.php?id=cgtnru.m3u8
@@ -25,6 +25,7 @@ cctv14, https://algomin.serv00.net/php/cctv.php?id=cctv14.m3u8
 cctv15, https://algomin.serv00.net/php/cctv.php?id=cctv15.m3u8
 cctv16, https://algomin.serv00.net/php/cctv.php?id=cctv16.m3u8
 cctv17, https://algomin.serv00.net/php/cctv.php?id=cctv17.m3u8
+央视,#genre#
 CCTV1,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
 CCTV2,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024075403.m3u8 
 CCTV3,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024068503.m3u8
