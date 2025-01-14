@@ -1,5 +1,5 @@
 央视php,#genre#
-cgtnen, https://algomin.serv00.net/php/cctv.php?id=cgtnen.m3u8
+cgtnen, https://algomin.serv00.net/php/cctv.php?id=cgtnen
 cgtndoc, https://algomin.serv00.net/php/cctv.php?id=cgtndoc.m3u8
 cgtnru, https://algomin.serv00.net/php/cctv.php?id=cgtnru.m3u8
 cgtnsp, https://algomin.serv00.net/php/cctv.php?id=cgtnsp.m3u8
