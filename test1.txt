@@ -1,4 +1,6 @@
 125,#genre#
+Discovery,http://125.227.210.55:8154/VideoInput/play.ts
+中天娱乐台,http://125.227.210.55:15796/VideoInput/play.ts
 HBO(VPN),http://125.227.210.55:8153/VideoInput/play.ts
 卡通频道(VPN),http://125.227.210.55:8167/VideoInput/play.ts
 三立新闻(VPN),http://125.227.210.55:8162/VideoInput/play.ts
