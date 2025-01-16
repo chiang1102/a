@@ -1,23 +1,25 @@
-CCTV-0115,#genre#
-CCTV1,https://tvpull.careryun.com/tv/cctv1.m3u8
-CCTV2,https://tvpull.careryun.com/tv/cctv2.m3u8
-CCTV3,https://tvpull.careryun.com/tv/cctv3.m3u8
-CCTV4,https://tvpull.careryun.com/tv/cctv4.m3u8
-CCTV5,https://tvpull.careryun.com/tv/cctv5.m3u8
-CCTV5+,https://tvpull.careryun.com/tv/cctv5+.m3u8
-CCTV6,https://tvpull.careryun.com/tv/cctv6.m3u8
-CCTV7,https://tvpull.careryun.com/tv/cctv7.m3u8
-CCTV8,https://tvpull.careryun.com/tv/cctv8.m3u8
-CCTV9,https://tvpull.careryun.com/tv/cctv9.m3u8
-CCTV10,https://tvpull.careryun.com/tv/cctv10.m3u8
-CCTV11,https://tvpull.careryun.com/tv/cctv11.m3u8
-CCTV12,https://tvpull.careryun.com/tv/cctv12.m3u8
-CCTV13,https://tvpull.careryun.com/tv/cctv13.m3u8
-CCTV14,https://tvpull.careryun.com/tv/cctv14.m3u8
-CCTV15,https://tvpull.careryun.com/tv/cctv15.m3u8
-CCTV17,https://tvpull.careryun.com/tv/cctv17.m3u8
-CCTV4美洲,https://tvpull.careryun.com/tv/cctv4m.m3u8
-CCTV4欧洲,https://tvpull.careryun.com/tv/cctv4o.m3u8
+125,#genre#
+HBO(VPN),http://125.227.210.55:8153/VideoInput/play.ts
+卡通频道(VPN),http://125.227.210.55:8167/VideoInput/play.ts
+三立新闻(VPN),http://125.227.210.55:8162/VideoInput/play.ts
+TVBS(VPN),http://125.227.210.55:8188/VideoInput/play.ts
+TVBS新闻台(VPN),http://125.227.210.55:8186/VideoInput/play.ts
+TVBS欢乐台(VPN),http://125.227.210.55:8187/VideoInput/play.ts
+CINEMAX,http://125.227.210.55:8151/VideoInput/play.ts
+CNN,http://125.227.210.55:8166/VideoInput/play.ts
+BBC new,http://125.227.210.55:8165/VideoInput/play.ts
+CN卡通頻道,http://125.227.210.55:8167/VideoInput/play.ts
+三立台灣台,http://125.227.210.55:8160/VideoInput/play.ts
+HBO HD,http://125.227.210.55:8153/VideoInput/play.ts
+緯來體育,http://125.227.210.55:8155/VideoInput/play.ts
+Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
+香蕉台,http://125.227.210.55:11055/VideoInput/play.ts
+驚豔成人電影台,http://125.227.210.55:18789/VideoInput/play.ts
+JStar極限台電影頻道,http://125.227.210.55:19020/VideoInput/play.ts
+TV5MONDE ASIE,http://125.227.210.55:8937/VideoInput/play.ts
+NHKWorld,http://125.227.210.55:8931/VideoInput/play.ts
+YTN,http://125.227.210.55:8932/VideoInput/play.ts
+
 HK,#genre#
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
