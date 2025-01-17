@@ -1,5 +1,3 @@
-litv,#genre#
-tvbs,http://jamin1102.us.kg/litv.php?id=4gtv-4gtv073
 125,#genre#
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 中天娱乐台,http://125.227.210.55:15796/VideoInput/play.ts
