@@ -1,4 +1,9 @@
 125,#genre#
+CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
+CCTV世界地理,http://60.2.190.206:4000/udp/239.253.92.113:8066
+CCTV世界地理,http://175.173.198.22:9020/udp/232.0.0.63:1234
+CCTV世界地理,http://121.29.91.210:7077/udp/239.253.92.131:6113
+CCTV世界地理,http://120.6.209.42:8866/udp/239.253.92.131:6113
 Discovery,http://125.227.210.55:8154/VideoInput/play.ts
 中天娱乐台,http://125.227.210.55:15796/VideoInput/play.ts
 HBO(VPN),http://125.227.210.55:8153/VideoInput/play.ts
