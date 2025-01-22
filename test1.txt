@@ -1,4 +1,5 @@
 125,#genre#
+cctv1,http://1panel.oracle1102.us.kg/xxtv.php?id=cctv1
 CCTV世界地理,http://111.61.236.247:9081/hls/62/index.m3u8
 CCTV世界地理,http://60.2.190.206:4000/udp/239.253.92.113:8066
 CCTV世界地理,http://175.173.198.22:9020/udp/232.0.0.63:1234
