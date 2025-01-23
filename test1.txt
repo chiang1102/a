@@ -1,7 +1,4 @@
 咪咕,#genre#
-1,http://138.2.110.209:35455/itv/5000000008000023254.m3u8?cdn=bestzb
-2,http://138.2.110.209:35455/itv/5000000010000017540.m3u8?cdn=bestzb
-3,http://138.2.110.209:35455/itv/1000000001000014176.m3u8?cdn=ystenlive
 CCTV-01咪咕,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-02咪咕,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-03咪咕,http://z.b.bkpcp.top/m.php?id=cctv3
