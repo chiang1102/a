@@ -1,4 +1,5 @@
 咪咕,#genre#
+1,https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 CCTV-01咪咕,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-02咪咕,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-03咪咕,http://z.b.bkpcp.top/m.php?id=cctv3
