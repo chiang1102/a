@@ -1,4 +1,7 @@
 咪咕,#genre#
+1,http://138.2.110.209:35455/itv/5000000008000023254.m3u8?cdn=bestzb
+2,http://138.2.110.209:35455/itv/5000000010000017540.m3u8?cdn=bestzb
+3,http://138.2.110.209:35455/itv/1000000001000014176.m3u8?cdn=ystenlive
 CCTV-01咪咕,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-02咪咕,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-03咪咕,http://z.b.bkpcp.top/m.php?id=cctv3
@@ -22,6 +25,7 @@ cct4美洲咪咕,http://z.b.bkpcp.top/m.php?id=cctv4m
 东方影视咪咕,http://z.b.bkpcp.top/m.php?id=shys
 陕西卫视咪咕,http://z.b.bkpcp.top/m.php?id=sxws
 湖北卫视咪咕,http://z.b.bkpcp.top/m.php?id=hubws
+湖南卫视咪咕,http://z.b.bkpcp.top/m.php?id=hunws
 江西卫视咪咕,http://z.b.bkpcp.top/m.php?id=jxws
 江苏卫视咪咕,http://z.b.bkpcp.top/m.php?id=jsws
 广东卫视咪咕,http://z.b.bkpcp.top/m.php?id=gdws
