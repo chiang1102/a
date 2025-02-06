@@ -1,5 +1,5 @@
 test,#genre#
-11,https://4gtv.luckytv.us.kg/?id=4gtv-live138&pid=180
+
 
 咪咕,#genre#
 1,https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
