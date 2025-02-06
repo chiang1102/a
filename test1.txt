@@ -1,11 +1,6 @@
-tvb,#genre#
+test,#genre#
 11,https://4gtv.luckytv.us.kg/?id=4gtv-live138&pid=180
-TVB翡翠,http://119.32.12.32:2901/udp/224.1.100.122:11111 
-TVB明珠,http://119.32.12.32:2901/udp/224.1.100.123:11111 
-TVB明珠,http://119.32.12.32:2901/udp/224.1.100.124:11111 
-凤凰中文,http://119.32.12.32:2901/udp/224.1.100.3:11111 
-澳亚卫视,http://119.32.12.32:2901/udp/224.1.100.12:11111 
-星空卫视,http://119.32.12.32:2901/udp/224.1.100.13:11111
+
 咪咕,#genre#
 1,https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
 CCTV-01咪咕,http://z.b.bkpcp.top/m.php?id=cctv1
