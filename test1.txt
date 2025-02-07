@@ -1,5 +1,7 @@
 test,#genre#
-
+CHC高清电影HD,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=
+CHC动作电影HD,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=
+CHC家庭电影HD,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=
 
 咪咕,#genre#
 1,https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
