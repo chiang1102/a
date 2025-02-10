@@ -1,6 +1,4 @@
 test,#genre#
-1,http://1panel.oracle1102.us.kg/4gtv-1.php?id=4gtv-live207&pid=169
-2,http://1panel.oracle1102.us.kg/4gtv.php?id=4gtv-live207&pid=169
 CHC高清电影HD,http://58.19.38.162:9901/tsfile/live/1004_1.m3u8?key=
 CHC动作电影HD,http://58.19.38.162:9901/tsfile/live/1005_1.m3u8?key=
 CHC家庭电影HD,http://58.19.38.162:9901/tsfile/live/1006_1.m3u8?key=
