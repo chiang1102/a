@@ -1,4 +1,5 @@
 test,#genre#
+POPC,http://109.166.38.107:5000/mytvsuper/POPC
 中天新闻, http://141.11.86.78:8088/live/4gtv.php?ch=260
 News 新闻台,http://148.135.34.95:7095/v/1/128 
 TVBS 欢乐台,http://148.135.34.95:7095/v/1/127
