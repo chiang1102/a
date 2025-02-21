@@ -466,34 +466,7 @@ HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 龙华经典,http://cdn5.163189.xyz/litv.php?id=litv-longturn21
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-央视php,#genre#
-https://t.me/atv168/200139
-cgtnen, https://algomin.serv00.net/php/cctv.php?id=cgtnen.m3u8
-cgtndoc, https://algomin.serv00.net/php/cctv.php?id=cgtndoc.m3u8
-cgtnru, https://algomin.serv00.net/php/cctv.php?id=cgtnru.m3u8
-cgtnsp, https://algomin.serv00.net/php/cctv.php?id=cgtnsp.m3u8
-cgtnar, https://algomin.serv00.net/php/cctv.php?id=cgtnar.m3u8
-cgtnfr, https://algomin.serv00.net/php/cctv.php?id=cgtnfr.m3u8
-cctv16_4k, https://algomin.serv00.net/php/cctv.php?id=cctv16_4k.m3u8
-cctv4k, https://algomin.serv00.net/php/cctv.php?id=cctv4k.m3u8
-cctv8k_36m, https://algomin.serv00.net/php/cctv.php?id=cctv8k_36m.m3u8
-cctv1, https://algomin.serv00.net/php/cctv.php?id=cctv1.m3u8
-cctv2, https://algomin.serv00.net/php/cctv.php?id=cctv2.m3u8
-cctv3, https://algomin.serv00.net/php/cctv.php?id=cctv3.m3u8
-cctv4, https://algomin.serv00.net/php/cctv.php?id=cctv4.m3u8
-cctv5, https://algomin.serv00.net/php/cctv.php?id=cctv5.m3u8
-cctv5p, https://algomin.serv00.net/php/cctv.php?id=cctv5p.m3u8
-cctv7, https://algomin.serv00.net/php/cctv.php?id=cctv7.m3u8
-cctv8, https://algomin.serv00.net/php/cctv.php?id=cctv8.m3u8
-cctv9, https://algomin.serv00.net/php/cctv.php?id=cctv9.m3u8
-cctv10, https://algomin.serv00.net/php/cctv.php?id=cctv10.m3u8
-cctv11, https://algomin.serv00.net/php/cctv.php?id=cctv11.m3u8
-cctv12, https://algomin.serv00.net/php/cctv.php?id=cctv12.m3u8
-cctv13, https://algomin.serv00.net/php/cctv.php?id=cctv13.m3u8
-cctv14, https://algomin.serv00.net/php/cctv.php?id=cctv14.m3u8
-cctv15, https://algomin.serv00.net/php/cctv.php?id=cctv15.m3u8
-cctv16, https://algomin.serv00.net/php/cctv.php?id=cctv16.m3u8
-cctv17, https://algomin.serv00.net/php/cctv.php?id=cctv17.m3u8
+
 央视,#genre#
 CCTV1,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024078203.m3u8
 CCTV2,http://58.222.30.156/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024075403.m3u8 
