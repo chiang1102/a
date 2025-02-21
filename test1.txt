@@ -1,4 +1,12 @@
 test,#genre#
+星河频道国,http://ali.hlspull.yximgs.com/live/xingxinhe2612.flv
+新加坡娱乐家,http://ali.hlspull.yximgs.com/live/rilejia2612.flv
+新加坡都会,http://ali.hlspull.yximgs.com/live/daohui2612.flv
+东森电影,http://ali.hlspull.yximgs.com/live/dongshendian2612flv
+popc,http://ali.hlspull.yximgs.com/live/popc2612.flv
+天映频道,http://ali.hlspull.yximgs.com/live/tianying2612.flv
+美亚电影,http://ali.hlspull.yximgs.com/live/mengya2612.flv
+
 POPC,http://109.166.38.107:5000/mytvsuper/POPC
 中天新闻, http://141.11.86.78:8088/live/4gtv.php?ch=260
 News 新闻台,http://148.135.34.95:7095/v/1/128 
