@@ -1,6 +1,6 @@
 HK,#genre#
-HBO,https://haoyunlai.serv00.net/Smartv-1.php?id=hbohd_twn
-动物频道,http://185.236.229.62:9981/play/a05z
+1,http://141.11.86.78:8088/live/4gtv.php?ch=260
+
 CCTV1,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/101
 CCTV2,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/801
 CCTV3,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/103
