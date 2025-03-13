@@ -1,6 +1,6 @@
 HK,#genre#
-中天新闻, http://141.11.86.78:8088/live/4gtv.php?ch=260
-1,http://max.token.iptv.xin:2052/live/fetch/iptv.xin.ly_297?token=8tbOPRN%2FxCxAsYwpjAOq7g%3D%3D&key=VeBTu9fnZrWQQS0cTChkuIFBTTdDEW6OsFU4xmj6eUthUa1561mZ2R08lQpPBEepCHumU0fKml6WQHnF%2FwJEM%2FzbptJhefCHwWgqRDmlHndwhFZ79N8aLUFLhI0TeqH11QUijmOUusOsLYLuYVHWWzfF4ysN8IDi%2FZrIMegKZhOo%2FTs4RJdKkqZtD6f7VdCOjdNoWNv9gErX%2BlnxMXRgyjIU1sBQrvpfkPj5zIXu8O682we1KkLdNj5kEeQlEv92ImGw8xzWUDJ74SX6Ybrsy%2BjBfz4sDDvXAlCHWNpPpwwodvXGWVgVZkt81rvKFSFOtrF16OKndI%2BkPq7uTV2NHxMLuzH7z3gs25Y0ZvpGvqdofkFZACgaK3liZVony%2BhP&clientIp=%3A%3Affff%3A31.6.56.132
+HBO,https://haoyunlai.serv00.net/Smartv-1.php?id=hbohd_twn
+动物频道,http://185.236.229.62:9981/play/a05z
 CCTV1,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/101
 CCTV2,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/801
 CCTV3,http://api.dbkan.cdn.iptv.xin:2052/api.dbkan.com/hn/103
