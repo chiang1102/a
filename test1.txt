@@ -1,4 +1,9 @@
 HK,#genre#
+翡翠台,http://43.161.237.56:2095/stream/bxtv/null/master.m3u8?u=bx&p=95f7f6fe604a8e05cd5de58494f711db97215f70681ba7870646a3efaa442bb8
+無線新聞台,http://43.161.237.56:2095/stream/bxtv/null-1/master.m3u8?u=bx&p=95f7f6fe604a8e05cd5de58494f711db97215f70681ba7870646a3efaa442bb8
+鳳凰中文,http://43.161.237.56:2095/stream/bxtv/null-2/master.m3u8?u=bx&p=95f7f6fe604a8e05cd5de58494f711db97215f70681ba7870646a3efaa442bb8
+鳳凰資訊,http://43.161.237.56:2095/stream/bxtv/null-3/master.m3u8?u=bx&p=95f7f6fe604a8e05cd5de58494f711db97215f70681ba7870646a3efaa442bb8
+鳳凰香港,http://43.161.237.56:2095/stream/bxtv/null-4/master.m3u8?u=bx&p=95f7f6fe604a8e05cd5de58494f711db97215f70681ba7870646a3efaa442bb8
 cctv1,https://live-play.cctvnews.cctv.com/cctv/merge_cctv1_mbd.m3u8?auth_key=1743437681-0-d95b4b4218fe4924aac0487b984e765f-7fbfef70548a390358b1b4ea7de012fa
 cctv2,https://live-play.cctvnews.cctv.com/cctv/merge_cctv2_mbd.m3u8?auth_key=1743437681-0-d95b4b4218fe4924aac0487b984e765f-7fbfef70548a390358b1b4ea7de012fa
 cctv3,https://live-play.cctvnews.cctv.com/cctv/merge_cctv3_mbd.m3u8?auth_key=1743437681-0-d95b4b4218fe4924aac0487b984e765f-7fbfef70548a390358b1b4ea7de012fa
