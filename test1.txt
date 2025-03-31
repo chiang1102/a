@@ -4,7 +4,8 @@ cctv2,https://live-play.cctvnews.cctv.com/cctv/merge_cctv2_mbd.m3u8?auth_key=174
 cctv3,https://live-play.cctvnews.cctv.com/cctv/merge_cctv3_mbd.m3u8?auth_key=1743437681-0-d95b4b4218fe4924aac0487b984e765f-7fbfef70548a390358b1b4ea7de012fa
 cctv4,https://live-play.cctvnews.cctv.com/cctv/merge_cctv4_mbd.m3u8?auth_key=1743437681-0-d95b4b4218fe4924aac0487b984e765f-7fbfef70548a390358b1b4ea7de012fa
 cctv17,https://live-play.cctvnews.cctv.com/cctv/merge_cctv17_mbd.m3u8?auth_key=1743437681-0-d95b4b4218fe4924aac0487b984e765f-7fbfef70548a390358b1b4ea7de012fa
-
+中文国际欧洲,http://27.31.20.76:4022/rtp/239.69.1.231:11028
+中文国际美洲,http://27.31.20.76:4022/rtp/239.69.1.232:11034
 
 cctv6,http://bv-us1.jdiptv.cc/live/cctv6hd.m3u8?kdstime=1743384658&kdssign=e2c1a007f5ef79459e317df37a22aefe
 东森戏剧,http://198.16.100.186:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
