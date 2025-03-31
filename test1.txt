@@ -1,5 +1,9 @@
 HK,#genre#
 cctv1,https://live-play.cctvnews.cctv.com/cctv/merge_cctv1_mbd.m3u8?auth_key=1743437681-0-d95b4b4218fe4924aac0487b984e765f-7fbfef70548a390358b1b4ea7de012fa
+cctv2,https://live-play.cctvnews.cctv.com/cctv/merge_cctv2_mbd.m3u8?auth_key=1743437681-0-d95b4b4218fe4924aac0487b984e765f-7fbfef70548a390358b1b4ea7de012fa
+cctv3,https://live-play.cctvnews.cctv.com/cctv/merge_cctv3_mbd.m3u8?auth_key=1743437681-0-d95b4b4218fe4924aac0487b984e765f-7fbfef70548a390358b1b4ea7de012fa
+cctv4,https://live-play.cctvnews.cctv.com/cctv/merge_cctv4_mbd.m3u8?auth_key=1743437681-0-d95b4b4218fe4924aac0487b984e765f-7fbfef70548a390358b1b4ea7de012fa
+
 cctv6,http://bv-us1.jdiptv.cc/live/cctv6hd.m3u8?kdstime=1743384658&kdssign=e2c1a007f5ef79459e317df37a22aefe
 东森戏剧,http://198.16.100.186:8278/ettvdrama/playlist.m3u8?tid=MA2A9945921599459215&ct=19249&tsum=c9097ecdf4a17c0922196dbf04b0c6e7
 中天娱乐,http://198.16.100.186:8278/ctient/playlist.m3u8?tid=MC9C7081133170811331&ct=19249&tsum=8b08b54208f3ee30e12f419d587f46ac
