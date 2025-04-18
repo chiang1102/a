@@ -1,4 +1,5 @@
 台灣,#genre#
+MOMO,http://11.team.ga:80/ch232/mono.m3u8?token=pogos1000.QTIx2BWouh1a5L2vyN9NXAEByMfYNP1j4dMI7J3e4oUaiCX0miS4h1eDEdBEQIeC
 TaiwanPlus,http://web6868.com/668972ac17b6b8c50efd774f0605f39d/eb2eeae0f632eb56d727944102c3f5dfd239d7d118e6d73083d9ec34300a34fd/b37fdc1179f9896e66a5f98e630e378d/index.m3u8
 大愛二台,http://web6868.com/98907923dd5cf9f789d89c65710dff59/eb2eeae0f632eb56d727944102c3f5dfd239d7d118e6d73083d9ec34300a34fd/1ef56b35cf8b510e4722ab4bbe8042b6/index.m3u8
 CNN,http://web6868.com/532af569492f59db3676170aec188bbd/eb2eeae0f632eb56d727944102c3f5dfd239d7d118e6d73083d9ec34300a34fd/6e1d888ef797d894781b7bcf65a68c04/index.m3u8
