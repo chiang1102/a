@@ -1,3 +1,6 @@
+test0423,#genre#
+1,http://cdn.132.us.kg/live/tvbp/stream.m3u8
+
 日本地上波,#genre#
 NHK 総合,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd01&isp=4
 NHK Eテレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=4
