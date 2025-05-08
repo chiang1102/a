@@ -1,4 +1,6 @@
 test0423,#genre#
+1,http://ali.hlspull.yximgs.com/live/9091ee628392957fc399c207e961a000.flv
+2,https://ali.hlspull.yximgs.com/live/diyp_fhdy.flv
 TvbPlus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 Discovery,http://cdn.132.us.kg/live/d/stream.m3u8
 东森电影,http://cdn.132.us.kg/live/dsdy/stream.m3u8
