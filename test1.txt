@@ -1,4 +1,5 @@
 test0423,#genre#
+5,http://198980.xyzz:8888/rtp/239.49.8.82:8000
 4,http://61.58.60.230:9319/live/49.m3u8
 3,http://59.125.210.231:8566/live1218.m3u8?token=7375646fb66dc2d7ff3c524e203b72494171f502
 1,http://ali.hlspull.yximgs.com/live/9091ee628392957fc399c207e961a000.flv
