@@ -1,1 +1,6 @@
-1
+浙江衛視,http://fr-us5.jdiptv.cc/live/zjwshd.m3u8
+江蘇衛視,http://fr-us5.jdiptv.cc/live/jswshd.m3u8
+東方衛視,http://fr-us5.jdiptv.cc/live/dfwshd.m3u8
+浙江衛視,http://107.189.7.187:82/live/zjwshd.m3u8
+江蘇衛視,http://107.189.7.187:82/live/jswshd.m3u8
+東方衛視,http://107.189.7.187:82/live/dfwshd.m3u8
