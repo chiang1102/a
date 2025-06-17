@@ -1,1 +1,2 @@
 江蘇衛視,http://107.189.7.187:82/live/jswshd.m3u8?jsbt=1750145265&jsbk=8f553d497b6f85ec0c33f1390852770a
+浙江衛視,http://fr-us5.jdiptv.cc/live/zjwshd.m3u8?kdstime=1750145492&kdssign=18c4c05d22b21a219ab553566a4fd3e0
