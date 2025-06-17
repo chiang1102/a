@@ -2,3 +2,6 @@
 浙江衛視,http://fr-us5.jdiptv.cc/live/zjwshd.m3u8?kdstime=1750145492&kdssign=18c4c05d22b21a219ab553566a4fd3e0
 1,http://198.98.54.43:81/live/wlrb.m3u8
 2,http://198.98.54.43:81/live/sldh.m3u8
+3,http://198.98.54.43:81/live/dszh.m3u8
+4,http://198.98.54.43:81/live/dscs.m3u8
+5,http://198.98.54.43:81/live/ztzh.m3u8
