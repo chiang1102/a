@@ -1,3 +1,4 @@
 cctv1,http://vds.91kds.cn/live1/cctvxw.m3u8?bt=2&id=cctv1hd&app=com.chenfengtv.tvbox&version=1.0.1&mac=fu:ck:92:92:ff&nwtime=1750125884&sign=e9b69ce6b914a6acebebf5d5261d3c65&ev=20240918
 cctv2,http://vds.91kds.cn/live1/cctvxw.m3u8?bt=2&id=cctv2hd&app=com.chenfengtv.tvbox&version=1.0.1&mac=fu:ck:92:92:ff&nwtime=1750125980&sign=5acf8beb5303d9bdff1328ecb1186fc0&ev=20240918
+cctv3,http://vds.91kds.cn/live1/jsbtv.m3u8?isp=hw&id=cctv3hd&app=com.chenfengtv.tvbox&version=1.0.1&mac=fu:ck:92:92:ff&nwtime=1750132471&sign=301080619ba8fac0602f7811c6394e01&ev=20240918
 年代much,http://fr-us8.jdiptv.cc/live/ndmuch.m3u8?kdstime=1750127027&kdssign=51a7811afa89a099d472a67c2406ddc2
