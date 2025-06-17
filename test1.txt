@@ -1,1 +1,1 @@
-
+cctv2,http://tvapius.chenfengtv.com/api/diyp.php?ch=CCTV-2HD
