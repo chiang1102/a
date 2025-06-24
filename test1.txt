@@ -1,1 +1,16 @@
-
+CNN HD,http://61.216.11.93:49981/stream/channelid/881277234?profile=webtv-h264-aac-mpegts
+FTV HD,http://61.216.11.93:49981/stream/channelid/1736257299?profile=webtv-h264-aac-mpegts
+TLC HD,http://61.216.11.93:49981/stream/channelid/458490002?profile=webtv-h264-aac-mpegts
+Nick Jr HD,http://61.216.11.93:49981/stream/channelid/580636100?profile=webtv-h264-aac-mpegts
+Videoland OnTV HD,http://61.216.11.93:49981/stream/channelid/106481234?profile=webtv-h264-aac-mpegts
+GTV One HD,http://61.216.11.93:49981/stream/channelid/2021000694?profile=webtv-h264-aac-mpegts
+GTV Variety HD,http://61.216.11.93:49981/stream/channelid/1339557876?profile=webtv-h264-aac-mpegts
+EBC Super HD TV,http://61.216.11.93:49981/stream/channelid/1026178460?profile=webtv-h264-aac-mpegts
+MUCH TV HD,http://61.216.11.93:49981/stream/channelid/644357774?profile=webtv-h264-aac-mpegts
+TVBSG HD,http://61.216.11.93:49981/stream/channelid/1607444205?profile=webtv-h264-aac-mpegts
+Videoland Movies HD,http://61.216.11.93:49981/stream/channelid/1914405885?profile=webtv-h264-aac-mpegts
+Hollywood Movies HD,http://61.216.11.93:49981/stream/channelid/286389561?profile=webtv-h264-aac-mpegts
+MAX,http://61.216.11.93:49981/stream/channelid/207378916?profile=webtv-h264-aac-mpegts
+Videoland Movies HD,http://61.216.11.93:49981/stream/channelid/1222093986?profile=webtv-h264-aac-mpegts
+Sin Ji TV HD,http://61.216.11.93:49981/stream/channelid/166215564?profile=webtv-h264-aac-mpegts
+NHK HD,http://61.216.11.93:49981/stream/channelid/797583403?profile=webtv-h264-aac-mpegts
