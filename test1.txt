@@ -1,137 +1,19 @@
-#EXTINF:-1 tvg-id="ELTA綜合" tvg-name="愛爾達綜合台" tvg-logo="https://epg.v1.mk/logo/ELTA綜合.png" group-title="hami", 愛爾達綜合台
-http://51zb.work:5000/hami/OTT_LIVE_0000001573
-
-#EXTINF:-1 tvg-id="ELTA娛樂" tvg-name="愛爾達娛樂台" tvg-logo="https://epg.v1.mk/logo/ELTA娛樂.png" group-title="hami", 愛爾達娛樂台
-http://51zb.work:5000/hami/OTT_LIVE_0000001518
-
-#EXTINF:-1 tvg-id="ELTA影劇" tvg-name="愛爾達影劇台" tvg-logo="https://epg.v1.mk/logo/ELTA影劇.png" group-title="hami", 愛爾達影劇台
-http://51zb.work:5000/hami/OTT_LIVE_0000001517
-
-#EXTINF:-1 tvg-id="ELTA日韓" tvg-name="愛爾達日韓台" tvg-logo="https://epg.v1.mk/logo/ELTA日韓.png" group-title="hami", 愛爾達日韓台
-http://51zb.work:5000/hami/OTT_LIVE_0000002079
-
-#EXTINF:-1 tvg-id="ELTA體育-1台" tvg-name="愛爾達體育1台" tvg-logo="https://epg.v1.mk/logo/ELTA體育-1台.png" group-title="hami", 愛爾達體育1台
-http://51zb.work:5000/hami/OTT_LIVE_0000001744
-
-#EXTINF:-1 tvg-id="ELTA體育-2台" tvg-name="愛爾達體育2台" tvg-logo="https://epg.v1.mk/logo/ELTA體育-2台.png" group-title="hami", 愛爾達體育2台
-http://51zb.work:5000/hami/OTT_LIVE_0000001743
-
-#EXTINF:-1 tvg-id="ELTA體育-3台" tvg-name="愛爾達體育3台" tvg-logo="https://epg.v1.mk/logo/ELTA體育-3台.png" group-title="hami", 愛爾達體育3台
-http://51zb.work:5000/hami/OTT_LIVE_0000001745
-
-#EXTINF:-1 tvg-id="ELTA體育-4台" tvg-name="愛爾達體育4台" tvg-logo="https://epg.v1.mk/logo/ELTA體育-4台.png" group-title="hami", 愛爾達體育4台
-http://51zb.work:5000/hami/OTT_LIVE_0000002055
-
-#EXTINF:-1 tvg-id="ELTA體育-MAX1" tvg-name="愛爾達體育MAX1台" tvg-logo="https://epg.v1.mk/logo/ELTA體育-MAX1.png" group-title="hami", 愛爾達體育MAX1台
-http://51zb.work:5000/hami/OTT_LIVE_0000001853
-
-#EXTINF:-1 tvg-id="ELTA體育-MAX2" tvg-name="愛爾達體育MAX2台" tvg-logo="https://epg.v1.mk/logo/ELTA體育-MAX2.png" group-title="hami", 愛爾達體育MAX2台
-http://51zb.work:5000/hami/OTT_LIVE_0000001854
-
-#EXTINF:-1 tvg-id="ELTA體育-MAX3" tvg-name="愛爾達體育MAX3台" tvg-logo="https://epg.v1.mk/logo/ELTA體育-MAX3.png" group-title="hami", 愛爾達體育MAX3台
-http://51zb.work:5000/hami/OTT_LIVE_0000001855
-
-#EXTINF:-1 tvg-id="ELTA體育-MAX4" tvg-name="愛爾達體育MAX4台" tvg-logo="https://epg.v1.mk/logo/ELTA體育-MAX4.png" group-title="hami", 愛爾達體育MAX4台
-http://51zb.work:5000/hami/OTT_LIVE_0000001856
-
-#EXTINF:-1 tvg-id="Hami MLB 台" tvg-name="Hami MLB 台" tvg-logo="https://epg.v1.mk/logo/hami-mlb.png" group-title="hami", Hami MLB 台
-http://51zb.work:5000/hami/OTT_LIVE_0000002017
-
-#EXTINF:-1 tvg-id="Hami 羽球台" tvg-name="Hami 羽球台" tvg-logo="https://epg.v1.mk/logo/hami-yq.png" group-title="hami", Hami 羽球台
-http://51zb.work:5000/hami/OTT_LIVE_0000001830
-
-#EXTINF:-1 tvg-id="Hami羽球台" tvg-name="Hami 羽球台(免費)" tvg-logo="https://epg.v1.mk/logo/hami-yq.png" group-title="hami", Hami 羽球台(免費)
-http://51zb.work:5000/hami/OTT_LIVE_0000001831
-
-#EXTINF:-1 tvg-id="Hami卡通台" tvg-name="Hami 卡通台(免費)" tvg-logo="https://epg.v1.mk/logo/hami-kt.png" group-title="hami", Hami 卡通台(免費)
-http://51zb.work:5000/hami/OTT_LIVE_0000002083
-
-#EXTINF:-1 tvg-id="Hami日漫台" tvg-name="Hami 日漫台(免費)" tvg-logo="https://epg.v1.mk/logo/hami-rm.png" group-title="hami", Hami 日漫台(免費)
-http://51zb.work:5000/hami/OTT_LIVE_0000002087
-
-#EXTINF:-1 tvg-id="Hami韓劇台" tvg-name="Hami 韓劇台" tvg-logo="https://epg.v1.mk/logo/hami-hj.png" group-title="hami", Hami 韓劇台
-http://51zb.work:5000/hami/OTT_LIVE_0000002073
-
-#EXTINF:-1 tvg-id="Hami韓劇台" tvg-name="Hami 韓劇台(免費)" tvg-logo="https://epg.v1.mk/logo/hami-hj.png" group-title="hami", Hami 韓劇台(免費)
-http://51zb.work:5000/hami/OTT_LIVE_0000002072
-
-#EXTINF:-1 tvg-id="亞洲美食頻道" tvg-name="Asian Food Network 亞洲美食頻道" tvg-logo="https://epg.v1.mk/logo/亞洲美食頻道.png" group-title="hami", Asian Food Network 亞洲美食頻道
-http://51zb.work:5000/hami/OTT_LIVE_0000002039
-
-#EXTINF:-1 tvg-id="BBC-Cbeebies" tvg-name="BBC Cbeebies" tvg-logo="https://epg.v1.mk/logo/BBC-Cbeebies.png" group-title="hami", BBC Cbeebies
-http://51zb.work:5000/hami/OTT_LIVE_0000001711
-
-#EXTINF:-1 tvg-id="BBC-Earth" tvg-name="BBC Earth" tvg-logo="https://epg.v1.mk/logo/BBC-Earth.png" group-title="hami", BBC Earth
-http://51zb.work:5000/hami/OTT_LIVE_0000001510
-
-#EXTINF:-1 tvg-id="BBC-Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://epg.v1.mk/logo/BBC-Lifestyle.png" group-title="hami", BBC Lifestyle
-http://51zb.work:5000/hami/OTT_LIVE_0000001513
-
-#EXTINF:-1 tvg-id="BBC-News" tvg-name="BBC NEWS" tvg-logo="https://epg.v1.mk/logo/BBC-News.png" group-title="hami", BBC NEWS
-http://51zb.work:5000/hami/OTT_LIVE_0000001527
-
-#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://epg.v1.mk/logo/Cartoonito.png" group-title="hami", Cartoonito
-http://51zb.work:5000/hami/OTT_LIVE_0000001889
-
-#EXTINF:-1 tvg-id="CNN-國際新聞台" tvg-name="CNN 國際新聞台" tvg-logo="https://epg.v1.mk/logo/CNN-國際新聞台.png" group-title="hami", CNN 國際新聞台
-http://51zb.work:5000/hami/OTT_LIVE_0000002003
-
-#EXTINF:-1 tvg-id="CNN-國際新聞台" tvg-name="CNN 頭條新聞台(HLN)" tvg-logo="https://epg.v1.mk/logo/CNN-國際新聞台.png" group-title="hami", CNN 頭條新聞台(HLN)
-http://51zb.work:5000/hami/OTT_LIVE_0000002004
-
-#EXTINF:-1 tvg-id="CN卡通頻道" tvg-name="CN 卡通頻道" tvg-logo="https://epg.v1.mk/logo/CN卡通頻道.png" group-title="hami", CN 卡通頻道
-http://51zb.work:5000/hami/OTT_LIVE_0000002002
-
-#EXTINF:-1 tvg-id="Discovery-Asia-TW" tvg-name="Discovery Asia" tvg-logo="https://epg.v1.mk/logo/Discovery-Asia-TW.png" group-title="hami", Discovery Asia
-http://51zb.work:5000/hami/OTT_LIVE_0000001924
-
-#EXTINF:-1 tvg-id="Discovery-DMAX-TW" tvg-name="Discovery DMAX" tvg-logo="https://epg.v1.mk/logo/Discovery-DMAX-TW.png" group-title="hami", Discovery DMAX
-http://51zb.work:5000/hami/OTT_LIVE_0000001514
-
-#EXTINF:-1 tvg-id="Discovery-EVE-TW" tvg-name="Discovery EVE" tvg-logo="https://epg.v1.mk/logo/Discovery-EVE-TW.png" group-title="hami", Discovery EVE
-http://51zb.work:5000/hami/OTT_LIVE_0000001511
-
-#EXTINF:-1 tvg-id="Discovery-Science-TW" tvg-name="Discovery Science" tvg-logo="https://epg.v1.mk/logo/Discovery-Science-TW.png" group-title="hami", Discovery Science
-http://51zb.work:5000/hami/OTT_LIVE_0000001512
-
-#EXTINF:-1 tvg-id="Eurosport-TW" tvg-name="Eurosport" tvg-logo="https://epg.v1.mk/logo/Eurosport-TW.png" group-title="hami", Eurosport
-http://51zb.work:5000/hami/OTT_LIVE_0000001771
-
-#EXTINF:-1 tvg-id="HGTV-TW" tvg-name="HGTV 居家樂活頻道" tvg-logo="https://epg.v1.mk/logo/HGTV-TW.png" group-title="hami", HGTV 居家樂活頻道
-http://51zb.work:5000/hami/OTT_LIVE_0000001901
-
-#EXTINF:-1 tvg-id="INULTRA-TW" tvg-name="INULTRA" tvg-logo="https://epg.v1.mk/logo/INULTRA-TW.png" group-title="hami", INULTRA
-http://51zb.work:5000/hami/OTT_LIVE_0000002056
-
-#EXTINF:-1 tvg-id="Love-Nature" tvg-name="Love Nature" tvg-logo="https://epg.v1.mk/logo/Love-Nature.png" group-title="hami", Love Nature
-http://51zb.work:5000/hami/OTT_LIVE_0000001867
-
-#EXTINF:-1 tvg-id="Rock-Action" tvg-name="Rock Action" tvg-logo="https://epg.v1.mk/logo/Rock-Action.png" group-title="hami", Rock Action
-http://51zb.work:5000/hami/OTT_LIVE_0000002005
-
-#EXTINF:-1 tvg-id="Rock-Entertainment" tvg-name="Rock Entertainment" tvg-logo="https://epg.v1.mk/logo/Rock-Entertainment.png" group-title="hami", Rock Entertainment
-http://51zb.work:5000/hami/OTT_LIVE_0000001860
-
-#EXTINF:-1 tvg-id="Rock-Extreme" tvg-name="Rock Extreme" tvg-logo="https://epg.v1.mk/logo/Rock-Extreme.png" group-title="hami", Rock Extreme
-http://51zb.work:5000/hami/OTT_LIVE_0000001861
-
-#EXTINF:-1 tvg-id="Travel-Channel-TW" tvg-name="Travel Channel" tvg-logo="https://epg.v1.mk/logo/Travel-Channel-TW.png" group-title="hami", Travel Channel
-http://51zb.work:5000/hami/OTT_LIVE_0000001756
-
-#EXTINF:-1 tvg-id="tvN-TW" tvg-name="tvN" tvg-logo="https://epg.v1.mk/logo/tvN-TW.png" group-title="hami", tvN
-http://51zb.work:5000/hami/OTT_LIVE_0000001884
-
-#EXTINF:-1 tvg-id="Warner-TV-TW" tvg-name="Warner TV" tvg-logo="https://epg.v1.mk/logo/Warner-TV-TW.png" group-title="hami", Warner TV
-http://51zb.work:5000/hami/OTT_LIVE_0000001888
-
-#EXTINF:-1 tvg-id="三立新聞" tvg-name="三立新聞台" tvg-logo="https://epg.v1.mk/logo/三立新聞.png" group-title="hami", 三立新聞台
-http://51zb.work:5000/hami/OTT_LIVE_0000001516
-
-#EXTINF:-1 tvg-id="中央氣象署影音頻道" tvg-name="中央氣象署影音頻道" tvg-logo="https://i0.hdslb.com/bfs/article/beccdf1f472de482acc194897fe9a0ae39829083.png" group-title="hami", 中央氣象署影音頻道
-http://51zb.work:5000/hami/OTT_LIVE_0000001508
-
-#EXTINF:-1 tvg-id="空中英語教室" tvg-name="空中英語教室" tvg-logo="https://epg.v1.mk/logo/空中英語教室.png" group-title="hami", 空中英語教室
-http://51zb.work:5000/hami/OTT_LIVE_0000001553
-
-#EXTINF:-1 tvg-id="華藝綜合台" tvg-name="華藝 MBC 綜合台" tvg-logo="https://epg.v1.mk/logo/華藝綜合台.png" group-title="hami", 華藝 MBC 綜合台
-http://51zb.work:5000/hami/OTT_LIVE_0000001825
+POPC,http://api.qqnb.top/qwt/qwt.php?t=香港频道&id=POPC&auth=666888
+POPC,http://zb.qqnb.top/epg/live_proxy_epg.php?id=p%E2%82%92%E2%82%9Ac%E7%94%B5%E5%BD%B1%E9%A2%91%E9%AB%98
+國興衛視,http://api.qqnb.top/qwt/qwt.php?t=台湾频道&id=国兴卫视&auth=666888
+國興衛視,http://api.qqnb.top/fh/fh.php?t=台湾频道&id=国兴卫视&auth=666
+中天綜合,http://api.qqnb.top/qwt/qwt.php?t=台湾频道&id=中天综合&auth=666888
+中天綜合,http://zb.qqnb.top/epg/live_proxy_epg.php?id=%E4%B8%AD%E5%A4%A9%E7%BB%BC%E5%90%88%E9%AB%98%E9%99%90
+緯來日本,http://api.qqnb.top/qwt/qwt.php?t=台湾频道&id=纬来日本&auth=666888
+AXN,http://api.qqnb.top/qwt/qwt.php?t=台湾频道&id=AXN頻道&auth=666888
+HBO,http://api.qqnb.top/qwt/qwt.php?t=台湾频道&id=HBOHD&auth=666888
+HBO,http://api.qqnb.top/fh/fh.php?t=台湾频道&id=HBOHD&auth=666
+HBO原创,http://api.qqnb.top/qwt/qwt.php?t=台湾频道&id=HBO原创&auth=666888
+HBO强档,http://api.qqnb.top/fh/fh.php?t=台湾频道&id=HBO强档&auth=666
+CINEMAX,http://api.qqnb.top/qwt/qwt.php?t=台湾频道&id=CINEMAX&auth=666888
+緯來體育,http://zb.qqnb.top/epg/live_proxy_epg.php?id=%E7%BA%AC%E6%9D%A5%E4%BD%93%E8%82%B2%E9%A2%91%E9%AB%98
+東森綜合,http://zb.qqnb.top/epg/live_proxy_epg.php?id=%E4%B8%9C%E6%A3%AE%E7%BB%BC%E5%90%88%E9%AB%98%E9%99%90
+東森超視,http://zb.qqnb.top/epg/live_proxy_epg.php?id=%E4%B8%9C%E6%A3%AE%E8%B6%85%E8%A7%86%E6%A0%87%E9%99%90
+Now爆谷台,http://api.qqnb.top/qwt/qwt.php?t=香港频道&id=Now爆谷台&auth=666888
+Now星影台,http://api.qqnb.top/qwt/qwt.php?t=香港频道&id=Now星影台&auth=666888
+翡翠台,http://api.qqnb.top/qwt/qwt.php?t=香港频道&id=翡翠台&auth=666888
