@@ -1,3 +1,14 @@
+深圳卫视4K,https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8
+深圳卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.1.14:5146
+广东卫视4K,http://vvip.lqcc.xyz:8092/stream/channelid/1248069700?auth=PrI5LXwb51dYilt30TvNYVVAgd4A&profile=pass
+广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+广东卫视4K,http://119.32.12.12:2901/udp/225.1.101.86:7523
+北京卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.2:5146
+广东综艺 4K,http://121.199.57.64:5000/udp/239.77.1.237:5146
+无线翡翠台4k,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+广州南国都市4K,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 TVBS歡樂HD,http://59.124.81.19:5003/live2784.m3u8
 尼克兒童頻道,http://59.124.81.19:5003/live2793.m3u8
 nickjr.小尼克,http://59.124.81.19:5003/live2796.m3u8
