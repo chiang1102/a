@@ -1,1 +1,3 @@
-1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226635/1.m3u8
+CCTV2,http://cdn3.veryfast.filegear-sg.me/live/cctv2/stream.m3u8
+CCTV4,http://cdn3.veryfast.filegear-sg.me/live/cctv4/stream.m3u8
+CCTV9,http://cdn3.veryfast.filegear-sg.me/live/cctv9/stream.m3u8
