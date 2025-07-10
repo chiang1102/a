@@ -1,3 +1,4 @@
+CCTV1,http://cdn3.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
 CCTV2,http://cdn3.veryfast.filegear-sg.me/live/cctv2/stream.m3u8
 CCTV4,http://cdn3.veryfast.filegear-sg.me/live/cctv4/stream.m3u8
 CCTV9,http://cdn3.veryfast.filegear-sg.me/live/cctv9/stream.m3u8
