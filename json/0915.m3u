@@ -1,66 +1,285 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-id="951" tvg-name="借枪" tvg-logo="" group-title="电影轮播",借枪
-p3p://167.114.175.6:55331/61ea1f1a000cbbc76962a13839ae06e4
-#EXTINF:-1 tvg-id="952" tvg-name="潜伏" tvg-logo="" group-title="电影轮播",潜伏
-p3p://167.114.175.6:55331/61ea1d5200061ecb695baa4c433c4e8d
-#EXTINF:-1 tvg-id="953" tvg-name="功夫片" tvg-logo="" group-title="电影轮播",功夫片
-https://live.metshop.top/huya/11352941
-#EXTINF:-1 tvg-id="954" tvg-name="经典港片" tvg-logo="" group-title="电影轮播",经典港片
-https://live.metshop.top/huya/11352965
-#EXTINF:-1 tvg-id="955" tvg-name="杰森史塔森" tvg-logo="" group-title="电影轮播",杰森史塔森
-https://live.metshop.top/huya/21059588
-#EXTINF:-1 tvg-id="956" tvg-name="枪战大片" tvg-logo="" group-title="电影轮播",枪战大片
-https://live.metshop.top/huya/21059579
-#EXTINF:-1 tvg-id="957" tvg-name="成龙电影" tvg-logo="" group-title="电影轮播",成龙电影
-https://live.metshop.top/huya/11342386
-#EXTINF:-1 tvg-id="958" tvg-name="王晶电影" tvg-logo="" group-title="电影轮播",王晶电影
-https://live.metshop.top/huya/11602058
-#EXTINF:-1 tvg-id="959" tvg-name="武侠片场" tvg-logo="" group-title="电影轮播",武侠片场
-https://live.metshop.top/huya/11342427
-#EXTINF:-1 tvg-id="960" tvg-name="玄幻系列" tvg-logo="" group-title="电影轮播",玄幻系列
-https://live.metshop.top/huya/11342414
-#EXTINF:-1 tvg-id="961" tvg-name="周润发电影" tvg-logo="" group-title="电影轮播",周润发电影
-https://live.metshop.top/huya/11342387
-#EXTINF:-1 tvg-id="962" tvg-name="搞笑系列" tvg-logo="" group-title="电影轮播",搞笑系列
-https://live.metshop.top/huya/11342423
-#EXTINF:-1 tvg-id="963" tvg-name="战争片" tvg-logo="" group-title="电影轮播",战争片
-https://live.metshop.top/huya/21059574
-#EXTINF:-1 tvg-id="964" tvg-name="李连杰电影" tvg-logo="" group-title="电影轮播",李连杰电影
-https://live.metshop.top/huya/11342390
-#EXTINF:-1 tvg-id="965" tvg-name="周星驰电影" tvg-logo="" group-title="电影轮播",周星驰电影
-https://live.metshop.top/huya/11336587
-#EXTINF:-1 tvg-id="966" tvg-name="黑帮系列" tvg-logo="" group-title="电影轮播",黑帮系列
-https://live.metshop.top/huya/11336719
-#EXTINF:-1 tvg-id="967" tvg-name="喜剧系列" tvg-logo="" group-title="电影轮播",喜剧系列
-https://live.metshop.top/huya/11352877
-#EXTINF:-1 tvg-id="968" tvg-name="林正英电影" tvg-logo="" group-title="电影轮播",林正英电影
-https://live.metshop.top/huya/11342421
-#EXTINF:-1 tvg-id="969" tvg-name="动作大片" tvg-logo="" group-title="电影轮播",动作大片
-https://live.metshop.top/huya/11602077
-#EXTINF:-1 tvg-id="970" tvg-name="洪金宝" tvg-logo="" group-title="电影轮播",洪金宝
-https://live.metshop.top/huya/11279251
-#EXTINF:-1 tvg-id="971" tvg-name="谍战大片" tvg-logo="http://123.176.96.186:18006/gemini-iptv//images/livepic/j2j48fc0kpuco2hhxiu1j2w2tsbl5k9x.png" group-title="电影轮播",谍战大片
-https://live.metshop.top/huya/21059585
-#EXTINF:-1 tvg-id="972" tvg-name="水浒传" tvg-logo="http://123.176.96.186:18006/gemini-iptv//images/livepic/n8s49o9iygj56zcdlkweeg1y1n670ixf.png" group-title="电影轮播",水浒传
-https://live.metshop.top/huya/11342384
-#EXTINF:-1 tvg-id="972" tvg-name="水浒传" tvg-logo="http://123.176.96.186:18006/gemini-iptv//images/livepic/n8s49o9iygj56zcdlkweeg1y1n670ixf.png" group-title="电影轮播",水浒传
-p3p://167.114.175.6:55331/603bd4ac00059f4cd8a46780216100a6
-#EXTINF:-1 tvg-id="973" tvg-name="三国演义" tvg-logo="http://123.176.96.186:18006/gemini-iptv//images/livepic/a6c6ubhbx0tt124mjawhb0kzp67gfxgv.png" group-title="电影轮播",三国演义
-https://live.metshop.top/huya/11602081
-#EXTINF:-1 tvg-id="973" tvg-name="三国演义" tvg-logo="http://123.176.96.186:18006/gemini-iptv//images/livepic/a6c6ubhbx0tt124mjawhb0kzp67gfxgv.png" group-title="电影轮播",三国演义
-p3p://167.114.175.6:55331/603923630003b266ce20536c65220246
-#EXTINF:-1 tvg-id="974" tvg-name="西游记" tvg-logo="http://123.176.96.186:18006/gemini-iptv//images/livepic/vd9kbcb2bee8izwxybkq95m55ierjzoq.png" group-title="电影轮播",西游记
-http://aldirect.corp-hls.huya.com/src/1250011-1250011-5368756364640256-2789253862-10057-A-0-1.m3u8?wsiphost=ipdbme
-#EXTINF:-1 tvg-id="974" tvg-name="西游记" tvg-logo="http://123.176.96.186:18006/gemini-iptv//images/livepic/vd9kbcb2bee8izwxybkq95m55ierjzoq.png" group-title="电影轮播",西游记
-p3p://167.114.175.6:55331/6039232a000bdf40ce1f76d4653c5229
-#EXTINF:-1 tvg-id="975" tvg-name="西游记续" tvg-logo="http://123.176.96.186:18006/gemini-iptv//images/livepic/c0y02oximwv1jyx5eicwi7aa1zk5zygn.png" group-title="电影轮播",西游记续
-p3p://167.114.175.6:55331/603923470002ecbace1fe5cc14e1123a
-#EXTINF:-1 tvg-id="976" tvg-name="上海滩粤" tvg-logo="http://123.176.96.186:18006/gemini-iptv//images/livepic/i1cdgaosme83pd71tdddken1ga6vmuou.png" group-title="电影轮播",上海滩粤
-p3p://167.114.175.6:55331/603596be00052a95c042ef455c421884
-#EXTINF:-1 tvg-id="977" tvg-name="上海滩国语" tvg-logo="http://123.176.96.186:18006/gemini-iptv//images/livepic/2tyj207d40eqvkh2o2d17izu5etxowu6.png" group-title="电影轮播",上海滩国语
-p3p://167.114.175.6:55331/6039230e0004725bce1f078e60140fd5
-#EXTINF:-1 tvg-id="978" tvg-name="射雕英雄传1983粤" tvg-logo="http://123.176.96.186:18006/gemini-iptv//images/livepic/jgvhxs2cn3uo1rmdv9oyk3en1j2mhyqx.png" group-title="电影轮播",射雕英雄传1983粤
-p3p://167.114.175.6:55331/603596760003c2bac041d59d04721471
-#EXTINF:-1 tvg-id="979" tvg-name="射雕英雄传国语" tvg-logo="http://123.176.96.186:18006/gemini-iptv//images/livepic/z3z9k5zbzwkhx0vfjpm4lkeren3zqapz.png" group-title="电影轮播",射雕英雄传国语
-p3p://167.114.175.6:55331/603923a8000ef52bce2163d1528d1785
+🇨🇳虎牙直播,#genre#
+哆啦A梦,http://live.nctv.top/huya.php?id=11601963$LR•IPV4『线路1』
+哆啦A梦,http://www.xzbn.site:35455/huya/11601963$LR•IPV4『线路2』
+王者荣耀,http://tc-tct.douyucdn2.cn/dyliveflv1a/1863767rkpl2_2000p.m3u8?wsAuth=e06e8fc59b6e23439332b7caf1b2687d&token=cpn-androidmpro-0-1863767-7b520f6fe0a2b18d8fe12b672922635bfc8c2d455179f350&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2$LR•IPV4『线路1』
+王者荣耀,http://live.nctv.top/huya.php?id=660002$LR•IPV4『线路2』
+王者荣耀,http://www.xzbn.site:35455/huya/660002$LR•IPV4『线路3』
+JJ斗地主,http://tc-tct.douyucdn2.cn/dyliveflv1a/488743rAHScWyyII_2000.m3u8?wsAuth=fd695c444eeee99cc6122ed396c805ba&token=cpn-androidmpro-0-488743-df8b1830ef2e6ce156759645768df95bf77749da61fcc901&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2$LR•IPV4
+雨神,http://live.nctv.top/douyu.php?id=6512$LR•IPV4『线路1』
+雨神,http://2.itv.nctv.top:54321/douyu/6512$LR•IPV4『线路2』
+雨神,http://www.xzbn.site:35455/douyu/6512$LR•IPV4『线路3』
+麻将靓旭,http://live.nctv.top/douyu.php?id=1165924$LR•IPV4『线路1』
+麻将靓旭,http://2.itv.nctv.top:54321/douyu/1165924$LR•IPV4『线路2』
+麻将靓旭,http://www.xzbn.site:35455/douyu/1165924$LR•IPV4『线路3』
+周星驰,http://live.nctv.top/huya.php?id=11342412$LR•IPV4『线路1』
+周星驰,http://www.xzbn.site:35455/huya/11342412$LR•IPV4『线路2』
+周星驰,http://alist.xicp.fun:35455/yy/1382736808#https://live.metshop.top/yy/1382736808$LR•IPV4『线路3』
+周星驰,http://alist.xicp.fun:35455/yy/1382851590$LR•IPV4『线路4』
+李连杰,http://live.nctv.top/huya.php?id=11342390$LR•IPV4『线路1』
+李连杰,http://www.xzbn.site:35455/huya/11342390$LR•IPV4『线路2』
+林正英,http://live.nctv.top/huya.php?id=11342421$LR•IPV4『线路1』
+林正英,http://www.xzbn.site:35455/huya/11342421$LR•IPV4『线路2』
+成龙,http://live.nctv.top/huya.php?id=11342386$LR•IPV4『线路1』
+成龙,http://www.xzbn.site:35455/huya/11342386$LR•IPV4『线路2』
+甄子丹,http://live.nctv.top/huya.php?id=11352935$LR•IPV4『线路1』
+甄子丹,http://www.xzbn.site:35455/huya/11352935$LR•IPV4『线路2』
+刘德华,http://live.nctv.top/huya.php?id=11342424$LR•IPV4『线路1』
+刘德华,http://www.xzbn.site:35455/huya/11342424$LR•IPV4『线路2』
+周润发,http://live.nctv.top/huya.php?id=11342387$LR•IPV4『线路1』
+周润发,http://www.xzbn.site:35455/huya/11342387$LR•IPV4『线路2』
+周润发,http://alist.xicp.fun:35455/yy/1354888733$LR•IPV4『线路3』
+五福星,http://live.nctv.top/huya.php?id=11282233$LR•IPV4『线路1』
+五福星,http://www.xzbn.site:35455/huya/11282233$LR•IPV4『线路2』
+许氏三杰,http://live.nctv.top/huya.php?id=11602033$LR•IPV4『线路1』
+许氏三杰,http://www.xzbn.site:35455/huya/11602033$LR•IPV4『线路2』
+吴孟达,http://live.nctv.top/huya.php?id=11336592$LR•IPV4『线路1』
+吴孟达,http://www.xzbn.site:35455/huya/11336592$LR•IPV4『线路2』
+沈腾,http://live.nctv.top/huya.php?id=11601968$LR•IPV4『线路1』
+沈腾,http://www.xzbn.site:35455/huya/11601968$LR•IPV4『线路2』
+洪金宝,http://live.nctv.top/huya.php?id=11279251$LR•IPV4『线路1』
+洪金宝,http://www.xzbn.site:35455/huya/11279251$LR•IPV4『线路2』
+梁家辉,http://live.nctv.top/huya.php?id=11342429$LR•IPV4『线路1』
+梁家辉,http://www.xzbn.site:35455/huya/11342429$LR•IPV4『线路2』
+徐峥,http://live.nctv.top/huya.php?id=1352876$LR•IPV4『线路1』
+徐峥,http://www.xzbn.site:35455/huya/11352876$LR•IPV4『线路2』
+王晶导演,http://live.nctv.top/huya.php?id=11602058$LR•IPV4『线路1』
+王晶导演,http://www.xzbn.site:35455/huya/11602058$LR•IPV4『线路2』
+许冠英,http://live.nctv.top/huya.php?id=11601972$LR•IPV4『线路1』
+许冠英,http://www.xzbn.site:35455/huya/11601972$LR•IPV4『线路2』
+巨石强森,http://live.nctv.top/huya.php?id=21059581$LR•IPV4『线路1』
+巨石强森,http://www.xzbn.site:35455/huya/21059581$LR•IPV4『线路2』
+杰森斯坦森,http://live.nctv.top/huya.php?id=21059588$LR•IPV4『线路1』
+杰森斯坦森,http://www.xzbn.site:35455/huya/21059588$LR•IPV4『线路2』
+鹿鼎记,http://www.xzbn.site:35455/yy/28265277$LR•IPV4『线路1』
+鹿鼎记,http://live.nctv.top/huya.php?id=23865080$LR•IPV4『线路2』
+鹿鼎记,http://www.xzbn.site:35455/huya/23865080$LR•IPV4『线路3』
+鹿鼎记,http://2.itv.nctv.top:54321/yy/382704650$LR•IPV4『线路4』
+鹿鼎记,http://live.nctv.top/douyu.php?id=12128227$LR•IPV4『线路5』
+鹿鼎记,http://www.xzbn.site:35455/douyu/12128227$LR•IPV4『线路6』
+鹿鼎记,http://alist.xicp.fun:35455/yy/28265277#https://live.metshop.top/huya/23865080#https://live.metshop.top/yy/28265277#https://lunbo.freetv.top/yy/1382736920$LR•IPV4『线路7』
+射雕英雄传,http://2.itv.nctv.top:54321/yy/1354210357$LR•IPV4『线路1』
+射雕英雄传,http://www.xzbn.site:35455/yy/1354210357.m3u8$LR•IPV4『线路2』
+神雕侠侣,http://2.itv.nctv.top:54321/yy/1351762426$LR•IPV4『线路1』
+神雕侠侣,http://www.xzbn.site:35455/yy/1351762426$LR•IPV4『线路2』
+神雕侠侣,http://alist.xicp.fun:35455/yy/1351762426#https://live.metshop.top/yy/1351762426#https://lunbo.freetv.top/yy/1351762426$LR•IPV4『线路3』
+神雕侠侣,http://live.nctv.top/huya.php?id=23865171$LR•IPV4『线路4』
+神雕侠侣,http://www.xzbn.site:35455/huya/23865171$LR•IPV4『线路5』
+天龙八部,http://2.itv.nctv.top:54321/yy/1351814644$LR•IPV4『线路1』
+天龙八部,http://www.xzbn.site:35455/yy/1351814644$LR•IPV4『线路2』
+天龙八部,http://live.nctv.top/douyu.php?id=7655471$LR•IPV4『线路3』
+天龙八部,http://www.xzbn.site:35455/douyu/7655471$LR•IPV4『线路4』
+天龙八部,http://alist.xicp.fun:35455/yy/1351814644#https://live.metshop.top/yy/1351814644$LR•IPV4『线路5』
+天龙八部,http://alist.xicp.fun:35455/yy/1382749944$LR•IPV4『线路6』
+笑傲江湖,http://2.itv.nctv.top:54321/yy/1354930909$LR•IPV4『线路1』
+笑傲江湖,http://www.xzbn.site:35455/yy/1354930909$LR•IPV4『线路2』
+笑傲江湖,http://alist.xicp.fun:35455/yy/1354930909#https://live.metshop.top/yy/1354930909$LR•IPV4『线路3』
+笑傲江湖,http://alist.xicp.fun:35455/yy/1354930909$LR•IPV4『线路4』
+笑傲江湖,http://live.nctv.top/huya.php?id=23865142$LR•IPV4『线路5』
+笑傲江湖,http://www.xzbn.site:35455/huya/23865142$LR•IPV4『线路6』
+寻秦记,http://2.itv.nctv.top:54321/yy/1382749900#http://www.xzbn.site:35455/yy/1382749900$LR•IPV4『线路1』
+寻秦记,http://alist.xicp.fun:35455/yy/1382749900#,https://live.metshop.top/yy/1382749900$LR•IPV4『线路2』
+寻秦记,http://live.nctv.top/huya.php?id=23864973$LR•IPV4『线路3』
+寻秦记,http://www.xzbn.site:35455/huya/23864973$LR•IPV4『线路4』
+金玉满堂,http://2.itv.nctv.top:54321/yy/1382736881#http://www.xzbn.site:35455/yy/1382736881$LR•IPV4『线路1』
+金玉满堂,http://alist.xicp.fun:35455/yy/1382736881#https://live.metshop.top/yy/1382736881$LR•IPV4『线路2』
+宫心计,http://2.itv.nctv.top:54321/yy/1354933540#http://www.xzbn.site:35455/yy/1354933540$LR•IPV4『线路1』
+宫心计,http://alist.xicp.fun:35455/yy/1354933540#http://43.138.170.29:35455/yy/1354933540$LR•IPV4『线路2』
+康熙王朝,http://live.nctv.top/huya.php?id=11352940$LR•IPV4『线路1』
+康熙王朝,http://2.itv.nctv.top:54321/yy/1382736818$LR•IPV4『线路2』
+康熙王朝,http://www.xzbn.site:35455/yy/1382736818$LR•IPV4『线路3』
+康熙王朝,http://alist.xicp.fun:35455/yy/1382736818#https://live.metshop.top/yy/1382736818$LR•IPV4『线路4』
+康熙王朝,http://alist.xicp.fun:35455/yy/1382736818$LR•IPV4『线路5』
+港片赌片,http://2.itv.nctv.top:54321/yy/1355076627$LR•IPV4『线路1』
+港片赌片,http://cfss.cc/api/yy/1355076627.m3u8$LR•IPV4『线路2』
+港片赌片,http://www.xzbn.site:35455/yy/1355076627$LR•IPV4『线路3』
+虎牙-猫和老鼠,http://live.nctv.top/huya.php?id=11352879$LR•IPV4『线路1』
+虎牙-猫和老鼠,http://www.xzbn.site:35455/huya/11352879$LR•IPV4『线路2』
+虎牙-圣斗士星矢,http://live.nctv.top/huya.php?id=18632116$LR•IPV4『线路1』
+虎牙-圣斗士星矢,http://www.xzbn.site:35455/huya/18632116$LR•IPV4『线路2』
+虎牙-庆余年,http://live.nctv.top/huya.php?id=11352960$LR•IPV4『线路1』
+虎牙-庆余年,http://www.xzbn.site:35455/huya/11352960$LR•IPV4『线路2』
+虎牙-金庸武侠,http://live.nctv.top/huya.php?id=11342427$LR•IPV4『线路1』
+虎牙-金庸武侠,http://www.xzbn.site:35455/huya/11342427$LR•IPV4『线路2』
+虎牙-神雕侠侣陈妍希,http://live.nctv.top/huya.php?id=huya/11352964$LR•IPV4『线路1』
+虎牙-神雕侠侣陈妍希,http://www.xzbn.site:35455/huya/huya/11352964$LR•IPV4『线路2』
+虎牙-射雕英雄传,http://live.nctv.top/huya.php?id=23728674$LR•IPV4『线路1』
+虎牙-射雕英雄传,http://www.xzbn.site:35455/huya/23728674$LR•IPV4『线路2』
+虎牙-倚天屠龙记,http://live.nctv.top/huya.php?id=11342403$LR•IPV4『线路1』
+虎牙-倚天屠龙记,http://www.xzbn.site:35455/huya/11342403$LR•IPV4『线路2』
+虎牙-新三国演义,http://live.nctv.top/huya.php?id=11352944$LR•IPV4『线路1』
+虎牙-新三国演义,http://www.xzbn.site:35455/huya/11352944$LR•IPV4『线路2』
+虎牙-新水浒传,http://live.nctv.top/huya.php?id=11342384$LR•IPV4『线路1』
+虎牙-新水浒传,http://www.xzbn.site:35455/huya/11342384$LR•IPV4『线路2』
+虎牙-三国演义,http://live.nctv.top/huya.php?id=11602081$LR•IPV4『线路1』
+虎牙-三国演义,http://www.xzbn.site:35455/huya/11602081$LR•IPV4『线路2』
+虎牙-TVB西游记,http://live.nctv.top/huya.php?id=23735126$LR•IPV4『线路1』
+虎牙-TVB西游记,http://www.xzbn.site:35455/huya/23735126$LR•IPV4『线路2』
+虎牙-天龙八部,http://live.nctv.top/huya.php?id=23903123$LR•IPV4『线路1』
+虎牙-天龙八部,http://www.xzbn.site:35455/huya/23903123$LR•IPV4『线路2』
+虎牙-新流星蝴蝶剑,http://live.nctv.top/huya.php?id=11342420$LR•IPV4『线路1』
+虎牙-新流星蝴蝶剑,http://www.xzbn.site:35455/huya/11342420$LR•IPV4『线路2』
+虎牙-秦王李世明,http://live.nctv.top/huya.php?id=11336572$LR•IPV4『线路1』
+虎牙-秦王李世明,http://www.xzbn.site:35455/huya/11336572$LR•IPV4『线路2』
+虎牙-十大奇冤,http://live.nctv.top/huya.php?id=11352899$LR•IPV4『线路1』
+虎牙-十大奇冤,http://www.xzbn.site:35455/huya/11352899$LR•IPV4『线路2』
+虎牙-金装四大才子,http://live.nctv.top/huya.php?id=23903183$LR•IPV4『线路1』
+虎牙-金装四大才子,http://www.xzbn.site:35455/huya/23903183$LR•IPV4『线路2』
+虎牙-状王宋世杰,http://live.nctv.top/huya.php?id=23734183$LR•IPV4『线路1』
+虎牙-状王宋世杰,http://www.xzbn.site:35455/huya/23734183$LR•IPV4『线路2』
+虎牙-布衣神相,http://live.nctv.top/huya.php?id=23865036$LR•IPV4『线路1』
+虎牙-布衣神相,http://www.xzbn.site:35455/huya/23865036$LR•IPV4『线路2』
+虎牙-封神榜,http://live.nctv.top/huya.php?id=23749096$LR•IPV4『线路1』
+虎牙-封神榜,http://www.xzbn.site:35455/huya/23749096$LR•IPV4『线路2』
+虎牙-宝莲灯,http://live.nctv.top/huya.php?id=21059563$LR•IPV4『线路1』
+虎牙-宝莲灯,http://www.xzbn.site:35455/huya/21059563$LR•IPV4『线路2』
+虎牙-秀才遇到兵,http://live.nctv.top/huya.php?id=23746486$LR•IPV4『线路1』
+虎牙-秀才遇到兵,http://www.xzbn.site:35455/huya/23746486$LR•IPV4『线路2』
+虎牙-将夜,http://live.nctv.top/huya.php?id=11352885$LR•IPV4『线路1』
+虎牙-将夜,http://www.xzbn.site:35455/huya/11352885$LR•IPV4『线路2』
+虎牙-活佛济公,http://live.nctv.top/huya.php?id=11342400$LR•IPV4『线路1』
+虎牙-活佛济公,http://www.xzbn.site:35455/huya/11342400$LR•IPV4『线路2』
+虎牙-快意江湖,http://live.nctv.top/huya.php?id=11342435$LR•IPV4『线路1』
+虎牙-快意江湖,http://www.xzbn.site:35455/huya/11342435$LR•IPV4『线路2』
+虎牙-镖行天下,http://live.nctv.top/huya.php?id=11352969$LR•IPV4『线路1』
+虎牙-镖行天下,http://www.xzbn.site:35455/huya/11352969$LR•IPV4『线路2』
+虎牙-鬼吹灯,http://live.nctv.top/huya.php?id=11352871$LR•IPV4『线路1』
+虎牙-鬼吹灯,http://www.xzbn.site:35455/huya/11352871$LR•IPV4『线路2』
+虎牙-大秦帝国,http://live.nctv.top/huya.php?id=11352881$LR•IPV4『线路1』
+虎牙-大秦帝国,http://www.xzbn.site:35455/huya/11352881$LR•IPV4『线路2』
+虎牙-楚汉骄雄,http://live.nctv.top/huya.php?id=23740156$LR•IPV4『线路1』
+虎牙-楚汉骄雄,http://www.xzbn.site:35455/huya/23740156$LR•IPV4『线路2』
+虎牙-康熙微服私访记,http://live.nctv.top/huya.php?id=11342418$LR•IPV4『线路1』
+虎牙-康熙微服私访记,http://www.xzbn.site:35455/huya/11342418$LR•IPV4『线路2』
+虎牙-铁齿铜牙纪晓岚,http://live.nctv.top/huya.php?id=11342396$LR•IPV4『线路1』
+虎牙-铁齿铜牙纪晓岚,http://www.xzbn.site:35455/huya/11342396$LR•IPV4『线路2』
+虎牙-神医喜来乐,http://live.nctv.top/huya.php?id=11601978$LR•IPV4『线路1』
+虎牙-神医喜来乐,http://www.xzbn.site:35455/huya/11601978$LR•IPV4『线路2』
+虎牙-芈月传,http://live.nctv.top/huya.php?id=11352975$LR•IPV4『线路1』
+虎牙-芈月传,http://www.xzbn.site:35455/huya/11352975$LR•IPV4『线路2』
+虎牙-爱情公寓,http://live.nctv.top/huya.php?id=11336726$LR•IPV4『线路1』
+虎牙-爱情公寓,http://www.xzbn.site:35455/huya/11336726$LR•IPV4『线路2』
+虎牙-雍正王朝,http://live.nctv.top/huya.php?id=11342439$LR•IPV4『线路1』
+虎牙-雍正王朝,http://www.xzbn.site:35455/huya/11342439$LR•IPV4『线路2』
+虎牙-神探狄仁杰,http://live.nctv.top/huya.php?id=11342425$LR•IPV4『线路1』
+虎牙-神探狄仁杰,http://www.xzbn.site:35455/huya/11342425$LR•IPV4『线路2』
+虎牙-洗冤录,http://live.nctv.top/huya.php?id=23903130$LR•IPV4『线路1』
+虎牙-洗冤录,http://www.xzbn.site:35455/huya/23903130$LR•IPV4『线路2』
+虎牙-医馆笑传,http://live.nctv.top/huya.php?id=11352891$LR•IPV4『线路1』
+虎牙-医馆笑传,http://www.xzbn.site:35455/huya/11352891$LR•IPV4『线路2』
+虎牙-第八号当铺,http://live.nctv.top/huya.php?id=21059568$LR•IPV4『线路1』
+虎牙-第八号当铺,http://www.xzbn.site:35455/huya/21059568$LR•IPV4『线路2』
+电影_黄渤,http://live.nctv.top/huya.php?id=11352876$LR•IPV4
+电影_漫威,http://live.nctv.top/huya.php?id=11602034$LR•IPV4『线路1』
+电影_漫威,http://www.xzbn.site:35455/huya/11602034$LR•IPV4『线路2』
+电影_宇宙,http://live.nctv.top/huya.php?id=11342428$LR•IPV4『线路1』
+电影_宇宙,http://www.xzbn.site:35455/huya/11342428$LR•IPV4『线路2』
+电影_怪兽,http://live.nctv.top/huya.php?id=21059577$LR•IPV4『线路1』
+电影_怪兽,http://www.xzbn.site:35455/huya/21059577$LR•IPV4『线路2』
+电影_警匪,http://live.nctv.top/huya.php?id=11352886$LR•IPV4『线路1』
+电影_警匪,http://www.xzbn.site:35455/huya/11352886$LR•IPV4『线路2』
+电影_罪犯,http://live.nctv.top/huya.php?id=11352962$LR•IPV4『线路1』
+电影_罪犯,http://www.xzbn.site:35455/huya/11352962$LR•IPV4『线路2』
+电影_枪战,http://live.nctv.top/huya.php?id=21059579$LR•IPV4『线路1』
+电影_枪战,http://www.xzbn.site:35455/huya/21059579$LR•IPV4『线路2』
+电影_海盗,http://live.nctv.top/huya.php?id=21059595$LR•IPV4『线路1』
+电影_海盗,http://www.xzbn.site:35455/huya/21059595$LR•IPV4『线路2』
+电影_赛车,http://live.nctv.top/huya.php?id=11279247$LR•IPV4『线路1』
+电影_赛车,http://www.xzbn.site:35455/huya/11279247$LR•IPV4『线路2』
+电影_推荐,http://live.nctv.top/huya.php?id=11602041$LR•IPV4『线路1』
+电影_推荐,http://www.xzbn.site:35455/huya/11602041$LR•IPV4『线路2』
+电影_救援,http://live.nctv.top/huya.php?id=21059594$LR•IPV4『线路1』
+电影_救援,http://www.xzbn.site:35455/huya/21059594$LR•IPV4『线路2』
+电影_热血,http://live.nctv.top/huya.php?id=11352934$LR•IPV4『线路1』
+电影_热血,http://www.xzbn.site:35455/huya/11352934$LR•IPV4『线路2』
+电影_盗墓,http://live.nctv.top/huya.php?id=21059552$LR•IPV4『线路1』
+电影_盗墓,http://www.xzbn.site:35455/huya/21059552$LR•IPV4『线路2』
+电影_贺岁,http://live.nctv.top/huya.php?id=11601971$LR•IPV4『线路1』
+电影_贺岁,http://www.xzbn.site:35455/huya/11601971$LR•IPV4『线路2』
+电影_玄幻,http://live.nctv.top/huya.php?id=11342414$LR•IPV4『线路1』
+电影_玄幻,http://www.xzbn.site:35455/huya/11342414$LR•IPV4『线路2』
+电影_谍战,http://live.nctv.top/huya.php?id=21059585$LR•IPV4『线路1』
+电影_谍战,http://www.xzbn.site:35455/huya/21059585$LR•IPV4『线路2』
+电影_战争,http://live.nctv.top/huya.php?id=21059592$LR•IPV4『线路1』
+电影_战争,http://www.xzbn.site:35455/huya/21059592$LR•IPV4『线路2』
+电影_喜剧,http://live.nctv.top/huya.php?id=11352877$LR•IPV4『线路1』
+电影_喜剧,http://www.xzbn.site:35455/huya/11352877$LR•IPV4『线路2』
+电影_港片,http://live.nctv.top/huya.php?id=11602043$LR•IPV4『线路1』
+电影_港片,http://www.xzbn.site:35455/huya/11602043$LR•IPV4『线路2』
+电影_国产,http://live.nctv.top/huya.php?id=11352973$LR•IPV4『线路1』
+电影_国产,http://www.xzbn.site:35455/huya/11352973$LR•IPV4『线路2』
+电影_周星星,http://live.nctv.top/huya.php?id=11336587$LR•IPV4『线路1』
+电影_周星星,http://www.xzbn.site:35455/huya/11336587$LR•IPV4『线路2』
+电影_小鬼头,http://live.nctv.top/huya.php?id=11352963$LR•IPV4『线路1』
+电影_小鬼头,http://www.xzbn.site:35455/huya/11352963$LR•IPV4『线路2』
+电影_八点档,http://live.nctv.top/huya.php?id=880261$LR•IPV4『线路1』
+电影_八点档,http://www.xzbn.site:35455/huya/880261$LR•IPV4『线路2』
+电影_蜘蛛侠,http://live.nctv.top/huya.php?id=21059599$LR•IPV4『线路1』
+电影_蜘蛛侠,http://www.xzbn.site:35455/huya/21059599$LR•IPV4『线路2』
+电影_贺岁片,http://live.nctv.top/huya.php?id=11601986$LR•IPV4『线路1』
+电影_贺岁片,http://www.xzbn.site:35455/huya/11601986$LR•IPV4『线路2』
+电影_功夫片,http://live.nctv.top/huya.php?id=11352941$LR•IPV4『线路1』
+电影_功夫片,http://www.xzbn.site:35455/huya/11352941$LR•IPV4『线路2』
+电影_黑帮片,http://live.nctv.top/huya.php?id=11336719$LR•IPV4『线路1』
+电影_黑帮片,http://www.xzbn.site:35455/huya/11336719$LR•IPV4『线路2』
+电影_丧尸片,http://live.nctv.top/huya.php?id=21059578$LR•IPV4『线路1』
+电影_丧尸片,http://www.xzbn.site:35455/huya/21059578$LR•IPV4『线路2』
+电影_灾难片,http://live.nctv.top/huya.php?id=11602075$LR•IPV4『线路1』
+电影_灾难片,http://www.xzbn.site:35455/huya/11602075$LR•IPV4『线路2』
+电影_谍战片,http://live.nctv.top/huya.php?id=21059587$LR•IPV4『线路1』
+电影_谍战片,http://www.xzbn.site:35455/huya/21059587$LR•IPV4『线路2』
+电影_战争片,http://live.nctv.top/huya.php?id=21059574$LR•IPV4『线路1』
+电影_战争片,http://www.xzbn.site:35455/huya/21059574$LR•IPV4『线路2』
+电影_犯罪片,http://live.nctv.top/huya.php?id=11352974$LR•IPV4『线路1』
+电影_犯罪片,http://www.xzbn.site:35455/huya/11352974$LR•IPV4『线路2』
+电影_古装片,http://live.nctv.top/huya.php?id=11336590$LR•IPV4『线路1』
+电影_古装片,http://www.xzbn.site:35455/huya/11336590$LR•IPV4『线路2』
+电影_高分动作,http://live.nctv.top/huya.php?id=11352884$LR•IPV4『线路1』
+电影_高分动作,http://www.xzbn.site:35455/huya/11352884$LR•IPV4『线路2』
+电影_动作电影,http://live.nctv.top/huya.php?id=11602077$LR•IPV4『线路1』
+电影_动作电影,http://www.xzbn.site:35455/huya/11602077$LR•IPV4『线路2』
+电影_搞笑喜剧,http://live.nctv.top/huya.php?id=11342423$LR•IPV4『线路1』
+电影_搞笑喜剧,http://www.xzbn.site:35455/huya/11342423$LR•IPV4『线路2』
+电影_喜剧专场,http://live.nctv.top/huya.php?id=11602044$LR•IPV4『线路1』
+电影_喜剧专场,http://www.xzbn.site:35455/huya/11602044$LR•IPV4『线路2』
+电影_欢笑影院,http://live.nctv.top/huya.php?id=11352894$LR•IPV4『线路1』
+电影_欢笑影院,http://www.xzbn.site:35455/huya/11352894$LR•IPV4『线路2』
+电影_不挤影院,http://live.nctv.top/huya.php?id=11352897$LR•IPV4『线路1』
+电影_不挤影院,http://www.xzbn.site:35455/huya/11352897$LR•IPV4『线路2』
+电影_国产悬疑,http://live.nctv.top/huya.php?id=11342395$LR•IPV4『线路1』
+电影_国产悬疑,http://www.xzbn.site:35455/huya/11342395$LR•IPV4『线路2』
+电影_黑帮斗争,http://live.nctv.top/huya.php?id=11342419$LR•IPV4『线路1』
+电影_黑帮斗争,http://www.xzbn.site:35455/huya/11342419$LR•IPV4『线路2』
+电影_古墓系列,http://live.nctv.top/huya.php?id=11352913$LR•IPV4『线路1』
+电影_古墓系列,http://www.xzbn.site:35455/huya/11352913$LR•IPV4『线路2』
+电影_嫣然影厅,http://live.nctv.top/huya.php?id=11601977$LR•IPV4『线路1』
+电影_嫣然影厅,http://www.xzbn.site:35455/huya/11601977$LR•IPV4『线路2』
+电影_女神系列,http://live.nctv.top/huya.php?id=11336571$LR•IPV4『线路1』
+电影_女神系列,http://www.xzbn.site:35455/huya/11336571$LR•IPV4『线路2』
+电影_经典女神,http://live.nctv.top/huya.php?id=11352909$LR•IPV4『线路1』
+电影_经典女神,http://www.xzbn.site:35455/huya/11352909$LR•IPV4『线路2』
+电影_经典港片,http://live.nctv.top/huya.php?id=11352965$LR•IPV4『线路1』
+电影_经典港片,http://www.xzbn.site:35455/huya/11352965$LR•IPV4『线路2』
+电影_高能反转,http://live.nctv.top/huya.php?id=11352887$LR•IPV4『线路1』
+电影_高能反转,http://www.xzbn.site:35455/huya/11352887$LR•IPV4『线路2』
+电影_喜乐影院,http://live.nctv.top/huya.php?id=21059580$LR•IPV4『线路1』
+电影_喜乐影院,http://www.xzbn.site:35455/huya/21059580$LR•IPV4『线路2』
+电影_蘑菇影厅,http://live.nctv.top/huya.php?id=11601981$LR•IPV4『线路1』
+电影_蘑菇影厅,http://www.xzbn.site:35455/huya/11601981$LR•IPV4『线路2』
+电影_搞笑恐怖,http://live.nctv.top/huya.php?id=11601960$LR•IPV4『线路1』
+电影_搞笑恐怖,http://www.xzbn.site:35455/huya/11601960$LR•IPV4『线路2』
+电影_死神来了,http://live.nctv.top/huya.php?id=11352903$LR•IPV4『线路1』
+电影_死神来了,http://www.xzbn.site:35455/huya/11352903$LR•IPV4『线路2』
+电影_变形金刚,http://live.nctv.top/huya.php?id=21059596$LR•IPV4『线路1』
+电影_变形金刚,http://www.xzbn.site:35455/huya/21059596$LR•IPV4『线路2』
+电影_怪兽系列,http://live.nctv.top/huya.php?id=21059554$LR•IPV4『线路1』
+电影_怪兽系列,http://www.xzbn.site:35455/huya/21059554$LR•IPV4『线路2』
+剧集_士兵突击,http://live.nctv.top/huya.php?id=11342430$LR•IPV4『线路1』
+剧集_士兵突击,http://www.xzbn.site:35455/huya/11342430$LR•IPV4『线路2』
+剧集_家有儿女,http://live.nctv.top/huya.php?id=11352872$LR•IPV4『线路1』
+剧集_家有儿女,http://www.xzbn.site:35455/huya/11352872$LR•IPV4『线路2』
+剧集_武林外传,http://live.nctv.top/huya.php?id=21059598$LR•IPV4『线路1』
+剧集_武林外传,http://www.xzbn.site:35455/huya/21059598$LR•IPV4『线路2』
+剧集_地下交通站,http://live.nctv.top/huya.php?id=11342433$LR•IPV4『线路1』
+剧集_地下交通站,http://www.xzbn.site:35455/huya/11342433$LR•IPV4『线路2』
+剧集_邻里一家亲,http://live.nctv.top/huya.php?id=11342426$LR•IPV4『线路1』
+剧集_邻里一家亲,http://www.xzbn.site:35455/huya/11342426$LR•IPV4『线路2』
