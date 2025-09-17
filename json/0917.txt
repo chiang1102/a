@@ -1,0 +1,64 @@
+#EXTINF:-1 group-title="tvfix",翡翠台
+https://live.tvfix.org/live/jade/index.m3u8
+#EXTINF:-1 group-title="tvfix",TVB Plus
+https://live.tvfix.org/live/tvbplus/index.m3u8
+#EXTINF:-1 group-title="tvfix",无线新闻台
+https://live.tvfix.org/live/inews/index.m3u8
+#EXTINF:-1 group-title="tvfix",明珠台
+https://live.tvfix.org/live/pearl/index.m3u8
+#EXTINF:-1 group-title="tvfix",娱乐新闻台
+https://live.tvfix.org/live/enews/index.m3u8
+#EXTINF:-1 group-title="tvfix",凤凰中文
+https://live.tvfix.org/live/fhzw/index.m3u8
+#EXTINF:-1 group-title="tvfix",凤凰资讯
+https://live.tvfix.org/live/fhzx/index.m3u8
+#EXTINF:-1 group-title="tvfix",凤凰香港
+https://live.tvfix.org/live/fhxg/index.m3u8
+#EXTINF:-1 group-title="tvfix",CCTV-1高清
+https://live.tvfix.org/live/cctv1hd/index.m3u8
+#EXTINF:-1 group-title="tvfix",CGTN纪录高清
+https://live.tvfix.org/live/cgtndochd/index.m3u8
+#EXTINF:-1 group-title="tvfix",CGTN高清
+https://live.tvfix.org/live/cgtnhd/index.m3u8
+#EXTINF:-1 group-title="tvfix",中国电影频道
+https://live.tvfix.org/live/cmc/index.m3u8
+#EXTINF:-1 group-title="tvfix",东方卫视高清
+https://live.tvfix.org/live/dfhd/index.m3u8
+#EXTINF:-1 group-title="tvfix",18台赛马频道
+https://live.tvfix.org/live/c18/index.m3u8
+#EXTINF:-1 group-title="tvfix",28台AI智慧赛马频道
+https://live.tvfix.org/live/c28/index.m3u8
+#EXTINF:-1 group-title="tvfix",SUPER Kids Channel
+https://live.tvfix.org/live/kid/index.m3u8
+#EXTINF:-1 group-title="tvfix",ZooMoo
+https://live.tvfix.org/live/zoo/index.m3u8
+#EXTINF:-1 group-title="tvfix",Nickelodeon
+https://live.tvfix.org/live/niko/index.m3u8
+#EXTINF:-1 group-title="tvfix",Nick Jr
+https://live.tvfix.org/live/nickjr/index.m3u8
+#EXTINF:-1 group-title="tvfix",美亚电影台(粤语)
+https://live.tvfix.org/live/mydy/index.m3u8
+#EXTINF:-1 group-title="tvfix",天映经典
+https://live.tvfix.org/live/tyjd/index.m3u8
+#EXTINF:-1 group-title="tvfix",ROCK Action
+https://live.tvfix.org/live/rockac/index.m3u8
+#EXTINF:-1 group-title="tvfix",PopC
+https://live.tvfix.org/live/popc/index.m3u8
+#EXTINF:-1 group-title="tvfix",KIX
+https://live.tvfix.org/live/kix/index.m3u8
+#EXTINF:-1 group-title="tvfix",Love Nature HD
+https://live.tvfix.org/live/lovenature/index.m3u8
+#EXTINF:-1 group-title="tvfix",Global Trekker
+https://live.tvfix.org/live/trekker/index.m3u8
+#EXTINF:-1 group-title="tvfix",ROCK綜藝娛樂
+https://live.tvfix.org/live/rockzy/index.m3u8
+#EXTINF:-1 group-title="tvfix",AXN
+https://live.tvfix.org/live/axn/index.m3u8
+#EXTINF:-1 group-title="tvfix",TVBS亚洲台
+https://live.tvfix.org/live/tvbs/index.m3u8
+#EXTINF:-1 group-title="tvfix",創世頻道
+https://live.tvfix.org/live/chuangshi/index.m3u8
+#EXTINF:-1 group-title="tvfix",FashionBox
+https://live.tvfix.org/live/fashion/index.m3u8
+#EXTINF:-1 group-title="tvfix",Mezzo Live HD
+https://live.tvfix.org/live/mezzon/index.m3u8
