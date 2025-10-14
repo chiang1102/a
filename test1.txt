@@ -1,3 +1,4 @@
+hubei,https://smt.zzong6599.workers.dev/?id=hubei
 cctv1,https://oci.jamin.cloudns.asia/china.php?id=cctv1
 cctv2,https://oci.jamin.cloudns.asia/china.php?id=cctv2
 cctv3,https://oci.jamin.cloudns.asia/china.php?id=cctv3
