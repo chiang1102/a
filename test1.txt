@@ -1,4 +1,57 @@
-hubei,https://smt.zzong6599.workers.dev/?id=hubei
-cctv1,https://oci.jamin.cloudns.asia/china.php?id=cctv1
-cctv2,https://oci.jamin.cloudns.asia/china.php?id=cctv2
-cctv3,https://oci.jamin.cloudns.asia/china.php?id=cctv3
+#EXTM3U
+
+#简单优化下，感谢群主分享
+
+#EXTINF:-1 tvg-name="i網路-戴小白制作" group-title="i網路-戴小白制作" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV娱乐.png",i網路i網路-戴小白制作
+https://usiptv.esnad.dpdns.org/?id=cctvyl
+
+#EXTINF:-1 tvg-name="CCTV娱乐" group-title="长城平台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV娱乐.png",CCTV娱乐
+https://usiptv.esnad.dpdns.org/?id=cctvyl
+#EXTINF:-1 tvg-name="CCTV4" group-title="长城平台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png",CCTV4中文国际
+https://usiptv.esnad.dpdns.org/?id=cctv4
+#EXTINF:-1 tvg-name="海峡卫视" group-title="长城平台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png",海峡卫视
+https://usiptv.esnad.dpdns.org/?id=hxws
+#EXTINF:-1 group-title="长城平台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/中旺电视.png",中旺电视
+https://usiptv.esnad.dpdns.org/?id=zwds
+#EXTINF:-1 group-title="长城平台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/东森美洲.png",东森美洲新闻
+https://usiptv.esnad.dpdns.org/?id=dsmznews
+#EXTINF:-1 tvg-name="大湾区卫视" group-title="长城平台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png",大湾区卫视
+https://usiptv.esnad.dpdns.org/?id=dwqws
+#EXTINF:-1 group-title="长城平台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/KTSF26.png",KTSF26
+https://usiptv.esnad.dpdns.org/?id=ktfs26
+#EXTINF:-1 tvg-name="中国电影频道" group-title="长城平台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/中国电影频道.png",中国电影频道
+https://usiptv.esnad.dpdns.org/?id=zgdy
+#EXTINF:-1 group-title="长城平台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/东森美洲.png",东森美洲
+https://usiptv.esnad.dpdns.org/?id=dsmz
+#EXTINF:-1 group-title="长城平台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/加拿大600.png",加拿大600
+https://usiptv.esnad.dpdns.org/?id=canada600
+#EXTINF:-1 group-title="长城平台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/南美新闻.png",美南新闻
+https://usiptv.esnad.dpdns.org/?id=mnnews
+#EXTINF:-1 group-title="长城平台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/东森中国.png",东森中国
+https://usiptv.esnad.dpdns.org/?id=dszg
+#EXTINF:-1 group-title="长城平台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/东森超视美洲台.png",超视美洲
+https://usiptv.esnad.dpdns.org/?id=csmz
+#EXTINF:-1 group-title="长城平台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/凤凰卫视美洲台.png",凤凰卫视美洲台高清
+https://usiptv.esnad.dpdns.org/?id=fhmzhd
+#EXTINF:-1 group-title="长城平台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/凤凰卫视美洲台标清.png",凤凰卫视美洲台标清
+https://usiptv.esnad.dpdns.org/?id=fhmz
+#EXTINF:-1 tvg-name="TVBS" group-title="长城平台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/666-/iill-logo-mytvsuper/TVBS亚洲.png",TVBS亚洲台
+https://usiptv.esnad.dpdns.org/?id=tvbsasia
+#EXTINF:-1 tvg-name="TVBS新闻" group-title="长城平台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS新闻.png",TVBS新闻
+https://usiptv.esnad.dpdns.org/?id=tvbsnews
+#EXTINF:-1 tvg-name="浙江国际" group-title="长城平台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江国际.png",浙江国际
+https://usiptv.esnad.dpdns.org/?id=zjgj
+#EXTINF:-1 group-title="长城平台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/luoluowoaini/smt-logo/refs/heads/main/东方国际.png",东方国际
+https://usiptv.esnad.dpdns.org/?id=dfgj
+#EXTINF:-1 group-title="长城平台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽国际.png",安徽国际
+https://usiptv.esnad.dpdns.org/?id=ahgj
+#EXTINF:-1 tvg-name="深圳卫视" group-title="长城平台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png",深圳卫视
+https://usiptv.esnad.dpdns.org/?id=szws
+#EXTINF:-1 tvg-name="湖南国际" group-title="长城平台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南国际.png",湖南国际
+https://usiptv.esnad.dpdns.org/?id=hunanguoji
+#EXTINF:-1 tvg-name="北京国际" group-title="长城平台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京国际.png",北京国际
+https://usiptv.esnad.dpdns.org/?id=bjgj
+#EXTINF:-1 tvg-name="民视台湾台(免费)" group-title="长城平台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视台湾.png",民视台湾
+https://usiptv.esnad.dpdns.org/?id=mstw
+#EXTINF:-1 tvg-name="台视新闻" group-title="长城平台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视新闻.png",台视新闻
+https://usiptv.esnad.dpdns.org/?id=tsnews
