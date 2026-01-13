@@ -1,3 +1,1 @@
-海外線路,http://algomin.ydns.eu/ysp/ysp.php?cnlid=2024078201&livepid=600001859&defn=fhd&cdn=out
-阿里線路,http://algomin.ydns.eu/ysp/ysp.php?cnlid=2024078201&livepid=600001859&defn=fhd&cdn=ali
-騰訊線路,http://algomin.ydns.eu/ysp/ysp.php?cnlid=2024078201&livepid=600001859&defn=fhd&cdn=tx
+CCTV1,http://algomin.ydns.eu:6053/ysp?cnlid=2024078201&livepid=600001859&defn=fhd
