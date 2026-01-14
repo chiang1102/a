@@ -1,0 +1,20 @@
+# 使用官方 PHP 8.2 Apache 映像檔
+FROM php:8.2-apache
+
+# 設定工作目錄
+WORKDIR /var/www/html
+
+# 將當前目錄的檔案複製到容器內
+COPY . /var/www/html/
+
+# 啟用 Apache Rewrite 模組 (標準配置)
+RUN a2enmod rewrite
+
+# 使用正式環境的 PHP 設定 (提升效能)
+RUN mv "$PHP_INI_DIR/php.ini-production" "$PHP_INI_DIR/php.ini"
+
+# 調整權限 (雖然主要緩存已改至 /tmp，但這步是良好習慣)
+RUN chown -R www-data:www-data /var/www/html
+
+# 暴露 80 Port
+EXPOSE 80
