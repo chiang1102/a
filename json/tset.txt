@@ -1,1 +1,1 @@
-CCTV1,http://algomin.ydns.eu:6053/ysp?cnlid=2024078201&livepid=600001859&defn=fhd
+TEST,http://crassula.notescrassula.com/f7cae8c7be92b5afdff676e505a9abf6/055ec94bfbb158347143a74043b82ae509d0ac4f72bbf19a97aeafd764c8f294/ddb43a6ea6005212f582cf2409f5c969/index.m3u8
