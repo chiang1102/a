@@ -1,11 +1,5 @@
-CCTV16-4K,http://www.hkyc.site:1991/rtp/239.253.64.126:5140
-爱上4K,http://www.hkyc.site:1991/rtp/239.253.64.243:5140
-北京卫视4K,http://www.hkyc.site:1991/rtp/239.253.64.92:5140
-湖南卫视4K,http://www.hkyc.site:1991/rtp/239.253.64.60:5140
-浙江卫视4K,http://www.hkyc.site:1991/rtp/239.253.64.62:5140
-江苏卫视4K,http://www.hkyc.site:1991/rtp/239.253.64.61:5140
-东方卫视4K,http://www.hkyc.site:1991/rtp/239.253.64.63:5140
-山东卫视4K,http://www.hkyc.site:1991/rtp/239.253.64.65:5140
-四川卫视4K,http://www.hkyc.site:1991/rtp/239.253.64.64:5140
-深圳卫视4K,http://www.hkyc.site:1991/rtp/239.253.64.95:5140
-广东卫视4K,http://www.hkyc.site:1991/rtp/239.253.64.96:5140
+#EXTM3U
+#EXTINF:-1 tvg-name="HGTV", HGTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=143c537a533b4e53a7137703bc92c0f2:551cc5be6820a5b44d099dc7ace177f0
+https://drums-compliant-geo-cup.trycloudflare.com/hgtv
