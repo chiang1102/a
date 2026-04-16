@@ -1,5 +1,1 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="HGTV", HGTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=143c537a533b4e53a7137703bc92c0f2:551cc5be6820a5b44d099dc7ace177f0
-https://drums-compliant-geo-cup.trycloudflare.com/hgtv
+HGTV:https://tv6-98dl.midouer.mom:65443/live.m3u8?token=_luraUZKF&c=141
