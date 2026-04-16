@@ -1,1 +1,1 @@
-HGTV:https://tv6-98dl.midouer.mom:65443/live.m3u8?token=_luraUZKF&c=141
+HGTV,https://tv6-98dl.midouer.mom:65443/live.m3u8?token=_luraUZKF&c=141
