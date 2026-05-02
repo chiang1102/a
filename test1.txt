@@ -1,1 +1,2 @@
+test,https://ha.msbot.dpdns.org/ub.php?id=rx2/2777/12a7cea75470b6378c3dbdb8383c1450
 HGTV,https://tv6-98dl.midouer.mom:65443/live.m3u8?token=_luraUZKF&c=141
