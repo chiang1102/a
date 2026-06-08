@@ -17,6 +17,11 @@ https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/3j04z3pbit/out/v
 #KODIPROP:inputstream.adaptive.license_key=12413e2c2855cfc59ce0fe6b20cc71ca:08d55a8f5fc93a9375f9b0cb2e1739ca
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/2szrn2y3ep/out/v1/eacd8a4207dc4f0d9661a4b085b8fdd9/cenc.mpd
 
+#EXTINF:-1, Tnt 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=570c19f1be3410e4e409be4dc7923f2b:9a4dea8af2a2a703dffa8a477e9edc50
+https://otte-qw.live.pv-cdn.net/fra-nitro/live/clients/dash/enc/65ldy4ejuu/out/v1/69bc6b64f1c14e36bb21e0075a71d8ca/cenc.mpd
 
 #EXTINF:-1 tvg-name="九屏高清" tvg-logo="https://logo.catvod.com/九屏高清.png" group-title="🕘️4K测试",九屏高清
 http://118.79.115.129:6001/rtp/226.0.2.197:9488$山西联通
