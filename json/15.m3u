@@ -1,0 +1,20 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="彩虹R" group-title="哈TV18+",http://58.99.33.2:1935/liveedge2/jTaRmZfi_408_1/chunklist_w114642605.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-name="松視1台" group-title="哈TV18+",http://58.99.33.2:1935/liveedge2/jTaRmZfi_405_1/chunklist_w2097694717.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-name="松視2台" group-title="哈TV18+",http://58.99.33.2:1935/liveedge2/jTaRmZfi_406_1/chunklist_w1350191092.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-name="松視3台" group-title="哈TV18+",http://58.99.33.2:1935/liveedge2/jTaRmZfi_407_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-name="松視4台" group-title="哈TV18+",http://58.99.33.2:1935/liveedge2/jTaRmZfi_404_1/chunklist_w1221017520.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-name="玩家" group-title="哈TV18+",http://58.99.33.2:1935/liveedge2/jTaRmZfi_401_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-name="happy" group-title="哈TV18+",http://58.99.33.2:1935/liveedge2/jTaRmZfi_402_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-name="HOT" group-title="哈TV18+",http://58.99.33.2:1935/liveedge2/jTaRmZfi_403_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-name="乐活" group-title="哈TV18+",http://58.99.33.2:1935/liveedge2/jTaRmZfi_410_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-name="潘多拉完美" group-title="哈TV18+",http://58.99.33.2:1935/liveedge2/jTaRmZfi_411_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-name="潘多拉粉红" group-title="哈TV18+",http://58.99.33.2:1935/liveedge2/jTaRmZfi_412_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-name="惊艳电影台" group-title="哈TV18+",http://58.99.33.2:1935/liveedge2/jTaRmZfi_413_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-name="香蕉台" group-title="哈TV18+",http://58.99.33.2:1935/liveedge2/jTaRmZfi_414_1/chunklist_w452892769.m3u8?checkCode=37050688asdfsdfsadf&aa=60999&as=abcdefg&mmmm=&dr=123&dt=&cust_type=NE
+#EXTINF:-1 tvg-name="驚艷" group-title="哈TV18+",http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/85.ts
+#EXTINF:-1 tvg-name="潘朵拉完美" group-title="哈TV18+",http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+#EXTINF:-1 tvg-name="香蕉" group-title="哈TV18+",http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+#EXTINF:-1 tvg-name="松視1台" group-title="哈TV18+",http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+#EXTINF:-1 tvg-name="松視2台" group-title="哈TV18+",http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+#EXTINF:-1 tvg-name="松視3台" group-title="哈TV18+",http://15.204.105.50:25461/live-G2s9zK2n9m/xDtwVfWM8T/90.ts
