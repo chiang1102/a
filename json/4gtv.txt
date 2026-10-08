@@ -74,7 +74,6 @@ parse=1
 115 幸福空間居家台,https://www.4gtv.tv/channel/4gtv-live206?set=1&ch=168
 116 Love Nature,https://www.4gtv.tv/channel/4gtv-live208?set=1&ch=139
 117 History 歷史頻道,https://www.4gtv.tv/channel/4gtv-live026?set=1&ch=214
-118 MagellanTV頻道,https://www.4gtv.tv/channel/4gtv-live026?set=1&ch=450
 120 愛爾達生活旅遊台,https://www.4gtv.tv/channel/4gtv-live120?set=1&ch=237
 121 LUXE TV Channel,https://www.4gtv.tv/channel/4gtv-live121?set=1&ch=175
 122 TV5MONDE STYLE HD 生活時尚,https://www.4gtv.tv/channel/4gtv-live122?set=1&ch=178
